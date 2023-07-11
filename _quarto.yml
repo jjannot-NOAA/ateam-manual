@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _book
+
+website:
+  title: "FMA Analytical Services Team Manual"
+  # author: "Jason Jannot"
+  # date: last-modified
+  description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
+
+  page-footer:
+    left: |
+      <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
+  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/manual/
+  repo-actions: [edit,issue]
+
+  navbar:
+    left:
+      - index.qmd
+      - 01-intro-how-we-work.qmd
+    # - 02-culture-philosophy.qmd
+    # - 03-code-of-conduct.qmd
+    # - 04-onboarding.qmd
+    # - 05-expectations.qmd
+    # - 06-offboarding.qmd
+    # - 07-communication.qmd
+    # - 08-computing.qmd
+    # - 09-resources.qmd
+
+# not sure what the following line does; those files are present
+bibliography: [references.bib]
+

@@ -1,0 +1,48 @@
+---
+bibliography: references.bib
+---
+
+# Introduction {#intro}
+
+<!-- We do rigorous quantitative science to support decision-making for living marine resource management. We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\ -->
+
+<!-- Our quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options. -->
+
+See **INSERT SECTION** for more detail on our culture and philosophy. We are motivated heavily by **INSERT MOTIVATIONAL REFERENCES** - which provide a blueprint for how we think about the way we do our work:
+
+\[To come: recommended reading list\]
+
+## How we meet
+
+Currently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions made, and outline action items during these meetings. 
+
+We each have individual in-person meetings with Jason.    
+Each  member is responsible for documenting their 1:1 meetings with Jason, including tracking decisions and action items for themselves. Jason is happy to collaborate in Google Docs with individuals if that is their desire.
+
+## How we give feedback
+
+Feedback, both giving and receiving it, is an important aspect of our team. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.
+
+This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback.
+
+## How we share things (and send them to Gavin)
+
+We think it is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.
+
+Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).
+
+Project management tools in Github are a good way to record and document questions on analyses. Use 'Issues' on github repositories for project-related tasks and problems. Alternatively, make use of a GoogleDoc for each project to record this history, much like you would a team notebook.
+
+Code: can be shared via Github repositories, or via a dedicated Google Drive folder. For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared.
+
+Writing: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no "mythesis.doc").
+
+We also share our institutional knowledge through our team-chat github 'issues' repository. This is a community-driven troubleshooting resource, please contribute!
+
+We maintain a team Google Drive folder for team publications, presentations, photos, CVs, etc. Please make use of these so that others in the team can make fair use of our work.
+
+## Shared team resources
+
+Where to find shared resources: - Google Drive - You will be given access to the shared drive during onboarding, take a look at the team Meetings folder to find team Meeting Notes for each semester (previously called the Supercharge Plan) - GitHub - thefaylab is the shared GitHub account for the team - team-manual - This repository contains the team manual, see section \ref{#umassd-resources} for other useful resources and take a look at the [Wiki](https://github.com/thefaylab/lab-manual/wiki/Lab-Meeting-Schedule) to see the team meeting schedule - team-chat - This repository contains shared institutional knowledge for the Fay lab, take a look at Issue #22 for Zoom meeting links - Website - Take a look at the lab website, most of its information is duplicated in one of the above resources: <http://www.smast.umassd.edu/lab_fay/>
+
+## References

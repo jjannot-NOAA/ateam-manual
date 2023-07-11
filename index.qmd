@@ -1,0 +1,16 @@
+# Welcome![^1]
+
+
+<br> This is the manual for the Analytical Services Team in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center[^2].</br>
+
+The focus of our work centers on providing scientific products to support the management of marine commercial fisheries.
+
+This manual resource is intended to provide an overview for A-Team members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Jason (jason.jannot\@noaa.gov) or make a pull request.
+
+
+[^1]:This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.
+
+[^2]:Jeepers! That's a lot.  Let's just abbreviate:
+<br>   *A-Team* = Analytical Services Team    
+   *FMA* = Fisheries Monitoring and Analysis Division    
+   *AFSC* = Alaska Fisheries Science Center</br>
