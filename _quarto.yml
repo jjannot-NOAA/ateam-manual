@@ -1,35 +1,54 @@
+
 project:
   type: website
-  output-dir: _book
+  output-dir: _site
+
+links:
+  - label: <i class="fab fa-github fa-lg"></i> GitHub
+    url: "https://github.com/jjannot-NOAA"
 
 website:
-  title: "FMA Analytical Services Team Manual"
-  # author: "Jason Jannot"
-  # date: last-modified
-  description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
-
-  page-footer:
-    left: |
-      <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a>
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  title: FMA A-Team Manual
+  # back-to-top-navigation: true
   site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
-  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/manual/
+  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
   repo-actions: [edit,issue]
+  favicon: FMAnalytics_logo_pic.png
+
 
   navbar:
-    left:
-      - index.qmd
-      - 01-intro-how-we-work.qmd
-    # - 02-culture-philosophy.qmd
-    # - 03-code-of-conduct.qmd
-    # - 04-onboarding.qmd
-    # - 05-expectations.qmd
-    # - 06-offboarding.qmd
-    # - 07-communication.qmd
-    # - 08-computing.qmd
-    # - 09-resources.qmd
+    tools:
+      - icon: house-door-fill
+        href: index.qmd
+      - icon: github
+        href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/"
+
+    right:
+      - text: Intro
+        href: 01-intro.qmd
+      - text: Mission
+        href: 02-mission-goals.qmd
+      - text: Conduct
+        href: 03-code-of-conduct.qmd
+      - text: Onboard
+        href: 04-onboarding.qmd
+      - text: Roles
+        href: 05-roles-responsibilities.qmd
+      - text: Comms
+        href: 06-communication.qmd
+      - text: Computing
+        href: 07-computing.qmd
+      - text: Offboard
+        href: 08-offboarding.qmd
+      - text: Resources
+        href: 09-resources.qmd
 
 # not sure what the following line does; those files are present
 bibliography: [references.bib]
 
+page-footer:
+    background: light
+    left: |
+      <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.

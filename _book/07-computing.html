@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>FMA Analytical Services Team Manual</title>
+<title>FMA Analytical Services Team Manual – computing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,8 +79,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
- <span class="menu-text">Welcome!<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></span></a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Welcome![^1]</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./01-intro.html">
@@ -106,26 +106,62 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="welcome1" class="level1">
-<h1>Welcome!<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></h1>
-<p><br> This is the manual for the Analytical Services Team in the Fisheries Monitoring and Analysis Division at NOAA’s Alaska Fisheries Science Center<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.<br></p>
-<p>The focus of our work centers on providing scientific products to support the management of marine commercial fisheries.</p>
-<p>This manual resource is intended to provide an overview for A-Team members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Jason (jason.jannot@noaa.gov) or make a pull request.</p>
+<section id="computing" class="level1">
+<h1>Computing resources</h1>
+<p>Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software <code>R</code> for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is <code>TMB</code> and/or <code>ADMB</code>, as these <code>C++</code> template languages are the basis for many statistical population dynamics models in fisheries stock assessment).</p>
+<p>Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.</p>
+<section id="overview-of-computing-at-umassd" class="level2">
+<h2 class="anchored" data-anchor-id="overview-of-computing-at-umassd">Overview of Computing at UMassD</h2>
+<p>As a student of UMass Dartmouth, the Computing and Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your UMass login and access the UMassD portal can be found on the <a href="https://www.umassd.edu/cits/newstudent/">New Students UMassD CITS webpage</a>. A list of available programs and licensed software can be found on the <a href="https://www.umassd.edu/cits/software/">Software Licensing page</a>.</p>
+</section>
+<section id="smast-computing-facilities" class="level2">
+<h2 class="anchored" data-anchor-id="smast-computing-facilities">SMAST computing facilities</h2>
+<p>Once you are set up with your UMass login, you will need to submit an SMAST IT Access Request Form to gain access to the SMAST Server. This form can be found under the SMAST Occupants page, Information Technology section through the UMassD portal. If you have additional questions or issues, you can email SMAST IT through <a href="mailto:smastsupport@umassd.edu">smastsupport@umassd.edu</a>.</p>
+</section>
+<section id="administrator-privileges" class="level2">
+<h2 class="anchored" data-anchor-id="administrator-privileges">Administrator Privileges</h2>
+<p>As your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator.</p>
+</section>
+<section id="remote-meetings-via-zoom" class="level2">
+<h2 class="anchored" data-anchor-id="remote-meetings-via-zoom">Remote meetings via Zoom</h2>
+<p>UMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license. Information on how to set this up can be found <a href="https://instructionaldev.umassd.edu/zoom/">here</a>.</p>
+</section>
+<section id="collaborative-software" class="level2">
+<h2 class="anchored" data-anchor-id="collaborative-software">Collaborative software</h2>
+<p>For writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al.&nbsp;paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a Google Drive folder.</p>
+</section>
+<section id="backups-and-set-up-to-lab-storage-server" class="level2">
+<h2 class="anchored" data-anchor-id="backups-and-set-up-to-lab-storage-server">Backups and set up to Lab storage server</h2>
+<p>The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g.&nbsp;through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. For information on logging on and accessing this, see information provided on a <a href="https://github.com/thefaylab/lab-chat/issues/5">GitHub issue</a></p>
+</section>
+<section id="learnr" class="level2">
+<h2 class="anchored" data-anchor-id="learnr">Introductory R learning resources</h2>
+<p>Welcome to <code>R</code>! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! To get you set up and started, <a href="https://happygitwithr.com/">Happy Git and Github for the useR</a> is a great resource, and is created by the same authors as the now-legendary <a href="stat545.com">stat545.com</a> course. Their resources are extremely comprehensive and they have a fantastic Intro R course, especially for those who will be using R for doing statistics.</p>
+<p>Right now, we REALLY like <a href="https://rstudio-conf-2020.github.io/r-for-excel/">this short intro course</a> by <a href="https://twitter.com/juliesquid"><code>@juliesquid</code></a> &amp; <a href="https://twitter.com/allisonhorst"><code>@allisonhorst</code></a>. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.</p>
+<p>We also really like:</p>
+<ul>
+<li><a href="https://tinystats.github.io/teacups-giraffes-and-statistics/index.html">Teacup Giraffes</a> R and statistics materials from Desirée De Leon and Hasse Walum.<br>
+</li>
+<li><a href="https://datasciencebox.org">Data Science in a Box</a> course by Mine Çetinkaya-Rundel, and</li>
+<li><a href="https://www.adventures-in-r.com/">Adventures in R</a> by Kelly Bodwin.</li>
+</ul>
+<p>If you want a book to work from/through, <a href="r4ds.had.co.nz">R for Data Science</a> is highly recommended. (book is free online)</p>
+<p>The <a href="https://education.rstudio.com/">R Studio Education</a> team have assembled a phenomenal array of courses, tutorials, and other materials for learning R, and for many types of data analyses and modeling using R. These are top notch and so thoughtfully put together. There is something for learners at all levels.</p>
+<p>A plug for the online R community. Follow the hashtag #rstats, &amp; also check out accounts <a href="https://twitter.com/RLadiesGlobal"><code>@RLadiesGlobal</code></a> &amp; <a href="https://twitter.com/R4dsCommunity"><code>@R4dsCommunity</code></a>. The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!</p>
+<p>The R4dsCommunity Slack is a briliant resource for getting help to your R questions and finding tutorials. They also hold online Office Hours where you can get help with R from a real human.</p>
+<p>The <a href="https://community.rstudio.com/">RStudio Community</a> is a great go-to.</p>
+<p>Learn R from within R with interactive sessions using <a href="swirlstats.com">swirlstats.com</a>.</p>
+<p>The <a href="https://datacarpentry.org/R-ecology-lesson/">carpentries R lessons</a> are also a fab resource.</p>
+</section>
+<section id="tmb-and-admb" class="level2">
+<h2 class="anchored" data-anchor-id="tmb-and-admb">TMB and ADMB</h2>
+<p>[resources detail]</p>
 
 
 </section>
+</section>
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Jeepers! That’s a lot. Let’s just abbreviate: <br> <em>A-Team</em> = Analytical Services Team<br>
-<em>FMA</em> = Fisheries Monitoring and Analysis Division<br>
-<em>AFSC</em> = Alaska Fisheries Science Center<br><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
