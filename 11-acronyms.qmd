@@ -7,6 +7,7 @@ The US Government is absolutely slaphappy about acronyms.
 |AFSC|Alaska Fisheries Science Center|
 |AMMOP|Alaska Marine Mammal Observer Program|
 |A-Team|FMA Analytical Services Program|
+|CAC|Common Access Card, a.k.a., your "ID badge"|
 |DD|Division Director|
 |FMA|Fisheries Monitoring and Analysis Division|
 |M-Team|FMA Management Team = DD, Deputy Director, Debriefing PM, Training PM, Analytical Services PM|
@@ -14,6 +15,7 @@ The US Government is absolutely slaphappy about acronyms.
 |OOO|Out Of Office|
 |PM|Program Manger|
 |PSMFC|Pacific States Marine Fisheries Commission (coloquially, PacStates)|
+|WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|
 
 
 

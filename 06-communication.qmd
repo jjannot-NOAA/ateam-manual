@@ -1,2 +1,113 @@
 # Communication {#communication}
 
+There is a plethora of communication methods and technologies.  However, the communication tool should be chosen based on the purpose of the communication.  The purpose of this document is to explain how communication tools differ so that the tool used is appropriate given the topic(s) and timelines. 
+
+## Email
+
+**Topics**: Single topics requiring little/no context, explanation, or discussion    
+**Time**:    
+
+  * Immediate action is not required and/or;    
+  * Discussion is very limited or unnecessary and/or;    
+  * Completion time is not pressing    
+
+**Tone**: It can be very difficult to get the right tone in an email. Sometimes it’s worthwhile to write the email but delay sending it. Then go back and check the tone after taking a pause.    
+**Pros**: Creates a record    
+**Cons**: Can be slow, lost, ignored    
+**Tracking**: Formally captured in writing - creates a record    
+**Uses**:    
+
+  * Simple requests for a single action or, at most, a few closely related actions    
+  * Short summary of a single topic    
+  * Routine tasking    
+  * Follow-up summaries from video calls/FTF/phone calls    
+
+**Consider**: moving to a video call/FTF or phone call if the email chain goes back and forth more than a few times or in-depth discussion is necessary.
+
+## Video call/Face-To-Face Meeting (FTF)
+**Topics**: Sensitive, complex, or multiple topics    
+**Time**: Lengthy discussion necessary; actions or responses will be discussed    
+**Tone**: Voice inflection, body language and body posture can be distorted or hidden by the tech. Eye contact can be misinterpreted, misleading, or absent.    
+**Pros**: Can screen share/show    
+**Cons**: Requires some planning    
+**Tracking**: No formal tracking - requires participants to take notes; Video calls can be recorded.    
+**Use**:    
+
+  * To collaborate with team members    
+  * To build rapport and relationships    
+  * To provide or receive feedback    
+  * To provide or receive coaching    
+  * For instructional/side-by-side training/teaching    
+  * When there are multiple participants    
+  * When screen sharing/showing is needed    
+  
+**Consider**: using other methods for simple updates that are informational only and require no response.
+
+## Chat
+**Topics**: Single, non-sensitive topics    
+**Time**:    
+
+  * Immediate response is necessary, requested or implied
+  * Discussion is very limited or unnecessary
+  * Very simple responses expected    
+
+**Tone**: Fast pace can lead to misunderstandings of tone and intent, similar to email.    
+**Pros**: Fast    
+**Cons**:    
+
+  * No record created    
+  * Limited ability to engage in depth    
+  * Links to files will be lost if history is turned off    
+
+**Tracking**: No formal tracking - requires participants to take notes or screen shots.    
+**Use**:    
+
+  * To ask simple questions    
+  * To check-in for current/near-future availability     
+  * Share informational link    
+  * Real-time discussion among team during formal meetings, e.g., FMAC, PCFMAC, Council, etc. - though discussion will be limited    
+
+**Consider**: moving lengthy discussions to a video call or FTF.
+
+## Phone 
+**Topics**: Sensitive or complex topics    
+**Time**:    
+
+  * Immediate response or action is necessary    
+  * Discussion could be lengthy    
+  * Completion time is pressing    
+
+**Tone**: Voice inflection can be distorted, lost or misinterpreted due to tech; requires careful listening and voice control.    
+**Pros**: Can address time sensitive issues quickly    
+**Cons**: No screen show/share, body language missing    
+**Tracking**: No formal tracking - requires participants to take notes    
+**Use**:    
+
+  * Emergencies    
+  * Urgent, time sensitive requests    
+  * Contact necessary during off-hours or off-days    
+  * When video call/FTF is not possible but topics are sensitive or complex    
+  * Quick topics that are time sensitive    
+  
+**Consider**: following up with an email summary of the conversation
+
+## Mobile Text/SMS
+**Topics**: Extremely time sensitive    
+**Time**:    
+
+  * Immediate response or action is necessary
+  * No discussion
+  * Very simple responses expected    
+
+**Tone**: Fast pace can lead to misunderstandings of tone and intent, similar to email and chat.    
+**Pros**: Can address time sensitive issues quickly    
+**Cons**: No screen show/share    
+**Tracking**: Creates a record, but there might be limits and constraints    
+**Use**:    
+
+  * Emergencies    
+  * Urgent, time sensitive requests    
+  * Necessary contact during off-hours or off-days    
+  * To check-in for current/near-future availability    
+  
+**Consider**: moving to another method as soon as practicable.

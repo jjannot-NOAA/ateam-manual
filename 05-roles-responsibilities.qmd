@@ -1,7 +1,11 @@
 # Expectations {#expectations}
 
 ## Availability
-Being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 5 pm), or on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, A-Team members will not be penalized for sending communication during these times.
+* Core hours for the AFSC are 9:30 am to 2:30 pm, T,W,R.    
+* A-Team members are encouraged to work in the office on one or more of these days.    
+* Core hours do not apply on Monday or Friday.
+
+You are **not** expected to be available 24/7. Similarly, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, A-Team members will not be penalized for sending communication outside normal working hours.
 
 ## Google
 ### G-Mail
@@ -46,7 +50,7 @@ The Program Manager will (at a minimum) provide the A-Team with:
 * Prioritization & Gate-keeping  
 * Accountability    
 * Visibility & Public Recognition    
-* Removing Obstacles    
+* Overcoming Barriers    
 * Timely Administrative Support
 
 In addition to the above, the Program Manager will (at a minimum) provide individual team members with:  
@@ -69,13 +73,15 @@ In addition to the above, the Program Manager will (at a minimum) provide indivi
 
 A-Team members will (at minimum): 
 
+* work to produce the best science, given the constraints    
 * share knowledge, experience, code, and time with other team members
 * adopt a collaborative working mindset    
 * adapt and be flexible, within reason    
 * communicate clearly and effectively with team members and Program Manager
-* communicate both successes and sticking points on a regular basis with the PM 
+* communicate both successes and sticking points on a regular basis with the PM    
+* contribute to creating a positive, inclusive, and safe work culture
 
-In addition, team members should remember that we are a government agency which means we serve the people of the United States.  Adopting a service mindset when approaching each other, stakeholders, partners, and collaborators will magnify our positive impacts on commercial fishing and the wider world. Remember, service is the 2^nd^ of the three NOAA mission's: [Science, **Service**, Stewardship](https://www.noaa.gov/our-mission-and-vision).
+Remember, as a government agency, we serve the people of the United States and service is 1/3^rd^ of [NOAA's mission](https://www.noaa.gov/our-mission-and-vision). Adopting a service mindset when approaching each other, stakeholders, partners, and collaborators will magnify our positive impacts on marine ecosystems, commercial fishing, and the wider world.
 
 Some ways to adopt a service mindset:    
 
@@ -84,18 +90,6 @@ Some ways to adopt a service mindset:
 * Serve as a resource for other members of the A-Team    
 * Nominate your peers for their hard work and achievements - [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards).
 * Participate in outreach activities
-
-
-Project assignment will be a discussion between individuals and the PM, with input from the A-Team when necessary/appropriate. Specific individual projects, deliverables, duties will be reflected on [individual Performance Plans](04-onboarding.qmd#sec-perf). Other duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
-
-* leading and assisting in designated research projects  
-* participation in professional development opportunities  
-* developing and submitting research funding proposals  
-* submitting and publishing NOAA Technical Memorandum and other reports    
-* submitting and publishing peer-reviewed journal articles
-* participating in outreach activities    
-* attending scientific and professional conferences
-
 
 ## Team Collaboration and Communication
 

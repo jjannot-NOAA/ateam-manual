@@ -43,12 +43,13 @@ You will access your timesheets through the [GovTA](https://docwebta.eas.commerc
 
 You should:
   
-* work with Jason to set your work schedule
+* work with Jason to set your work schedule    
+* familiarize yourself with the defintions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
 * fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
 * fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
 * fill out a Telework Application Routing form
-* take the CLC Telework Training
-    
+* take the CLC Telework Training    
+
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
   [Time and Attendance Resouces](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
@@ -65,19 +66,30 @@ Forms and information can be found on the [myAFSC Time and Attendance page](http
   
 ## Performance {#sec-perf}
 
-Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.  The exact set of responsibilities, projects, deliverables, and duties will be clearly defined agreed on in your Performance Plan.
+Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.    
+
+Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
+
+* leading and assisting in designated research projects  
+* participation in professional development opportunities  
+* developing and submitting research funding proposals  
+* submitting and publishing NOAA Technical Memorandum and other reports    
+* submitting and publishing peer-reviewed journal articles
+* participating in outreach activities    
+* attending scientific and professional conferences
 
 More about the performance process can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps).
 
 The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards) lists the many ways you can be recognized and awarded for your achievements as well as opportunities to nominate your peers for their hard work.  
 
+
 ## Facilities
 
-AFSC buildings on the Seattle Sand Point Campus are only accessible with a CAC during work hours.
+AFSC buildings on the Seattle Sand Point Campus (a.k.a. [Western Regional Center \[WRC\]](https://www.wrc.noaa.gov/)) are only accessible during work hours and with a CAC.
 
 ### Office space
 
-Our physical offices are in Building 4 of the Seattle Sand Point Campus.    
+Our physical offices are in Building 4 of the WRC.    
 The following are FMA A-Team (and affiliated staff) office numbers:    
 
 * 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)

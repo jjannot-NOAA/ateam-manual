@@ -1,53 +1,84 @@
-date: last-modified
-description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
-
 project:
-  type: website
+  type: book
   output-dir: _site
+
+book:
+  title: FMA A-Team Manual
+  date: last-modified
+  search: true
+  description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
+  site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
+  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
+  repo-actions: [edit,issue]
+  downloads: [pdf, epub]
+  favicon: FMAnalytics_logo_pic.png
+  tools:
+    - icon: github
+      href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/"
+  chapters:
+    - text: Home
+      href: index.qmd
+    - 01-intro.qmd
+    - 02-mission-goals.qmd
+    - 03-code-of-conduct.qmd
+    - 04-onboarding.qmd
+    - 05-roles-responsibilities.qmd
+    - 06-communication.qmd
+    #- 07-computing.qmd
+    - 08-projects.qmd
+    - 09-offboarding.qmd
+    - 10-resources.qmd
+    - 11-acronyms.qmd
+  appendices:
+    - text: Jason's Philosophy
+      href: 999-jjphilosophy.qmd
+    - text: Make Your Calendar Visible
+      href: 999-make-calendar-visible.qmd
+
+
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: cyborg
+    toc: true
+    toc-location: right
+    number-depth: 0
+
 
 links:
   - label: <i class="fab fa-github fa-lg"></i> GitHub
     url: "https://github.com/jjannot-NOAA"
 
-format:
-  html:
-    toc: true
-    toc-location: left
+# website:
+# #   title: FMA A-Team Manual
+# #   site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
+# #   repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
+# #   repo-actions: [edit,issue]
+# #   favicon: FMAnalytics_logo_pic.png
 
-website:
-  title: FMA A-Team Manual
-  site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
-  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
-  repo-actions: [edit,issue]
-  favicon: FMAnalytics_logo_pic.png
-  navbar:
-    title: false
-    left:
-        - text: Intro
-          href: 01-intro.qmd
-        - text: "Big Picture"
-          href: 02-mission-goals.qmd
-        - text: Conduct
-          href: 03-code-of-conduct.qmd
-        - text: Onboard
-          href: 04-onboarding.qmd
-        - text: Roles
-          href: 05-roles-responsibilities.qmd
-        - text: Comms
-          href: 06-communication.qmd
-        - text: Computing
-          href: 07-computing.qmd
-        - text: Projects
-          href: 08-projects.qmd
-        - text: Offboard
-          href: 09-offboarding.qmd
-        - text: Resources
-          href: 10-resources.qmd
-    tools:
-      - icon: house-door-fill
-        href: index.qmd
-      - icon: github
-        href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/"
+navbar:
+  title: FMA A-Team
+  left:
+    - text: Intro
+      href: 01-intro.qmd
+    - text: "Big Picture"
+      href: 02-mission-goals.qmd
+    - text: Conduct
+      href: 03-code-of-conduct.qmd
+    - text: Onboard
+      href: 04-onboarding.qmd
+    - text: Roles
+      href: 05-roles-responsibilities.qmd
+    - text: Comms
+      href: 06-communication.qmd
+    - text: Projects
+      href: 08-projects.qmd
+    - text: Offboard
+      href: 09-offboarding.qmd
+    - text: Resources
+      href: 10-resources.qmd
 
 bibliography: [references.bib]
 

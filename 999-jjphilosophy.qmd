@@ -1,19 +1,3 @@
-# Make G-Calendar Visible {#sec-calendar}
-1.	On left side find your calendar and hover to get the 3 dots
-
-![](_img/_gcalendar/pic1.png)
-
-2.	Click settings and sharing
-
-![](_img/_gcalendar/pic2.png)
- 
-3.	Make sure to check “Make available for National Oceanic and Atmospheric Administration” and select “See all event details” in the drop down.
-
-![](_img/_gcalendar/pic3.png)
-
- 
-That should do it.
-
 # Jason Jannot's Leadership Philosophy {#sec-jj-philosophy}
 
 Jason's philosophy is that the best leaders are capable of adjusting their leadership style depending on the situation, their team, and the needs of particular projects. The best thing a leader can do is to identify the needs of their team to support them in a way that allows them to thrive.
