@@ -4,19 +4,20 @@ bibliography: references.bib
 
 # Introduction {#intro}
 
-<!-- SAY SOMETHING HERE ABOUT OUR GENERAL WORK GOALS AND ETHOS -->
+The FMA Analytical Services Team adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-<!-- We do rigorous quantitative science to support decision-making for living marine resource management. We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\ -->
+In short, our mission is...**INSERT SUMMARY OF MISSION FROM [HERE](02-mission-goals.qmd#sec-big-picture)**
 
-<!-- Our quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options. -->
+See [The Big Picture](02-mission-goals.qmd#sec-big_picture) section for more detail on our culture and philosophy.
 
-See [Mission and Goals](02-mission-goals.qmd#sec-mission-and-goals) section for more detail on our culture and philosophy. We are motivated heavily by **INSERT MOTIVATIONAL REFERENCES** - which provide a blueprint for how we think about the way we do our work:
+We are motivatedby... **INSERT MOTIVATIONAL REFERENCES**...:
 
-\[To come: recommended reading list\]
+<!-- *\[To come: recommended reading list\]* -->
 
 ## How we meet
 
-### Team Meeting: semimonthly Thursdays, 1000 PT, Google Meet
+### A-Team Meetings
+#### semimonthly Thursdays, 1000 PT, Google Meet
 Currently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions made, and outline action items during these meetings. 
 
 ### 1:1 with Jason
@@ -25,44 +26,35 @@ Each  member is responsible for documenting their 1:1 meetings with Jason, inclu
 
 ## How we give feedback
 
-Feedback, both giving and receiving it, is an important aspect of our team. We expect feedback to be supportive but constructive. Feedback we give and receive can come in a variety of places and times, including but not limited to: during brainstorming in meetings; reviews of code or written documents; during practice talks; at post-project/post-meeting debriefs. 
+Feedback, both giving and receiving it, is an important aspect of our team. We expect feedback to be supportive but constructive. Feedback we give and receive can come in a variety of places and times, including but not limited to, during: brainstorming sessions; meetings; reviews of code or written documents; practice talks; post-project/post-meeting debriefs; 1:1's with Jason. 
 
-This [resource from UBC](https://scwrl.ubc.ca/stem-writing-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback.
+This [resource from UBC](https://scwrl.ubc.ca/stem-writing-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) outlines best practices for giving and receiving feedback.
 
 ## How we share things
 
 We think it is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide. The most important principle is to make it easier for others and your future self!    
 
-* Share
-  * Code: [Github](https://github.com/Alaska-Fisheries-Monitoring-Analytics) (preferred), Google Docs
-  * Docs: Rmarkdown (preferred), Google Docs, or MSWord
+* Mechanisms for Sharing
+  * Code: Github (preferred), Google Docs    
+    * GitHub account: [Alaska Fisheries Monitoring Analytics](https://github.com/Alaska-Fisheries-Monitoring-Analytics)    
+  * Docs: Rmarkdown (preferred), Google Docs, or MSWord    
+    * [A-team Manual](https://github.com/Alaska-Fisheries-Monitoring-Analytics/ateam-manual)    
+  * Network Drives    
+    * `Y://Programs Share/FMA_Observers/Observer/A is for ANALYSIS/`    
+    * Google Drive: `FMA Analysis Group` <font size="1.5"> (request access) </font>
+  * FMAnalytics G-Chat Space    
+  * project specific G-Chat Spaces (e.g., SASH, ADP)    
+  * Github Issues    
 * When sharing make sure to describe what you are sharing    
-* Use a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. (here is [is a good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/) see also *Good enough practices in scientific computing* [@wilson2017])    
+* A project-based approach to organizing your work makes it easier to share and solicit feedback from others    
+  * here is [is a good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/)    
+  * see also *Good enough practices in scientific computing* [@wilson2017])   
 * Keep only 1 working instance    
 * Use Github or other version control    
 * Document Q&A, e.g., by using Github Issues    
   * alternatively use Google Docs to track project history    
-* Create minimal reproducible example, aka [repex](https://stackoverflow.com/help/minimal-reproducible-example)    
-* Share code via Github or Google Docs    
-
-Other Mechanisms for Sharing    
-
-* FMAnalytics G-Chat Space    
-* project specific G-Chat Spaces (e.g., SASH, ADP)    
-* Github Issues
-
-<!-- **We maintain a team Google Drive folder for team publications, presentations, photos, CVs, etc. Please make use of these so that others in the team can make fair use of our work**. -->
-
-## Shared team resources
-
-Where to find or share resources:<br>
-<!-- - Google Drive - **You will be given access to the shared drive during onboarding, take a look at the team Meetings folder to find team Meeting Notes for each semester (previously called the Supercharge Plan) **     -->
-
-* Shared network drive: `Y:Programs Share/FMA_Observers/Observer/A is for ANALYSIS/`    
-* GitHub - The A-Team has a shared GitHub account: Alaska Fisheries Monitoring Analytics    
- A-team Manual - This repository contains the team manual
-* FMAnalytics chat - This repository contains shared institutional knowledge for the A-Team</br>
-
-See the [Resources](09-resources.qmd#resources) section for other useful resources 
+  * create a minimal reproducible example, aka [repex](https://stackoverflow.com/help/minimal-reproducible-example)    
+  
+See the [Resources](10-resources.qmd#resources) section for other useful resources 
 
 ## References

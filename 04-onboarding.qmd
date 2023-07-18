@@ -1,54 +1,129 @@
 # Onboarding {#onboarding}
 
-Welcome to the Fay Lab at UMass Dartmouth!
+Welcome to the FMA A-Team!
 
-![](img/forestgump.gif)
+![](200.webp)
 
-Here are some resources to help you get settled into the Lab.  
+Here are some resources to help you get settled.  
 
-Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!  
+Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
 
-If you are already a student, post-doc, or researcher we hope these resources prove useful as well.  
+[AFSC Onboarding Checklist for Federal and Non-Federal Staff](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view?usp=sharing)
 
-## MyUMassD SMAST Occupants page
+The [New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI) Google Drive folder has many good resources.
 
-SMAST related resources, forms, policies, procedures, calendars, as well as job aids are housed on the [SMAST Occupants](https://my.umassd.edu/group/smast-occupants) page of your [myUMassD](https://my.umassd.edu) portal. For everyone in the SMAST community, a link to the SMAST Occupants page will appear under the "MyUMassD Sites" list on the right-hand side of the myUmassD landing page (if this is not visible to you, let Ashleigh know).  
+## CAC
+A CAC will give you access to buildings and computer systems.  It is the necessary first step to getting started.
 
-## New employee and student onboarding checklists
-[A work in progress.](https://docs.google.com/document/d/1ETgvSJ2ccryVKiEFZPPxgGKP50OxAyPuXed-eNCgQd8/edit?usp=sharing)
+### Get a New CAC
+CAC cards are only issued at Defense Department authorized locations (referred to as "RAPIDS" offices) and may or may not be associated with a NOAA facility.  For AFSC staff, the following locations are the closet RAPIDS stations.  
 
-* [IT Help](https://www.umassd.edu/cits/help/) for new students and staff/faculty
-- Here, you can navigate to the "Are you new?" section and select either student or staff. 
+1. Seattle staff = WRC building 1, site ID 105831 (phone: 206-526-6571)
 
-## Individual Development/Mentoring plans
+2. Juneau staff = Federal Bldg, site 102444 (phone: 907-463-2170)
 
-Within the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter \@ref(expectations).
+### Renew a CAC
+ See the [CAC Renewal page](https://sites.google.com/noaa.gov/myafsc/administrative/security/cac-renewal) on MyAFSC
+ 
+## IT
+ On the first day, an A-Team member (likely Jason), will bring you to OFIS to:  
+  
+  * get computer equipment
+  * set-up accounts (including an Oracle database account)
+  * get logged into NOAA computer & Google account
+  * request VPN accounts
+  * download software needed (e.g., R, RStudio, SQL Developer, Endnote)
+  * check the [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it) for more information
+  
+  [IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)
+  [IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
+  
+## Schedules, Time & Attendance
+You will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in webTA/GovTA.
 
-## Timesheets
+You should:
+  
+* work with Jason to set your work schedule
+* fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
+* fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
+* fill out a Telework Application Routing form
+* take the CLC Telework Training
+    
+Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
-(__graduate students do not need to complete timesheets__)
+  [Time and Attendance Resouces](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
-You can access you timesheets through the [HR portal in](https://my.umassd.edu/). Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).   
+### Leave
+ Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
-Even if you are salaried, it's still important to keep track of and submit your vacation and sick time!
+### Compensatory Time
+ In most cases, compensatory time can be awarded for travel that occurs outside or beyond normal working hours or days.
+ 
+ Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay.
+ 
+  A quick guide for how to claim and record Compensatory Time can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
+  
+## Performance {#sec-perf}
 
+Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.  The exact set of responsibilities, projects, deliverables, and duties will be clearly defined agreed on in your Performance Plan.
+
+More about the performance process can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps).
+
+The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards) lists the many ways you can be recognized and awarded for your achievements as well as opportunities to nominate your peers for their hard work.  
 
 ## Facilities
 
-_Currently all work in the lab is being performed remotely due to the COVID-19 pandemic. All access to SMAST facilities requires prior approval from Gavin, Mike Marino, and Eric Lyonnais. No work is to be performed on site until further notice._ 
+AFSC buildings on the Seattle Sand Point Campus are only accessible with a CAC during work hours.
 
 ### Office space
 
-Our physical lab space is in the SMAST-East (new) building. The lab is room 245. Ashleigh's desk is in the lab. Gavin's office is room 228.  
+Our physical offices are in Building 4 of the Seattle Sand Point Campus.    
+The following are FMA A-Team (and affiliated staff) office numbers:    
 
-Everyone in the lab is provided with desk space. Lab members sit either in the lab itself, or in the shared graduate student cubicle space and shared postdoc offices. Gavin encourages people to set up and work where is most comfortable. Graduate students should make use of their allocated space in the shared area but can do computational work in the lab area.  
+* 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)
+* 1057 - Lacey Jeroue, AMMOP Program Manager
+* 1057 - Andy Kingham, Analyst/IT developer
+* 1057 - Geoff Mayhew, Research Fishery Biologist
+* 1056 - [Craig Faunce, Research Fisheries Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
+* 1089 - Jennifer Cahalan, Statistician/Analyst
+* [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz), [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd), [Jennifer Mondragon](https://www.fisheries.noaa.gov/contact/jennifer-mondragon) all work in the AKRO in Juneau and work closely with the FMA A-Team.
 
-Lab meetings are held either in the lab, or in one of the SMAST-E conference rooms.
+Other FMA staff offices
 
-### Key card building & room access
+* 1059 - [Jennifer Ferdinand, FMA Division Director](https://www.fisheries.noaa.gov/contact/jennifer-ferdinand)
+* 1061 - [Lisa Thompson, FMA Deputy Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
+* 1062 - [Marlon Conception, FMA Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
+* 1063 - [Brian Mason, FMA Training Program Manager](https://www.fisheries.noaa.gov/contact/brian-mason)
 
-Access to the SMAST building, and to individual lab spaces within the building is through your UMass Pass keycard. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student/postdoc you will have access to the relevant shared office space.  
-The necessary building access forms can be found on the SMAST Occupants page which need to be filled out and approved and signed by Gavin before submitting to Mike Marino and Eric Lyonnais.  
 
-### Parking and transportation: 
-Parking at either of the SMAST buildings is free and no parking pass is required. Parking on the main UMassD campus requires a  digital parking pass. If you are staff this pass is free, there is a fee for students. Full details for campus parking policies and procedures are on the [UMassD parking webpage](https://www.umassd.edu/parking/). Note that there is limited short-term/temporary parking available on campus so you may feel it's not necessary to obtain a campus parking pass.
+### Reservations
+   Reservations for rooms or government vehicles can be found [here](https://sites.google.com/noaa.gov/myafsc/reservations)
+   
+### Parking
+To obtain either a vehicle or a bike parking pass for the Seattle Sand Point Campus, contact Pass & ID Security Office in Building 1 (206-526-6571). You will need to fill out a [WRC Parking Form](http://www.google.com/url?q=http%3A%2F%2Fwww.wrc.noaa.gov%2Fforms%2FWRC%2520Parking%2520Decal%2520v2008a.pdf&sa=D&sntz=1&usg=AOvVaw2YdnFqmKoV029T-pt6UwFj).
+
+
+### Transit Benefits for Bicyclists
+Allows for reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the worksite. Reimbursement can be up to $20 per month, not to exceed $240 per calendar year for bicycle commuting expenses.
+
+[More information on bike benefits and instructions](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program).
+
+### Transportation Subsidy
+NOAA offers this non-taxable transit-fare subsidy program to encourage federal employees to use public mass transportation while commuting to and from work.  Qualified employees are provided with a monthly benefit based on the distance to and from work. The monthly maximum subsidy transit benefit allowance is $270. Unused benefits do not carry over to the next month.  
+
+[More information on the transit subsidy program and application.](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program)
+
+## AFSC Contact Card
+  You are encouraged to set-up an AFSC Contact Card, for example, see [Jason's Contact Card](https://www.fisheries.noaa.gov/contact/jason-e-jannot).  This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a [Contact Card here](https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform)
+
+## General Adminstrative Resources
+
+ [General Admin Resources](https://sites.google.com/noaa.gov/myafsc/administrative/general-admin)
+ 
+
+## Health & Safety
+
+  [COVID reporting](https://sites.google.com/noaa.gov/myafsc/covid-19)
+  
+  Other health and safety resources (e.g., reporting an accident) can be found [here](https://sites.google.com/noaa.gov/myafsc/safety).
+

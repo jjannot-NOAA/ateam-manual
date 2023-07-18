@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-07-17">
+<meta name="description" content="This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries">
 
 <title>FMA A-Team Manual – computing</title>
 <style>
@@ -63,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -78,14 +80,14 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./01-intro.html">
  <span class="menu-text">Intro</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./02-mission-goals.html">
- <span class="menu-text">Mission</span></a>
+ <span class="menu-text">Big Picture</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./03-code-of-conduct.html">
@@ -108,22 +110,20 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Computing</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./08-offboarding.html">
+    <a class="nav-link" href="./08-projects.html">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./09-offboarding.html">
  <span class="menu-text">Offboard</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./09-resources.html">
+    <a class="nav-link" href="./10-resources.html">
  <span class="menu-text">Resources</span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./index.html"><i class="bi bi-house-door-fill" role="img" aria-label="FMA Analytical Services Team Manual">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/"><i class="bi bi-github" role="img">
-</i> 
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./11-acronyms.html">
+ <span class="menu-text">Acronyms</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -135,12 +135,34 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#computing" id="toc-computing" class="nav-link active" data-scroll-target="#computing">Computing resources</a>
+  <ul class="collapse">
+  <li><a href="#overview-of-computing-at-umassd" id="toc-overview-of-computing-at-umassd" class="nav-link" data-scroll-target="#overview-of-computing-at-umassd">Overview of Computing at UMassD</a></li>
+  <li><a href="#smast-computing-facilities" id="toc-smast-computing-facilities" class="nav-link" data-scroll-target="#smast-computing-facilities">SMAST computing facilities</a></li>
+  <li><a href="#administrator-privileges" id="toc-administrator-privileges" class="nav-link" data-scroll-target="#administrator-privileges">Administrator Privileges</a></li>
+  <li><a href="#remote-meetings-via-zoom" id="toc-remote-meetings-via-zoom" class="nav-link" data-scroll-target="#remote-meetings-via-zoom">Remote meetings via Zoom</a></li>
+  <li><a href="#collaborative-software" id="toc-collaborative-software" class="nav-link" data-scroll-target="#collaborative-software">Collaborative software</a></li>
+  <li><a href="#backups-and-set-up-to-lab-storage-server" id="toc-backups-and-set-up-to-lab-storage-server" class="nav-link" data-scroll-target="#backups-and-set-up-to-lab-storage-server">Backups and set up to Lab storage server</a></li>
+  <li><a href="#learnr" id="toc-learnr" class="nav-link" data-scroll-target="#learnr">Introductory R learning resources</a></li>
+  <li><a href="#tmb-and-admb" id="toc-tmb-and-admb" class="nav-link" data-scroll-target="#tmb-and-admb">TMB and ADMB</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/edit/main/07-computing.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
+<!-- **We maintain a team Google Drive folder for team publications, presentations, photos, CVs, etc. Please make use of these so that others in the team can make fair use of our work**. -->
+<!-- ## Shared team resources -->
+<!-- Where to find or share resources:<br> -->
+<!-- <!-- - Google Drive - **You will be given access to the shared drive during onboarding, take a look at the team Meetings folder to find team Meeting Notes for each semester (previously called the Supercharge Plan) **   -->
 <section id="computing" class="level1">
 <h1>Computing resources</h1>
 <p>Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software <code>R</code> for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is <code>TMB</code> and/or <code>ADMB</code>, as these <code>C++</code> template languages are the basis for many statistical population dynamics models in fisheries stock assessment).</p>

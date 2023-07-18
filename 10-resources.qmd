@@ -1,5 +1,27 @@
-# FMA, AFSC, and NOAA Resources {#sec-resources}
+# Resources {#sec-resources}
 
+## FMA
+
+Overview of the North Pacific Observer Program ([NPOP](https://www.fisheries.noaa.gov/alaska/fisheries-observers/north-pacific-observer-program))
+
+[Activity Plans](https://drive.google.com/drive/folders/1LzUtltFG2Z-vLy5vbFF0dkA6B4bQOHh9)
+
+## AFSC
+
+[AFSC Intranet](https://sites.google.com/noaa.gov/myafsc)
+
+### Strategic Science Plans
+AFSC Strategic Science Plans define vision, mission, core values, goals and objectives for a 5 year period.    
+[FY2023-FY2027](https://drive.google.com/file/d/1m3KldIXozp1mSH-VwzSFw0F35kuVaojx/view)
+
+### Annual Guidance Memos
+Annual Guidance Memorandums prioritize activities for a single year to meet the objectives in the Strategic Science Plan.    
+[FY2024](https://drive.google.com/file/d/1aMWiMJYuM8pueNbeHaLJoRBG6VlzTFYP/view)    
+[FY2023](https://drive.google.com/file/d/1EuLPPk031l8KWI1bVu-W0F3H9waHoRK4/view)
+
+## NOAA
+
+[NOAA's Vision and Mission](https://www.noaa.gov/our-mission-and-vision)
 <!-- ## General information about UMass Dartmouth and SMAST -->
 
 <!-- The SMAST [Department website](https://www.umassd.edu/smast/) lists all faculty, staff, and students across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information. -->

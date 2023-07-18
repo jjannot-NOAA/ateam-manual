@@ -1,0 +1,19 @@
+# Acronyms {#sec-acronyms}
+
+The US Government is absolutely slaphappy about acronyms.
+
+|**Acronym**|**Definition**|
+|:------|:----------|
+|AFSC|Alaska Fisheries Science Center|
+|AMMOP|Alaska Marine Mammal Observer Program|
+|A-Team|FMA Analytical Services Program|
+|DD|Division Director|
+|FMA|Fisheries Monitoring and Analysis Division|
+|M-Team|FMA Management Team = DD, Deputy Director, Debriefing PM, Training PM, Analytical Services PM|
+|NPOP|North Pacific Observer Program|
+|OOO|Out Of Office|
+|PM|Program Manger|
+|PSMFC|Pacific States Marine Fisheries Commission (coloquially, PacStates)|
+
+
+

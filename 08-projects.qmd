@@ -1,0 +1,48 @@
+# Projects {#sec-projects}
+## Project Management {#sec-project-mgmt}
+
+1. Benefits Analysis
+    a. Tangible    
+        i. estimate    
+    b. Intangible
+2. Charter - What - gives approval for planning    
+    a. Need   
+    b. Objectives   
+    c. Requirements   
+    d. Scope   
+    e. Schedule, milestones, budget   
+    f. key stakeholders   
+    g. risks   
+    h. deliverables   
+    i. success criteria
+3. Stakeholder    
+    a. stakeholder register    
+    b. stakeholder issue log
+4. Benefits Analysis    
+5. Plan - Why?    
+    a. May undergo many iterations    
+    b. Formal documentation of plans for:    
+        i. stakeholder communication and management    
+        ii. quality management    
+        iii. scope    
+        iv. schedule    
+        v. risk    
+6. Kick-Off Meeting    
+    a. Announce start of project    
+    b. Communicate vision    
+    c. Introduce key details - milestones, risks, communication plan, meeting schedule, policies    
+
+### Planning
+#### Scope - HOW
+Developing a detailed description of the project - how will we work? Scope needs to be managed carefully to prevent mission creep.
+
+* How is the scope defined?    
+* How is scope validated and controlled?    
+* How is scope managed throughout the project?    
+* How are requirements planned, tracked, and reported?    
+* How are changes in scope and requirements managed?    
+* How are priorities defined?    
+* How are metrics defined?    
+
+ 
+

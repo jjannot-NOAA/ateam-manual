@@ -1,3 +1,12 @@
+
+<!-- **We maintain a team Google Drive folder for team publications, presentations, photos, CVs, etc. Please make use of these so that others in the team can make fair use of our work**. -->
+
+<!-- ## Shared team resources -->
+
+<!-- Where to find or share resources:<br> -->
+<!-- <!-- - Google Drive - **You will be given access to the shared drive during onboarding, take a look at the team Meetings folder to find team Meeting Notes for each semester (previously called the Supercharge Plan) **   -->
+
+
 # Computing resources {#computing}
 
 Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software `R` for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is `TMB` and/or `ADMB`, as these `C++` template languages are the basis for many statistical population dynamics models in fisheries stock assessment).  

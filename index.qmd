@@ -3,9 +3,6 @@ title: "FMA Analytical Services Team Manual"
 about:
   template: trestles
   image: FMAnalytics_logo_pic.png
-  # author: "Jason Jannot"
-  # date: last-modified
-  # description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
   links:
     - icon: github
       text: Github
@@ -22,7 +19,4 @@ This manual resource is intended to provide an overview for A-Team members and o
 
 
 [^1]:This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.
-[^2]:Jeepers! That's a lot.  Let's just abbreviate:
-<br>   *A-Team* = Analytical Services Team    
-   *FMA* = Fisheries Monitoring and Analysis Division    
-   *AFSC* = Alaska Fisheries Science Center</br>
+[^2]:Jeepers! That's a lot.  Let's just abbreviate from now on - you can find the definitions of abbreviations [here](11-acronyms.qmd#sec-acronyms)

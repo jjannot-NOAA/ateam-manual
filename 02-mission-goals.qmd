@@ -1,8 +1,54 @@
-# Mission and Goals {#sec-mission-and-goals}
+# The Big Picture {#sec-big-picture}
 
-## Mission
+## Vision - Where are we going?
+* What is the future state of the team? What does it look like?
+* Answers the question: Where are you going?
+* If there were no constraints at all, what would things look like in 5 years, 10 years, 20 years?
+* What picture do we want to create for the future?
+* What legacy do we want to leave behind?
+Aim for a vivid picture of what the future looks like in 2-3 pages
 
-## Goals
+What does success look like for the team?
+
+## Purpose - Why do we do this?
+Why does the team exist?
+What is the inspiration that guides and motivates the team to achieve the mission?
+
+## Mission - What do we do?
+What the team aims to do to fulfill its purpose and acheive it's vision.
+
+<!-- JJ EXAMPLE: Our mission is to provide the highest quality best available science for use in managing fisheries and marine resources.  -->
+
+<!-- The FMA Analytical Services Team adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision). -->
+
+<!-- Science from the FMA A-Team:     -->
+
+<!-- - is rigorous and quantitative;     -->
+<!-- - based on statistics and evidence and;     -->
+<!-- - aims for transparency & reproducibility. -->
+
+<!-- Service from the FMA A-Team:     -->
+
+<!-- - is to provide the best-available science for use in decision-making;    -->
+<!-- - based on clear, consistent and effective communication and collaboration;     -->
+<!-- - aims to share data, knowledge, and information -->
+
+<!-- Stewardship from the FMA A-Team:     -->
+
+<!-- - is to protect living marine resources, commercial fisheries, and the people who work in, on, or with marine ecosystems;     -->
+<!-- - based on the diverse skill set and evolving abilities of the people and leveraged technologies and;     -->
+<!-- - aims to be rational, ethical, and equitable. -->
+
+
+
+## Internal Stakeholders
+
+## External Stakeholders
+
+## Culture & Values
+
+* Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science.
+
 <!-- # Lab culture and philosophy {#culture} -->
 
 <!-- We approach our science with a common denominator of kindness. As part of our core lab culture, we:   -->
