@@ -1,6 +1,15 @@
 # The Big Picture {#sec-big-picture}
 
 ## Vision - Where are we going?
+
+>Team Core Values - Taken from the ADP Charter
+Collaboration - conversation, not lecturing
+Flexibility - kill your darlings for the greater good if necessary.
+Respect - we are all professionals and should be treated as such.
+Safety - the group space is safe for productive conflict
+Humor - don't take anything too seriously
+Kindness - don’t be a jerk
+
 * What is the future state of the team? What does it look like?
 * Answers the question: Where are you going?
 * If there were no constraints at all, what would things look like in 5 years, 10 years, 20 years?

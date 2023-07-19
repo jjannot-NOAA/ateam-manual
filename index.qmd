@@ -1,11 +1,12 @@
 ---
+title: FMA A-Team Manual
+date: last-modified
 image: FMAnalytics_logo_pic.png
 about:
   template: marquee
   image-shape: round
   image-width: 15cm
 ---
-
 <center><H1> Welcome![^1]</center>
 
 This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center[^2].

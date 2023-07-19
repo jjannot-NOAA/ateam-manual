@@ -45,11 +45,15 @@ format:
     toc: true
     toc-location: right
     number-depth: 0
+    page-layout: article
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
 
-
-links:
-  - label: <i class="fab fa-github fa-lg"></i> GitHub
-    url: "https://github.com/jjannot-NOAA"
+# links:
+#   - label: <i class="fab fa-github fa-lg"></i> GitHub
+#     url: "https://github.com/jjannot-NOAA"
 
 # website:
 # #   title: FMA A-Team Manual
