@@ -5,14 +5,20 @@ The US Government is absolutely slaphappy about acronyms.
 |**Acronym**|**Definition**|
 |:------|:----------|
 |AFSC|Alaska Fisheries Science Center|
+|AKRO|Alaska Regional Office|
 |AMMOP|Alaska Marine Mammal Observer Program|
 |A-Team|FMA Analytical Services Program|
+|BSAI|Bering Sea Aleutian Islands|
 |CAC|Common Access Card, a.k.a., your "ID badge"|
 |DD|Division Director|
 |FMA|Fisheries Monitoring and Analysis Division|
+|FMAC|Fishery Monitoring Advisory Committee|
+|GOA|Gulf of Alaska|
 |M-Team|FMA Management Team = DD, Deputy Director, Debriefing PM, Training PM, Analytical Services PM|
+|NPFMC|North Pacific Fishery Management Council|
 |NPOP|North Pacific Observer Program|
 |OOO|Out Of Office|
+|PCFMAC|Partial Coverage Fishery Monitoring Committee|
 |PM|Program Manger|
 |PSMFC|Pacific States Marine Fisheries Commission (coloquially, PacStates)|
 |WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|

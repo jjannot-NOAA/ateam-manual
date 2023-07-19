@@ -24,7 +24,7 @@ Data used in support of your projects should be:
 
   * Saved in appropriate, non-proprietary format with accompanying metadata
   * **Not** included/hosted on github or any other public repository (unless non-confidential/anonymized)    
-  * Sccessible to A-Team members. 
+  * Accessible to A-Team members. 
   * Briefly described in the project README.
 
 ## Code

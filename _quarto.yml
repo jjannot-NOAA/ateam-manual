@@ -28,14 +28,14 @@ book:
     - 08-projects.qmd
     - 09-offboarding.qmd
     - 10-resources.qmd
-    - 11-acronyms.qmd
   appendices:
     - text: Jason's Philosophy
       href: 999-jjphilosophy.qmd
     - text: Make Your Calendar Visible
       href: 999-make-calendar-visible.qmd
-
-
+    - text: Acronyms
+      href: 999-acronyms.qmd
+  page-navigation: true
 
 format:
   html:

@@ -5,7 +5,7 @@
 * A-Team members are encouraged to work in the office on one or more of these days.    
 * Core hours do not apply on Monday or Friday.
 
-You are **not** expected to be available 24/7. Similarly, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, A-Team members will not be penalized for sending communication outside normal working hours.
+You are **not** expected to be available 24/7. Similarly, unless it is an emergency, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or any time on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, team members will not be penalized for sending communication outside normal working hours.
 
 ## Google
 ### G-Mail
@@ -14,7 +14,7 @@ We communicate largely via email on the A-Team. You should therefore check your 
 ### G-Calendar
 Much of our work is communicating and much of that communication comes in the form of meetings. Therefore, you should:    
 
-* [Make your calendar visible](999-appendix.qmd#sec-calendar) to others.    
+* [Make your calendar visible](999-make-calendar-visible.qmd#sec-calendar) to others.    
 * Keep your calendar up-to-date    
 * Add your working location and hours    
 * Add leave and out of office (OOO)    
@@ -37,9 +37,9 @@ Attendance is strongly recommended when possible at:
 * Other Center-wide Meetings
 
 
-## Expectations for the Program Manager
+## Expectations of the Program Manager
 
-As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-appendix.qmd#sec-jj-philosophy).
+As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
 
 The Program Manager will (at a minimum) provide the A-Team with:  
 
@@ -69,16 +69,17 @@ In addition to the above, the Program Manager will (at a minimum) provide indivi
 * Empathetic listening    
 * Coaching
 
-##  Team members
+##  Expectations of Team Members
 
 A-Team members will (at minimum): 
 
-* work to produce the best science, given the constraints    
-* share knowledge, experience, code, and time with other team members
+* strive to produce the best science, given the constraints    
+* grow and maintain technical and inter-personal skills
+* share knowledge, experience, code, and time
 * adopt a collaborative working mindset    
 * adapt and be flexible, within reason    
-* communicate clearly and effectively with team members and Program Manager
-* communicate both successes and sticking points on a regular basis with the PM    
+* communicate clearly and effectively
+* communicate both successes and sticking points regularly    
 * contribute to creating a positive, inclusive, and safe work culture
 
 Remember, as a government agency, we serve the people of the United States and service is 1/3^rd^ of [NOAA's mission](https://www.noaa.gov/our-mission-and-vision). Adopting a service mindset when approaching each other, stakeholders, partners, and collaborators will magnify our positive impacts on marine ecosystems, commercial fishing, and the wider world.
