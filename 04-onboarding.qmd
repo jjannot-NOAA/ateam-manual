@@ -2,7 +2,7 @@
 
 Welcome to the FMA A-Team!
 
-![](200.webp)
+![](_img/a-team-gify.gif)
 
 Here are some resources to help you get settled.  
 

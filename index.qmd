@@ -1,7 +1,7 @@
 ---
 title: FMA A-Team Manual
 date: last-modified
-image: FMAnalytics_logo_pic.png
+image: _img/FMAnalytics_logo_pic.png
 about:
   template: marquee
   image-shape: round

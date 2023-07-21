@@ -11,7 +11,7 @@ book:
   repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
   repo-actions: [edit,issue]
   downloads: [pdf, epub]
-  favicon: FMAnalytics_logo_pic.png
+  favicon: _img/FMAnalytics_logo_pic.png
   tools:
     - icon: github
       href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/"
@@ -50,17 +50,10 @@ format:
     toc: true
     number-sections: true
     colorlinks: true
-
-# links:
-#   - label: <i class="fab fa-github fa-lg"></i> GitHub
-#     url: "https://github.com/jjannot-NOAA"
-
-# website:
-# #   title: FMA A-Team Manual
-# #   site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
-# #   repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
-# #   repo-actions: [edit,issue]
-# #   favicon: FMAnalytics_logo_pic.png
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
 
 navbar:
   title: FMA A-Team
