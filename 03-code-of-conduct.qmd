@@ -1,6 +1,6 @@
 # Code of Conduct {#code}
 
-A _Code of Conduct_ is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-mission-goals.qmd#sec-big_picture), a _Code of Conduct_    
+A _Code of Conduct_ is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), a _Code of Conduct_    
 
   * provides a benchmark for self-evaluation    
   * helps define our identity    

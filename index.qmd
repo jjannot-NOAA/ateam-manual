@@ -13,7 +13,7 @@ This is the manual for the Analytical Services Program in the Fisheries Monitori
 
 The focus of our work centers on providing scientific products to support the management of marine ecosystems and commercial fisheries.
 
-This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannnot (jason.jannot\@noaa.gov),  make a pull request, or submit an issue.
+This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannnot (jason.jannot\@noaa.gov),  make a pull request, or submit an issue.
 
 
 [^1]:This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.

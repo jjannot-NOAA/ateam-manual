@@ -1,4 +1,5 @@
 ---
+engine: knitr
 bibliography: references.bib
 ---
 
@@ -6,13 +7,89 @@ bibliography: references.bib
 
 The FMA Analytical Services Team adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-In short, our mission is...**INSERT SUMMARY OF MISSION FROM [HERE](02-mission-goals.qmd#sec-big-picture)**
+In short, our mission is...**INSERT SUMMARY OF MISSION FROM [HERE](02-the-big-picture.qmd#sec-big-picture)**
 
-See [The Big Picture](02-mission-goals.qmd#sec-big_picture) section for more detail on our culture and philosophy.
+See [The Big Picture](02-the-big-picture.qmd#sec-big_picture) section for more detail on our culture and philosophy.
 
 We are motivatedby... **INSERT MOTIVATIONAL REFERENCES**...:
 
 <!-- *\[To come: recommended reading list\]* -->
+
+## Who We Are
+ As of `r Sys.Date()`, the Analytical Services Program consists of
+ 
+:::: {.columns}
+
+::: {.column width="25%"}   
+ 
+ ![](_img/JJ_immersionsuit.jpg){height=300}
+
+:::
+
+:::{.column width="5%"}
+
+ <!-- empty to create space -->
+
+:::
+
+:::{.column width="70%"}
+ 
+ **Jason Jannot, Program Manager**    
+  Supervisory Research Fishery Biologist (NMFS)
+ 
+  professional interests: Leadership, Team Building, Project Managment, Succession Planning    
+  
+  personal interests: biking, bluegrass banjo...among others 
+ 
+ Learn more about his leadership style [here](999-jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
+ 
+:::    
+
+::::
+ 
+ 
+ **Jennifer Cahalan, Statistician**    
+ Pacific States Marine Fisheries Commission    
+ AFSC, Seattle
+ 
+  professional interests:     
+  
+  personal interests: 
+ 
+ **Craig Faunce, Data Analyst**    
+ Research Fish Biologist (NMFS)
+ AFSC, Seattle
+ 
+  professional interests:     
+  
+  personal interests: 
+ 
+ You can learn more about Craig, [here](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
+ 
+ **Andy Kingham, Data Analyst & Developer**    
+ Operations Research Analyst (NMFS)    
+ AFSC, Seattle
+ 
+  professional interests:     
+  
+  personal interests: 
+ 
+ **Geoff Mayhew, Data Analyst**    
+ Research Fish Biologist (NMFS)    
+ AFSC, Seattle
+ 
+  professional interests:     
+  
+  personal interests: 
+ 
+ **Phil Ganz, Data Analyst**    
+ Fisheries Management Specialist (NMFS)    
+ AKRO, Juneau
+
+ professional interests:     
+  
+ personal interests:    
+ You can learn more about Phil [here](https://www.fisheries.noaa.gov/contact/phil-ganz)
 
 ## How we meet
 
@@ -47,7 +124,7 @@ We think it is useful to have standard ways of sharing things. These don't alway
   * Github Issues    
 * When sharing make sure to describe what you are sharing    
 * A project-based approach to organizing your work makes it easier to share and solicit feedback from others    
-  * here is [is a good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/)    
+  * here is a [good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/)    
   * see also *Good enough practices in scientific computing* [@wilson2017])   
   
 See the [Resources](10-resources.qmd#resources) section for other useful resources 

@@ -1,3 +1,5 @@
+engine: knitr
+
 project:
   type: book
   output-dir: _site
@@ -19,15 +21,14 @@ book:
     - text: Home
       href: index.qmd
     - 01-intro.qmd
-    - 02-mission-goals.qmd
+    - 02-the-big-picture.qmd
     - 03-code-of-conduct.qmd
     - 04-onboarding.qmd
-    - 05-roles-responsibilities.qmd
+    - 05-expectations.qmd
     - 06-communication.qmd
-    #- 07-computing.qmd
-    - 08-projects.qmd
-    - 09-offboarding.qmd
-    - 10-resources.qmd
+    - 07-projects.qmd
+    - 08-offboarding.qmd
+    - 09-resources.qmd
   appendices:
     - text: Jason's Philosophy
       href: 999-jjphilosophy.qmd
@@ -46,13 +47,15 @@ format:
     toc-location: right
     number-depth: 0
     page-layout: article
+    code-fold: true
+    css: styles.css
   pdf:
     toc: true
-    number-sections: true
+    number-sections: false
     colorlinks: true
   docx:
     toc: true
-    number-sections: true
+    number-sections: false
     highlight-style: github
 
 navbar:
@@ -61,21 +64,21 @@ navbar:
     - text: Intro
       href: 01-intro.qmd
     - text: "Big Picture"
-      href: 02-mission-goals.qmd
+      href: 02-the-big-picture.qmd
     - text: Conduct
       href: 03-code-of-conduct.qmd
     - text: Onboard
       href: 04-onboarding.qmd
-    - text: Roles
-      href: 05-roles-responsibilities.qmd
+    - text: Expectations
+      href: 05-expectations.qmd
     - text: Comms
       href: 06-communication.qmd
     - text: Projects
-      href: 08-projects.qmd
+      href: 07-projects.qmd
     - text: Offboard
-      href: 09-offboarding.qmd
+      href: 08-offboarding.qmd
     - text: Resources
-      href: 10-resources.qmd
+      href: 09-resources.qmd
 
 bibliography: [references.bib]
 

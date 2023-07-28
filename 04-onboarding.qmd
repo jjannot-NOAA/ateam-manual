@@ -2,7 +2,9 @@
 
 Welcome to the FMA A-Team!
 
-![](_img/a-team-gify.gif)
+![](_img/ateamgiffy.gif)
+<!-- \includegraphics[scale=1,bb=0 0 30 30]{_img/ateamgiffy.gif} -->
+
 
 Here are some resources to help you get settled.  
 
@@ -10,10 +12,13 @@ Our group is excited that you have decided to join our team! We hope that these 
 
 [AFSC Onboarding Checklist for Federal and Non-Federal Staff](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view?usp=sharing)
 
-The [New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI) Google Drive folder has many good resources.
 
-## CAC
+For Federal FTEs, the [New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI) Google Drive folder has many good resources.
+
+## CAC - Common Access Card
 A CAC will give you access to buildings and computer systems.  It is the necessary first step to getting started.
+
+*Both **Federal and non-Federal employees** will need a CAC*
 
 ### Get a New CAC
 CAC cards are only issued at Defense Department authorized locations (referred to as "RAPIDS" offices) and may or may not be associated with a NOAA facility.  For AFSC staff, the following locations are the closet RAPIDS stations.  
@@ -23,7 +28,7 @@ CAC cards are only issued at Defense Department authorized locations (referred t
 2. Juneau staff = Federal Bldg, site 102444 (phone: 907-463-2170)
 
 ### Renew a CAC
- See the [CAC Renewal page](https://sites.google.com/noaa.gov/myafsc/administrative/security/cac-renewal) on MyAFSC
+ See the [CAC Renewal page](https://sites.google.com/noaa.gov/myafsc/administrative/security/cac-renewal) on MyAFSC.
  
 ## IT
  On the first day, an A-Team member (likely Jason), will bring you to OFIS to:  
@@ -39,7 +44,11 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   [IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
   
 ## Schedules, Time & Attendance
-You will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in webTA/GovTA.
+#### non-Federal employees
+Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with Jason on setting your schedule.
+
+#### Federal employees
+If you are federal employee, you will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in webTA/GovTA.
 
 You should:
   
@@ -52,20 +61,31 @@ You should:
 
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
-  [Time and Attendance Resouces](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+  [Time and Attendance Resources](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
 ### Leave
+#### non-Federal employees
+Guidance on leave should be provided by your employer.
+
+#### Federal employees
  Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
 ### Compensatory Time
- In most cases, compensatory time can be awarded for travel that occurs outside or beyond normal working hours or days.
+#### non-Federal employees
+Guidance on compensatory time should be provided by your employer.
+
+#### Federal employees
+ For Federal staff, in most cases, compensatory time can be awarded for travel that occurs outside or beyond normal working hours or days.
  
  Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay.
  
   A quick guide for how to claim and record Compensatory Time can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
   
 ## Performance {#sec-perf}
+#### non-Federal employees
+Guidance on performance reviews should be provided by your employer.
 
+#### Federal employees
 Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.    
 
 Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
@@ -80,7 +100,7 @@ Duties that team members might assume, depending on interest, time, Program/Divi
 
 More about the performance process can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps).
 
-The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards) lists the many ways you can be recognized and awarded for your achievements as well as opportunities to nominate your peers for their hard work.  
+The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards) lists the many ways Federal employees can be recognized and awarded for their achievements including opportunities to nominate your peers for their hard work.  
 
 
 ## Facilities
@@ -116,17 +136,19 @@ To obtain either a vehicle or a bike parking pass for the Seattle Sand Point Cam
 
 
 ### Transit Benefits for Bicyclists
+#### Federal employees only
 Allows for reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the worksite. Reimbursement can be up to $20 per month, not to exceed $240 per calendar year for bicycle commuting expenses.
 
 [More information on bike benefits and instructions](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program).
 
 ### Transportation Subsidy
+#### Federal employees only
 NOAA offers this non-taxable transit-fare subsidy program to encourage federal employees to use public mass transportation while commuting to and from work.  Qualified employees are provided with a monthly benefit based on the distance to and from work. The monthly maximum subsidy transit benefit allowance is $270. Unused benefits do not carry over to the next month.  
 
 [More information on the transit subsidy program and application.](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program)
 
 ## AFSC Contact Card
-  You are encouraged to set-up an AFSC Contact Card, for example, see [Jason's Contact Card](https://www.fisheries.noaa.gov/contact/jason-e-jannot).  This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a [Contact Card here](https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform)
+  Federal staff are encouraged to set-up an AFSC Contact Card, for example, see [Jason's Contact Card](https://www.fisheries.noaa.gov/contact/jason-e-jannot).  This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a [Contact Card here](https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform)
 
 ## General Adminstrative Resources
 
@@ -135,7 +157,5 @@ NOAA offers this non-taxable transit-fare subsidy program to encourage federal e
 
 ## Health & Safety
 
-  [COVID reporting](https://sites.google.com/noaa.gov/myafsc/covid-19)
-  
-  Other health and safety resources (e.g., reporting an accident) can be found [here](https://sites.google.com/noaa.gov/myafsc/safety).
+  Health and safety resources (e.g., reporting an accident) can be found [here](https://sites.google.com/noaa.gov/myafsc/safety).
 
