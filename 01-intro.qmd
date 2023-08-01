@@ -127,6 +127,6 @@ We think it is useful to have standard ways of sharing things. These don't alway
   * here is a [good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/)    
   * see also *Good enough practices in scientific computing* [@wilson2017])   
   
-See the [Resources](10-resources.qmd#resources) section for other useful resources 
+See the [Resources](09-resources.qmd#resources) section for other useful resources 
 
 ## References

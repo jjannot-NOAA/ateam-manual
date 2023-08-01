@@ -1,7 +1,6 @@
 # The Big Picture {#sec-big-picture}
 
-## Vision - Where are we going?
-
+## Values & Culture
 >Team Core Values - Taken from the ADP Charter
 Collaboration - conversation, not lecturing
 Flexibility - kill your darlings for the greater good if necessary.
@@ -9,6 +8,14 @@ Respect - we are all professionals and should be treated as such.
 Safety - the group space is safe for productive conflict
 Humor - don't take anything too seriously
 Kindness - don’t be a jerk
+
+* Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science.
+
+
+MRI - Most Respectful Interpretation - of what someone is saying to you
+
+
+## Vision - Where are we going?
 
 * What is the future state of the team? What does it look like?
 * Answers the question: Where are you going?
@@ -54,9 +61,6 @@ What the team aims to do to fulfill its purpose and acheive it's vision.
 
 ## External Stakeholders
 
-## Culture & Values
-
-* Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science.
 
 <!-- # Lab culture and philosophy {#culture} -->
 

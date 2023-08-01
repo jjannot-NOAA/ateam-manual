@@ -2,8 +2,17 @@
 
 Welcome to the FMA A-Team!
 
-![](_img/ateamgiffy.gif)
-<!-- \includegraphics[scale=1,bb=0 0 30 30]{_img/ateamgiffy.gif} -->
+```{r, echo=FALSE}
+my_output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
+
+if (my_output!="latex"){
+knitr::include_graphics("_img/ateamgiffy.gif")
+}
+
+```
+
+<!-- ![](_img/ateamgiffy.gif) -->
+
 
 
 Here are some resources to help you get settled.  
