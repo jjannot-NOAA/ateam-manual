@@ -14,6 +14,8 @@
 
 ## Tools & Workflow
 
+The A-Team has a singular R package that holds commonly used R custom functions build by the A-Team: [FMAAnalystFunctions](https://github.com/Alaska-Fisheries-Monitoring-Analytics/FMAAnalystFunctions).  For instructions on how to install this package see the [GitHub Repo README](https://github.com/Alaska-Fisheries-Monitoring-Analytics/FMAAnalystFunctions#fma-analyst-functions).
+
 [Code Review](071-code-review.qmd)
 
 ## Completion

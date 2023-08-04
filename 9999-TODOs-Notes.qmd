@@ -1,0 +1,19 @@
+---
+title: "TODOS and Notes"
+---
+
+# TODO
+
+## In conjunction with team
+
+* 02 - The Big Picture
+* 072 - Git
+* 071 - Code Review
+* Confidential Data Section? (currently a 999)
+* Building an R package?
+
+## Other
+
+* Projects
+  - Should intake and prioritization be here? Or is that exclusively between myself and Jenn F?
+* Post/Publish to GitHub
