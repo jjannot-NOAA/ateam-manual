@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/index.html</loc>
+    <lastmod>2023-08-04T23:49:42.291Z</lastmod>
+  </url>
+  <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/01-intro.html</loc>
-    <lastmod>2023-08-01T23:58:29.901Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.307Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/02-the-big-picture.html</loc>
-    <lastmod>2023-08-01T23:57:53.450Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.309Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/03-code-of-conduct.html</loc>
-    <lastmod>2023-08-01T23:57:53.455Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.309Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/04-onboarding.html</loc>
-    <lastmod>2023-08-01T23:57:53.464Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.332Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/05-expectations.html</loc>
-    <lastmod>2023-08-01T23:57:53.464Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.342Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/06-communication.html</loc>
-    <lastmod>2023-08-01T23:57:53.479Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.353Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/07-projects.html</loc>
-    <lastmod>2023-08-01T23:57:53.484Z</lastmod>
+    <lastmod>2023-08-04T23:49:46.871Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/08-offboarding.html</loc>
-    <lastmod>2023-08-01T23:57:53.486Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.374Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/09-resources.html</loc>
-    <lastmod>2023-08-01T23:57:53.486Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.384Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/999-jjphilosophy.html</loc>
-    <lastmod>2023-08-01T23:57:53.486Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.395Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/999-make-calendar-visible.html</loc>
-    <lastmod>2023-08-01T23:57:53.502Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.417Z</lastmod>
   </url>
   <url>
     <loc>https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/999-acronyms.html</loc>
-    <lastmod>2023-08-01T23:57:53.502Z</lastmod>
+    <lastmod>2023-08-04T23:49:42.431Z</lastmod>
   </url>
 </urlset>

@@ -3,6 +3,8 @@ engine: knitr
 project:
   type: book
   output-dir: _site
+  render:
+    - "*.qmd"
 
 book:
   title: FMA A-Team Manual
@@ -45,6 +47,7 @@ format:
       dark: cyborg
     toc: true
     toc-location: right
+    toc-depth: 1
     number-depth: 0
     page-layout: article
     code-fold: true

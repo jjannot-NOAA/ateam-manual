@@ -7,7 +7,7 @@ about:
   image-shape: round
   image-width: 15cm
 ---
-<center><H1> Welcome![^1]</center>
+<center><h1> Welcome![^1]</h1></center>
 
 This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center[^2].
 

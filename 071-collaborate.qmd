@@ -1,11 +1,35 @@
-# Git & GitHub
+---
+output-dir: _site
+---
+# Collaboration & Code Review {#071-collaborate.qmd}
 
 ## NOTE: This represents a starting place for A-Team discussion
 It is an amalgamation of [Jason's Git Collaboration notes](https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx) and the [2024 ADP Team Charter](https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y)
 
-## Collaboration
+:::: {.columns}
+
+::: {.column width="45%"}   
+ 
+<center><h2>Git Collaboration</h2></center>
 
 Determining the ["Git Work Flow"](https://www.atlassian.com/git/tutorials/comparing-workflows) is a huge part of working in a team! Be sure to check out the "Guidelines" section in the previous link for best practices when developing a workflow.
+
+:::
+
+:::{.column width="5%"}
+
+ <!-- empty to create space -->
+
+:::
+
+:::{.column width="45%"}
+
+
+ ![](_img/git.png){height=200}
+ 
+:::    
+
+::::
 
 > Jason suggests the Centralized Workflow (see link above) which keeps a linear history[^1].
 
@@ -86,6 +110,32 @@ NOTE: You can add more commits to a single pull request, provided it has not bee
 6. Reviewer - merge pull request    
 7. Originator -  delete the branch once the code has been merged. *Please do this so that our remote is clean!*    
 8. *DONT FORGET TO PULL* the new code to your local instance to get latest code.
+
+## Issues
+
+Issues are a great way to improve code outside the normal pull request-review process.  Issues can be used to propose:    
+
+1. Fixes to broken code    
+2. Cool new features    
+3. Tackle TODO lists    
+4. Document Q&A
+
+Use `tags` (right sidebar) to highlight the type of issue being submitted.
+
+### How to submit an Issue
+1. Open an issue    
+2. Give it a succinct but appropriate name    
+3. Give it a `tag`    
+4. Use the `@` in the body of the issue to mention others who might be interested or involved in the issue resolution    
+5. Use simple pseudo-code (via Markup code) to describe your proposed changes.    
+6. Provide a minimal reproducible example for bugs/errors, a.k.a. a [repex](https://stackoverflow.com/help/minimal-reproducible-example)    
+7. Be sure to close the issue once it is complete.    
+    a. Pro Tip: You can use the following statement to make Github automatically close an issue:    
+    `this closes issue #<insert-issue-num>` [see example here](https://github.com/jjannot-NOAA/PlantSamplingAnalysis/issues/5#issuecomment-1480164759)
+
+### Assigning Issues
+1. Feel free to assign yourself the issue, but be sure to eventually tackle the issue.
+2. *BEFORE ASSIGNING TO OTHERS* discuss with the other person and/or the PM to ensure assignment is appropriate and does not conflict with current priorities.
 
 ## Compare Two Branches on GitHub 
 1. Open the branch with the newest commits

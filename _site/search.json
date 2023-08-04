@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "FMA A-Team Manual",
+    "section": "",
+    "text": "This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.↩︎\nJeepers, that’s a mouthful! Let’s just abbreviate from now on - acronym definitions are here↩︎"
+  },
+  {
     "objectID": "01-intro.html#who-we-are",
     "href": "01-intro.html#who-we-are",
     "title": "2  Introduction",
     "section": "Who We Are",
-    "text": "Who We Are\nAs of 2023-08-01, the Analytical Services Program consists of\n\n\n\n\n\n\nJason Jannot, Program Manager\nSupervisory Research Fishery Biologist (NMFS) pronouns: he/him/his\nprofessional interests: Leadership, Team Building, Project Managment, Succession Planning\npersonal interests: biking, bluegrass banjo…among others\nLearn more about his leadership style here and about him at his personal website.\n\n\nJennifer Cahalan, Statistician\nPacific States Marine Fisheries Commission\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nCraig Faunce, Data Analyst\nResearch Fish Biologist (NMFS) AFSC, Seattle\nprofessional interests:\npersonal interests:\nYou can learn more about Craig, here\nAndy Kingham, Data Analyst & Developer\nOperations Research Analyst (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nGeoff Mayhew, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nPhil Ganz, Data Analyst\nFisheries Management Specialist (NMFS)\nAKRO, Juneau\nprofessional interests:\npersonal interests:\nYou can learn more about Phil here"
+    "text": "Who We Are\nAs of 2023-08-04, the Analytical Services Program consists of\n\n\n\n\n\n\nJason Jannot, Program Manager\nSupervisory Research Fishery Biologist (NMFS) pronouns: he/him/his\nprofessional interests: Leadership, Team Building, Project Managment, Succession Planning\npersonal interests: biking, bluegrass banjo…among others\nLearn more about his leadership style here and about him at his personal website.\n\n\nJennifer Cahalan, Statistician\nPacific States Marine Fisheries Commission\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nCraig Faunce, Data Analyst\nResearch Fish Biologist (NMFS) AFSC, Seattle\nprofessional interests:\npersonal interests:\nYou can learn more about Craig, here\nAndy Kingham, Data Analyst & Developer\nOperations Research Analyst (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nGeoff Mayhew, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nPhil Ganz, Data Analyst\nFisheries Management Specialist (NMFS)\nAKRO, Juneau\nprofessional interests:\npersonal interests:\nYou can learn more about Phil here"
   },
   {
     "objectID": "01-intro.html#how-we-meet",
@@ -242,7 +249,7 @@
     "href": "07-projects.html#tools-workflow",
     "title": "8  Projects",
     "section": "Tools & Workflow",
-    "text": "Tools & Workflow\nCode Review"
+    "text": "Tools & Workflow\nThe A-Team has a singular R package that holds commonly used R custom functions build by the A-Team: FMAAnalystFunctions. For instructions on how to install this package see the GitHub Repo README.\nCode Review"
   },
   {
     "objectID": "07-projects.html#completion",

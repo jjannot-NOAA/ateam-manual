@@ -7,8 +7,7 @@ title: "TODOS and Notes"
 ## In conjunction with team
 
 * 02 - The Big Picture
-* 072 - Git
-* 071 - Code Review
+* 071 - Code Review and Git (071-collborate.qmd)
 * Confidential Data Section? (currently a 999)
 * Building an R package?
 
