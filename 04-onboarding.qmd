@@ -11,10 +11,6 @@ knitr::include_graphics("_img/ateamgiffy.gif")
 
 ```
 
-<!-- ![](_img/ateamgiffy.gif) -->
-
-
-
 Here are some resources to help you get settled.  
 
 Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
@@ -22,7 +18,11 @@ Our group is excited that you have decided to join our team! We hope that these 
 [AFSC Onboarding Checklist for Federal and Non-Federal Staff](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view?usp=sharing)
 
 
-For Federal FTEs, the [New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI) Google Drive folder has many good resources.
+For Federal FTEs, check out the following for many good resources:    
+
+[NOAA Fisheries New Hire Employee Resource Group](https://sites.google.com/noaa.gov/nmfs-erg-newhire/home?authuser=0)    
+[Fisheries New Employee Orientation website](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/training-and-development/fisheries-onboarding-and-orientation-program)    
+[New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI)
 
 ## CAC - Common Access Card
 A CAC will give you access to buildings and computer systems.  It is the necessary first step to getting started.

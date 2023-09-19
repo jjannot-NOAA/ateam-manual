@@ -3,8 +3,6 @@ engine: knitr
 project:
   type: book
   output-dir: _site
-  render:
-    - "*.qmd"
 
 book:
   title: FMA A-Team Manual
@@ -29,6 +27,7 @@ book:
     - 05-expectations.qmd
     - 06-communication.qmd
     - 07-projects.qmd
+    - 071-collaborate.qmd
     - 08-offboarding.qmd
     - 09-resources.qmd
   appendices:

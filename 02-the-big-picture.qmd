@@ -1,21 +1,25 @@
-# The Big Picture {#sec-big-picture}
 
-## Values & Culture
->Team Core Values - Taken from the ADP Charter
-Collaboration - conversation, not lecturing
-Flexibility - kill your darlings for the greater good if necessary.
-Respect - we are all professionals and should be treated as such.
-Safety - the group space is safe for productive conflict
-Humor - don't take anything too seriously
-Kindness - don’t be a jerk
+# The Big Picture {#sec-big-picture}![](_img/lightbulbicon.jpg){height=90}
 
-* Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science.
+## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
 
 
-MRI - Most Respectful Interpretation - of what someone is saying to you
+## ![](_img/values.jpg){height=200}Values & Culture
+<!-- >Team Core Values - Taken from the ADP Charter -->
+<!-- Collaboration - conversation, not lecturing -->
+<!-- Flexibility - kill your darlings for the greater good if necessary. -->
+<!-- Respect - we are all professionals and should be treated as such. -->
+<!-- Safety - the group space is safe for productive conflict -->
+<!-- Humor - don't take anything too seriously -->
+<!-- Kindness - don’t be a jerk -->
+
+<!-- * Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science. -->
 
 
-## Vision - Where are we going?
+<!-- MRI - Most Respectful Interpretation - of what someone is saying to you -->
+
+
+## ![](_img/visionicon.png){height=100}Vision - Where are we going?
 
 * What is the future state of the team? What does it look like?
 * Answers the question: Where are you going?
@@ -26,11 +30,11 @@ Aim for a vivid picture of what the future looks like in 2-3 pages
 
 What does success look like for the team?
 
-## Purpose - Why do we do this?
+## ![](_img/purpose_icon.png){height=100}Purpose - Why do we do this?
 Why does the team exist?
 What is the inspiration that guides and motivates the team to achieve the mission?
 
-## Mission - What do we do?
+## ![](_img/mission_icon.png){height=100}Mission - What do we do?
 What the team aims to do to fulfill its purpose and acheive it's vision.
 
 <!-- JJ EXAMPLE: Our mission is to provide the highest quality best available science for use in managing fisheries and marine resources.  -->
@@ -39,7 +43,7 @@ What the team aims to do to fulfill its purpose and acheive it's vision.
 
 <!-- Science from the FMA A-Team:     -->
 
-<!-- - is rigorous and quantitative;     -->
+<!-- - is rigorous, quantitative, and best available;     -->
 <!-- - based on statistics and evidence and;     -->
 <!-- - aims for transparency & reproducibility. -->
 
@@ -58,10 +62,22 @@ What the team aims to do to fulfill its purpose and acheive it's vision.
 
 
 ## Internal Stakeholders
+Internal stakeholders include:
+
+  * FMA Staff (including others in Analytical Services)    
+  * AFSC Staff    
+  * NOAA Staff
 
 ## External Stakeholders
+External stakeholders include, but are not limited to:    
 
+* [NPFMC](https://www.npfmc.org/) and [advisory bodies](https://www.npfmc.org/about-the-council/advisory-groups/)    
+* Academics and other researchers    
+* ADFG and other AK State personnel    
+* NGO's    
+* The U.S. Public
 
+Alaska Native's and U.S. Federally recognized Tribal Nations are not stakeholders.  They are co-owners and co-managers of the resource. Find out more [here](https://www.noaa.gov/sites/default/files/2023-06/NOAA_Tribal_Consultation_Handbook%202023_FINAL.pdf).
 <!-- # Lab culture and philosophy {#culture} -->
 
 <!-- We approach our science with a common denominator of kindness. As part of our core lab culture, we:   -->

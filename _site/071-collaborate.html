@@ -8,7 +8,7 @@
 
 <meta name="description" content="This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries">
 
-<title>FMA A-Team Manual - 10&nbsp; Offboarding</title>
+<title>FMA A-Team Manual - 9&nbsp; Collaboration &amp; Code Review</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./09-resources.html" rel="next">
-<link href="./071-collaborate.html" rel="prev">
+<link href="./08-offboarding.html" rel="next">
+<link href="./07-projects.html" rel="prev">
 <link href="./_img/FMAnalytics_logo_pic.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./08-offboarding.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Offboarding</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./071-collaborate.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -175,13 +175,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./071-collaborate.html" class="sidebar-item-text sidebar-link">
+  <a href="./071-collaborate.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./08-offboarding.html" class="sidebar-item-text sidebar-link active">
+  <a href="./08-offboarding.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Offboarding</span></span></a>
   </div>
 </li>
@@ -233,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="offboarding" class="quarto-section-identifier"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Offboarding</span></span></h1>
+<h1 class="title"><span id="071-collaborate.qmd" class="quarto-section-identifier"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span></h1>
 </div>
 
 
@@ -248,52 +248,262 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><a href="https://drive.google.com/file/d/17hBFFWaAImoVNqHfPJmoAKqGqs8rD1Q2/view?usp=sharing">AFSC Offboarding Checklist for Federal Staff</a></p>
-<p><a href="https://drive.google.com/file/d/1BdNN2rvgwdyUAuk_9cOlRGw5_ik6K37Q/view?usp=sharing">AFSC Offboarding Checklist for Non-Federal Staff (contractors and affiliates)</a></p>
-<section id="exit-interview" class="level2">
-<h2 class="anchored" data-anchor-id="exit-interview">Exit Interview</h2>
-<p>Set up a dedicated time to meet with the A-Team PM to talk about your time in FMA, and to go through the appropriate checklist above. Besides the checklist, things to talk about include the best part of being part of the FMA A-Team, whether you got the support you needed and what could we improve for someone in your role in the future.</p>
-</section>
-<section id="project-documentation" class="level2">
-<h2 class="anchored" data-anchor-id="project-documentation">Project Documentation</h2>
-<p>Project work should be hosted in the <a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics">A-Team Github repository</a> and saved on the <code>FMA Analytics Group</code> Google drive.</p>
-<p>Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if confidential data). Ideally, the README should also include links to publications and presentations from the work.</p>
-</section>
-<section id="publications-and-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="publications-and-presentations">Publications and Presentations</h2>
-<p>Ensure that publications and presentations from your projects are archived in the appropriate folder in the <code>FMA Analytics Group</code> Google drive.</p>
-</section>
-<section id="data" class="level2">
-<h2 class="anchored" data-anchor-id="data">Data</h2>
-<p>Data used in support of your projects should be:</p>
-<ul>
-<li>Saved in appropriate, non-proprietary format with accompanying metadata</li>
-<li><strong>Not</strong> included/hosted on github or any other public repository (unless non-confidential/anonymized)<br>
+<section id="note-this-represents-a-starting-place-for-a-team-discussion" class="level2">
+<h2 class="anchored" data-anchor-id="note-this-represents-a-starting-place-for-a-team-discussion">NOTE: This represents a starting place for A-Team discussion</h2>
+<p>It is an amalgamation of <a href="https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx">Jason’s Git Collaboration notes</a> and the <a href="https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y">2024 ADP Team Charter</a></p>
+<div class="columns">
+<div class="column" style="width:45%;">
+<center>
+<h2 class="anchored">
+Git Collaboration
+</h2>
+</center>
+<p>Determining the <a href="https://www.atlassian.com/git/tutorials/comparing-workflows">“Git Work Flow”</a> is a huge part of working in a team! Be sure to check out the “Guidelines” section in the previous link for best practices when developing a workflow.</p>
+</div><div class="column" style="width:5%;">
+<p><!-- empty to create space --></p>
+</div><div class="column" style="width:45%;">
+<p><img src="_img/git.png" height="200"></p>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Jason suggests the Centralized Workflow (see link above) which keeps a linear history<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+</blockquote>
+<section id="how-to-collaborate" class="level4">
+<h4 class="anchored" data-anchor-id="how-to-collaborate">How to Collaborate</h4>
+<ol type="1">
+<li>Add collaborators to repository<br>
 </li>
-<li>Accessible to A-Team members.</li>
-<li>Briefly described in the project README.</li>
-</ul>
+<li>Collaborators clone repository to their local machine<br>
+</li>
+<li>Make changes
+<ol type="a">
+<li>Create a New Branch<br>
+</li>
+<li>Name it appropriately e.g., jason/newfeature<br>
+</li>
+<li>Make changes locally on the new branch<br>
+</li>
+<li>Commit changes to the new branch
+<ol type="i">
+<li>As a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.<br>
+</li>
+</ol></li>
+<li><em>See below before completing this step</em> - Push changes to the remote repository…this will create a pull request….</li>
+</ol></li>
+</ol>
 </section>
-<section id="code" class="level2">
-<h2 class="anchored" data-anchor-id="code">Code</h2>
-<p>Code used or developed for your projects should be:</p>
+<section id="before-pushing-to-the-repository" class="level4">
+<h4 class="anchored" data-anchor-id="before-pushing-to-the-repository">Before Pushing to the Repository</h4>
+<ol type="1">
+<li>Switch to your local main branch (<code>$git checkout main</code>)<br>
+</li>
+<li>Pull the remote main into your local main (<code>$git pull origin main</code>)<br>
+</li>
+<li>Switch to your dev branch (<code>$git checkout &lt;your-dev-branch-name-here&gt;</code>)<br>
+</li>
+<li>Merge your local main to your local dev branch (<code>$git merge main</code>)
+<ol type="a">
+<li><strong>NOTE</strong> This is where conflicts will show up if they will occur<br>
+</li>
+<li>Fix any conflicts</li>
+</ol></li>
+<li>Do some checking before pushing:
+<ol type="a">
+<li>Check the commits that will be pushed (<code>$git log - - oneline</code>; <code>q</code> escapes you back to the <code>$</code>)<br>
+</li>
+<li>Check your connection (<code>$git remote -v</code>)<br>
+</li>
+</ol></li>
+<li>Push your changes (<code>$git push origin &lt;your-branch-name&gt;</code>)</li>
+</ol>
+</section>
+<section id="pull-request" class="level4">
+<h4 class="anchored" data-anchor-id="pull-request">Pull Request</h4>
+<p>A pull request is a request by a collaborator for the repo owner to “pull” the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.</p>
+<section id="pull-request---what-are-they-good-for" class="level5">
+<h5 class="anchored" data-anchor-id="pull-request---what-are-they-good-for">Pull Request - What are they good for?</h5>
+<p>Pull request can simplify code review. They are a discussion point between coders. They can be used to:</p>
 <ul>
-<li>complete and well-documented, including information in a README about what each file does and workflow to run the code.</li>
-<li>hosted in the <a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics">A-Team Github repository</a> and saved on the <code>FMA Analytics Group</code> Google drive.</li>
+<li>review and discuss code: a new feature, improvements, strategy, etc.</li>
+<li>address issues</li>
+<li>any time new code is added to the repo</li>
 </ul>
+<p><strong>What are the benefits of pull requests as code review<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>?</strong></p>
+<ol type="1">
+<li>Increases the quality of the code</li>
+<li>Decreases probability of breaking stuff</li>
+<li>Frees time from micromanaging other peoples code</li>
+<li>Reduces the need for meetings</li>
+<li>Email notifications act as the interface</li>
+<li>They create a history - all discussion &amp; code (even if it is ultimately rejected), lives on a branch</li>
+</ol>
+<p>The downsides include (see also<sup>2</sup>):<br>
+1. You have to wait to have your code reviewed by others<br>
+2. Reviewer can get backed up &amp; overwhelmed</p>
 </section>
-<section id="turning-in-equipment" class="level2">
-<h2 class="anchored" data-anchor-id="turning-in-equipment">Turning in equipment</h2>
-<p>Return all equipment (e.g., computer and peripherals) you have been using to the A-Team PM. Ensure all office furniture is present and remains in your office.</p>
+<section id="how-to-submit-a-pull-request" class="level5">
+<h5 class="anchored" data-anchor-id="how-to-submit-a-pull-request">How to Submit a Pull Request</h5>
+<ol type="1">
+<li>Go to the repo, at the top click on <code>Pull Requests</code><br>
+</li>
+<li>Create a <code>New Pull Request</code> (green button upper right)<br>
+</li>
+<li>Ensure you are comparing the right branches<br>
+</li>
+<li>Look at the <code>gitdiff</code><br>
+</li>
+<li>Give it an appropriate succint title<br>
+</li>
+<li>Include a descriptive message
+<ol type="a">
+<li>What has been done<br>
+</li>
+<li>How to use the new code<br>
+</li>
+<li>What someone could do to test the code, e.g., do…<br>
+</li>
+</ol></li>
+<li>Create the request<br>
+</li>
+<li>Add a reviewer - upper right hand corner. Will trigger an email.<br>
+</li>
+<li>Once reviewed, the pull request will be merged with the branch (typically main)</li>
+</ol>
+<p>NOTE: You can add more commits to a single pull request, provided it has not been reviewed and merged. <em>However</em>, only do this for very minor changes - missing spaces, typos, missing last lines etc.</p>
 </section>
-<section id="terminating-access" class="level2">
-<h2 class="anchored" data-anchor-id="terminating-access">Terminating Access</h2>
-<ul>
-<li><p>Access to your <code>@noaa.gov</code> account will terminate on your last day. <a href="https://support.google.com/docs/answer/2494892?hl=en&amp;co=GENIE.Platform%3DDesktop">Transfer ownership of Google Docs</a> to the A-Team PM.</p></li>
-<li><p>CAC access to the NOAA facilities and computers will be terminated when you leave Federal service. Ensure you have all your personal belongings prior to your last day.</p></li>
-</ul>
+<section id="how-to-review-a-pull-request" class="level5">
+<h5 class="anchored" data-anchor-id="how-to-review-a-pull-request">How to Review a Pull Request</h5>
+<ol type="1">
+<li>Open the pull request<br>
+</li>
+<li>Review the code changes<br>
+</li>
+<li>Reviewer - provide comments and feedback as comments<br>
+</li>
+<li>Originator - respond to comments, perhaps add comments<br>
+</li>
+<li>Reviewer - Approve changes (upper right corner) and add approval comment<br>
+</li>
+<li>Reviewer - merge pull request<br>
+</li>
+<li>Originator - delete the branch once the code has been merged. <em>Please do this so that our remote is clean!</em><br>
+</li>
+<li><em>DONT FORGET TO PULL</em> the new code to your local instance to get latest code.</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="issues" class="level2">
+<h2 class="anchored" data-anchor-id="issues">Issues</h2>
+<p>Issues are a great way to improve code outside the normal pull request-review process. Issues can be used to propose:</p>
+<ol type="1">
+<li>Fixes to broken code<br>
+</li>
+<li>Cool new features<br>
+</li>
+<li>Tackle TODO lists<br>
+</li>
+<li>Document Q&amp;A</li>
+</ol>
+<p>Use <code>tags</code> (right sidebar) to highlight the type of issue being submitted.</p>
+<section id="how-to-submit-an-issue" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-submit-an-issue">How to submit an Issue</h3>
+<ol type="1">
+<li>Open an issue<br>
+</li>
+<li>Give it a succinct but appropriate name<br>
+</li>
+<li>Give it a <code>tag</code><br>
+</li>
+<li>Use the <code>@</code> in the body of the issue to mention others who might be interested or involved in the issue resolution<br>
+</li>
+<li>Use simple pseudo-code (via Markup code) to describe your proposed changes.<br>
+</li>
+<li>Provide a minimal reproducible example for bugs/errors, a.k.a. a <a href="https://stackoverflow.com/help/minimal-reproducible-example">repex</a><br>
+</li>
+<li>Be sure to close the issue once it is complete.
+<ol type="a">
+<li>Pro Tip: You can use the following statement to make Github automatically close an issue:<br>
+<code>this closes issue #&lt;insert-issue-num&gt;</code> <a href="https://github.com/jjannot-NOAA/PlantSamplingAnalysis/issues/5#issuecomment-1480164759">see example here</a></li>
+</ol></li>
+</ol>
+</section>
+<section id="assigning-issues" class="level3">
+<h3 class="anchored" data-anchor-id="assigning-issues">Assigning Issues</h3>
+<ol type="1">
+<li>Feel free to assign yourself the issue, but be sure to eventually tackle the issue.</li>
+<li><em>BEFORE ASSIGNING TO OTHERS</em> discuss with the other person and/or the PM to ensure assignment is appropriate and does not conflict with current priorities.</li>
+</ol>
+</section>
+</section>
+<section id="compare-two-branches-on-github" class="level2">
+<h2 class="anchored" data-anchor-id="compare-two-branches-on-github">Compare Two Branches on GitHub</h2>
+<ol type="1">
+<li>Open the branch with the newest commits</li>
+<li>At the top you’ll see the number of commits difference like this:</li>
+</ol>
+<p><img src="_img/github_compare_2_branches.png" class="img-fluid"></p>
+<ol start="3" type="1">
+<li>Click on the link “&lt;#&gt; commit ahead”</li>
+<li>That will bring you to the diff page! Voila!</li>
+</ol>
+</section>
+<section id="to-link-a-pull-request-with-an-issue" class="level2">
+<h2 class="anchored" data-anchor-id="to-link-a-pull-request-with-an-issue">To link a pull request with an issue</h2>
+<p><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue">Link Pull Request with Issue</a></p>
+</section>
+<section id="to-remove-a-file-from-tracking-that-is-already-being-tracked" class="level2">
+<h2 class="anchored" data-anchor-id="to-remove-a-file-from-tracking-that-is-already-being-tracked">To remove a file from <em>Tracking</em> that is already being tracked</h2>
+<p><strong>!!!! IMPORTANT NOTE !!!!</strong> ==&gt; The following steps will <em>completely remove</em> the files on <strong>all remotes</strong> once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains…)</p>
+<ol type="1">
+<li>Move the file outside the git repository, i.e., save to your local machine/Desktop<br>
+</li>
+<li>Add all the file/folder names that you want to stop tracking in the repo but keep locally to <code>.gitignore</code>.<br>
+</li>
+<li>On the command line, execute
+<ol type="a">
+<li>For a file: <code>$git rm --cached put/here/your/file.ext</code><br>
+</li>
+<li>For a folder: <code>$git rm --cached folder/\*</code> (if the files are in a folder you need to use /* to escape the *)<br>
+</li>
+</ol></li>
+<li>Commit your changes:
+<ol type="a">
+<li><code>$git commit -m “&lt;Message&gt;”</code><br>
+</li>
+<li>Push to remote.</li>
+</ol></li>
+</ol>
+</section>
+<section id="to-completely-remove-an-item-from-the-repo" class="level2">
+<h2 class="anchored" data-anchor-id="to-completely-remove-an-item-from-the-repo">To <em>completely Remove</em> an item from the repo</h2>
+<ol type="1">
+<li>On your local machine, navigate to file and delete it
+<ol type="a">
+<li>The git status should show that file was deleted.<br>
+</li>
+</ol></li>
+<li>Stage all uncommitted changes (<code>$git add -u</code>)<br>
+</li>
+<li>Commit the deletion (<code>$git commit -m &lt;commit message&gt;</code>)<br>
+</li>
+<li>View changes on the branch (<code>$git log –online</code>)<br>
+</li>
+<li>ensure local main is up-to-date with remote main (<code>$git checkout main</code>; <code>$git pull origin main</code>)<br>
+</li>
+<li>Ensure your branch is up-to-date with your local main (<code>$git checkout &lt;your-branch-name&gt;</code>; <code>$git merge main</code>)<br>
+</li>
+<li>Push your changes to the remote (<code>$git push origin &lt;your-branch-name&gt;</code>)</li>
+</ol>
 
 
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>If you don’t like the Centralized Workflow, try the <a href="https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development">Trunk-based Workflow</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>For a counter argument to pull requests, <a href="https://youtu.be/ASOSEiJCyEM?t=275">see this video</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
 </section>
 
 </main> <!-- /main -->
@@ -647,13 +857,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./071-collaborate.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span>
+      <a href="./07-projects.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Projects</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./09-resources.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Resources</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./08-offboarding.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Offboarding</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -661,4 +871,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/edit/main/08-offboarding.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/edit/main/071-collaborate.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Alaska-Fisheries-Monitoring-Analytics/issues/new" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>

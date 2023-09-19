@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "FMA A-Team Manual",
-    "section": "",
-    "text": "This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.↩︎\nJeepers, that’s a mouthful! Let’s just abbreviate from now on - acronym definitions are here↩︎"
+    "objectID": "02-the-big-picture.html#values-culture",
+    "href": "02-the-big-picture.html#values-culture",
+    "title": "3  The Big Picture",
+    "section": "Values & Culture",
+    "text": "Values & Culture"
+  },
+  {
+    "objectID": "02-the-big-picture.html#vision---where-are-we-going",
+    "href": "02-the-big-picture.html#vision---where-are-we-going",
+    "title": "3  The Big Picture",
+    "section": "Vision - Where are we going?",
+    "text": "Vision - Where are we going?\n\nWhat is the future state of the team? What does it look like?\nAnswers the question: Where are you going?\nIf there were no constraints at all, what would things look like in 5 years, 10 years, 20 years?\nWhat picture do we want to create for the future?\nWhat legacy do we want to leave behind? Aim for a vivid picture of what the future looks like in 2-3 pages\n\nWhat does success look like for the team?"
+  },
+  {
+    "objectID": "02-the-big-picture.html#purpose---why-do-we-do-this",
+    "href": "02-the-big-picture.html#purpose---why-do-we-do-this",
+    "title": "3  The Big Picture",
+    "section": "Purpose - Why do we do this?",
+    "text": "Purpose - Why do we do this?\nWhy does the team exist? What is the inspiration that guides and motivates the team to achieve the mission?"
+  },
+  {
+    "objectID": "02-the-big-picture.html#mission---what-do-we-do",
+    "href": "02-the-big-picture.html#mission---what-do-we-do",
+    "title": "3  The Big Picture",
+    "section": "Mission - What do we do?",
+    "text": "Mission - What do we do?\nWhat the team aims to do to fulfill its purpose and acheive it’s vision."
+  },
+  {
+    "objectID": "02-the-big-picture.html#internal-stakeholders",
+    "href": "02-the-big-picture.html#internal-stakeholders",
+    "title": "3  The Big Picture",
+    "section": "Internal Stakeholders",
+    "text": "Internal Stakeholders\nInternal stakeholders include:\n\nFMA Staff (including others in Analytical Services)\n\nAFSC Staff\n\nNOAA Staff"
+  },
+  {
+    "objectID": "02-the-big-picture.html#external-stakeholders",
+    "href": "02-the-big-picture.html#external-stakeholders",
+    "title": "3  The Big Picture",
+    "section": "External Stakeholders",
+    "text": "External Stakeholders\nExternal stakeholders include, but are not limited to:\n\nNPFMC and advisory bodies\n\nAcademics and other researchers\n\nADFG and other AK State personnel\n\nNGO’s\n\nThe U.S. Public\n\nAlaska Native’s and U.S. Federally recognized Tribal Nations are not stakeholders. They are co-owners and co-managers of the resource. Find out more here."
   },
   {
     "objectID": "01-intro.html#who-we-are",
     "href": "01-intro.html#who-we-are",
     "title": "2  Introduction",
     "section": "Who We Are",
-    "text": "Who We Are\nAs of 2023-08-04, the Analytical Services Program consists of\n\n\n\n\n\n\nJason Jannot, Program Manager\nSupervisory Research Fishery Biologist (NMFS) pronouns: he/him/his\nprofessional interests: Leadership, Team Building, Project Managment, Succession Planning\npersonal interests: biking, bluegrass banjo…among others\nLearn more about his leadership style here and about him at his personal website.\n\n\nJennifer Cahalan, Statistician\nPacific States Marine Fisheries Commission\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nCraig Faunce, Data Analyst\nResearch Fish Biologist (NMFS) AFSC, Seattle\nprofessional interests:\npersonal interests:\nYou can learn more about Craig, here\nAndy Kingham, Data Analyst & Developer\nOperations Research Analyst (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nGeoff Mayhew, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nPhil Ganz, Data Analyst\nFisheries Management Specialist (NMFS)\nAKRO, Juneau\nprofessional interests:\npersonal interests:\nYou can learn more about Phil here"
+    "text": "Who We Are\nAs of 2023-09-18, the Analytical Services Program consists of\n\n\n\n\n\n\nJason Jannot, Program Manager\nSupervisory Research Fishery Biologist (NMFS) pronouns: he/him/his\nprofessional interests: Leadership, Team Building, Project Managment, Succession Planning\npersonal interests: biking, bluegrass banjo…among others\nLearn more about his leadership style here and about him at his personal website.\n\n\nJennifer Cahalan, Statistician\nPacific States Marine Fisheries Commission\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nCraig Faunce, Data Analyst\nResearch Fish Biologist (NMFS) AFSC, Seattle\nprofessional interests:\npersonal interests:\nYou can learn more about Craig, here\nAndy Kingham, Data Analyst & Developer\nOperations Research Analyst (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nGeoff Mayhew, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle\nprofessional interests:\npersonal interests:\nPhil Ganz, Data Analyst\nFisheries Management Specialist (NMFS)\nAKRO, Juneau\nprofessional interests:\npersonal interests:\nYou can learn more about Phil here"
   },
   {
     "objectID": "01-intro.html#how-we-meet",
@@ -42,53 +77,11 @@
     "text": "References\n\n\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510."
   },
   {
-    "objectID": "02-the-big-picture.html#values-culture",
-    "href": "02-the-big-picture.html#values-culture",
-    "title": "3  The Big Picture",
-    "section": "Values & Culture",
-    "text": "Values & Culture\n\nTeam Core Values - Taken from the ADP Charter Collaboration - conversation, not lecturing Flexibility - kill your darlings for the greater good if necessary. Respect - we are all professionals and should be treated as such. Safety - the group space is safe for productive conflict Humor - don’t take anything too seriously Kindness - don’t be a jerk\n\n\nShare our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science.\n\nMRI - Most Respectful Interpretation - of what someone is saying to you"
-  },
-  {
-    "objectID": "02-the-big-picture.html#vision---where-are-we-going",
-    "href": "02-the-big-picture.html#vision---where-are-we-going",
-    "title": "3  The Big Picture",
-    "section": "Vision - Where are we going?",
-    "text": "Vision - Where are we going?\n\nWhat is the future state of the team? What does it look like?\nAnswers the question: Where are you going?\nIf there were no constraints at all, what would things look like in 5 years, 10 years, 20 years?\nWhat picture do we want to create for the future?\nWhat legacy do we want to leave behind? Aim for a vivid picture of what the future looks like in 2-3 pages\n\nWhat does success look like for the team?"
-  },
-  {
-    "objectID": "02-the-big-picture.html#purpose---why-do-we-do-this",
-    "href": "02-the-big-picture.html#purpose---why-do-we-do-this",
-    "title": "3  The Big Picture",
-    "section": "Purpose - Why do we do this?",
-    "text": "Purpose - Why do we do this?\nWhy does the team exist? What is the inspiration that guides and motivates the team to achieve the mission?"
-  },
-  {
-    "objectID": "02-the-big-picture.html#mission---what-do-we-do",
-    "href": "02-the-big-picture.html#mission---what-do-we-do",
-    "title": "3  The Big Picture",
-    "section": "Mission - What do we do?",
-    "text": "Mission - What do we do?\nWhat the team aims to do to fulfill its purpose and acheive it’s vision."
-  },
-  {
-    "objectID": "02-the-big-picture.html#internal-stakeholders",
-    "href": "02-the-big-picture.html#internal-stakeholders",
-    "title": "3  The Big Picture",
-    "section": "Internal Stakeholders",
-    "text": "Internal Stakeholders"
-  },
-  {
-    "objectID": "02-the-big-picture.html#external-stakeholders",
-    "href": "02-the-big-picture.html#external-stakeholders",
-    "title": "3  The Big Picture",
-    "section": "External Stakeholders",
-    "text": "External Stakeholders"
-  },
-  {
     "objectID": "03-code-of-conduct.html",
     "href": "03-code-of-conduct.html",
     "title": "4  Code of Conduct",
     "section": "",
-    "text": "A Code of Conduct is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our Big Picture, a Code of Conduct\n\nprovides a benchmark for self-evaluation\n\nhelps define our identity\n\nestablishes behavioral guidelines\n\nWe expect all team members to adhere to the policies and guidelines outlined here, as well as those found in the AFSC Code of Conduct.\nThe FMA Analytical Services Team is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.\nThis code of conduct applies to all A-Team spaces, including group and individual meetings (face to face and remote), workshops, email correspondence, chat and web channels, and code repositories. Anyone who violates this code of conduct may be sanctioned and referred to the AFSC’s policies.\n\nReporting\nIf you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at jason.jannot@noaa.gov. If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor. Other methods of reporting available to you include:\n\nNOAA Sexual Assault Sexual Harassment Helpline\nNOAA Workplace Violence Prevention and Response Program\nNOAA Workforce Management Office\nNOAA Office of Inclusion and Civil Rights\n\nIn addition to the AFSC’s Code of Conduct, the Dec. 8th 2022 Policy Statement on Equal Employment Opportunity from NOAA provides a good explanation of NOAA’s stance and policies against harassment, discrimination, and violence in the workplace."
+    "text": "A Code of Conduct is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our Big Picture, a Code of Conduct\n\nprovides a benchmark for self-evaluation\n\nhelps define our identity\n\nestablishes behavioral guidelines\n\nWe expect all team members to adhere to the policies and guidelines outlined here, as well as those found in the AFSC Code of Conduct.\nThe FMA Analytical Services Team is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.\nThis code of conduct applies to all A-Team spaces, including group and individual meetings (face to face and remote), workshops, email correspondence, chat and web channels, and code repositories. Anyone who violates this code of conduct may be sanctioned and referred to the AFSC’s policies.\n\nExpectations for Professional Behavior\nAll members of Analytical Services (including the Program Manager) are expected to conform to a set of behavioral norms that are designed to make the workplace a psychologically and physically safe space.\nA psychologically safe space is:\n\n“a climate in which people are comfortable expressing and being themselves.” – Amy Edmondson, The Fearless Organization\n\nIn practice, this means that people feel comfortable taking risks, being themselves, speaking their minds, and being openly vulnerable in front of co-workers. The ability to be vulnerable in a workplace is directly related to the consequences that individuals feel they might be subject to if they are openly vulnerable.\nIn a double-blind research study of teams, Google found that the most important feature of highly effective teams was the presence of psychological safety.\n\n\nTo promote psychological safety, members of the Analytical Services Program are expected to:\n\nDelay entering into conversations when feelings are “elevated” (i.e., high level of frustration, anger, upset, etc.)\n\n\nWhy? Anger impacts the way you process infomation. Other emotions can have negative impacts on communication as well.\n\nWhat to do\n\nIf you are angry, do not confront the person until you are able to have a rational conversation where you open to hearing them and can actively listen.\n\nIf you are confronted by a person who is angry or upset\n\nDo not to become defensive\n\nPolitely request to delay the conversation\n\nFollow-up when emotions have settled\n\n\n\n\nAlways assume positive intent of others. If your initial response is negative, try to change your viewpoint and find a positive explanation.\nRecognize the humanity in yourself and others. This means:\n\n\nRecognizing that no one is perfect, we all make mistakes.\n\nGracefully and sincerely apologizing when mistakes are made.\n\nGracefully accepting a sincere apology for mistakes when given.\n\nCultivating real compassion for yourself and others.\n\n\n\nReporting Harassment\nIf you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at jason.jannot@noaa.gov. If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor. Other methods of reporting available to you include:\n\nNOAA Sexual Assault Sexual Harassment Helpline\nNOAA Workplace Violence Prevention and Response Program\nNOAA Workforce Management Office\nNOAA Office of Inclusion and Civil Rights\n\nIn addition to the AFSC’s Code of Conduct, the Dec. 8th 2022 Policy Statement on Equal Employment Opportunity from NOAA provides a good explanation of NOAA’s stance and policies against harassment, discrimination, and violence in the workplace."
   },
   {
     "objectID": "04-onboarding.html#cac---common-access-card",
@@ -266,72 +259,121 @@
     "text": "Debrief/Lessons Learned"
   },
   {
+    "objectID": "071-collaborate.html#note-this-represents-a-starting-place-for-a-team-discussion",
+    "href": "071-collaborate.html#note-this-represents-a-starting-place-for-a-team-discussion",
+    "title": "9  Collaboration & Code Review",
+    "section": "NOTE: This represents a starting place for A-Team discussion",
+    "text": "NOTE: This represents a starting place for A-Team discussion\nIt is an amalgamation of Jason’s Git Collaboration notes and the 2024 ADP Team Charter\n\n\n\n\nGit Collaboration\n\n\nDetermining the “Git Work Flow” is a huge part of working in a team! Be sure to check out the “Guidelines” section in the previous link for best practices when developing a workflow.\n\n\n\n\n\n\n\nJason suggests the Centralized Workflow (see link above) which keeps a linear history1.\n\n\nHow to Collaborate\n\nAdd collaborators to repository\n\nCollaborators clone repository to their local machine\n\nMake changes\n\nCreate a New Branch\n\nName it appropriately e.g., jason/newfeature\n\nMake changes locally on the new branch\n\nCommit changes to the new branch\n\nAs a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.\n\n\nSee below before completing this step - Push changes to the remote repository…this will create a pull request….\n\n\n\n\nBefore Pushing to the Repository\n\nSwitch to your local main branch ($git checkout main)\n\nPull the remote main into your local main ($git pull origin main)\n\nSwitch to your dev branch ($git checkout &lt;your-dev-branch-name-here&gt;)\n\nMerge your local main to your local dev branch ($git merge main)\n\nNOTE This is where conflicts will show up if they will occur\n\nFix any conflicts\n\nDo some checking before pushing:\n\nCheck the commits that will be pushed ($git log - - oneline; q escapes you back to the $)\n\nCheck your connection ($git remote -v)\n\n\nPush your changes ($git push origin &lt;your-branch-name&gt;)\n\n\n\nPull Request\nA pull request is a request by a collaborator for the repo owner to “pull” the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.\n\nPull Request - What are they good for?\nPull request can simplify code review. They are a discussion point between coders. They can be used to:\n\nreview and discuss code: a new feature, improvements, strategy, etc.\naddress issues\nany time new code is added to the repo\n\nWhat are the benefits of pull requests as code review2?\n\nIncreases the quality of the code\nDecreases probability of breaking stuff\nFrees time from micromanaging other peoples code\nReduces the need for meetings\nEmail notifications act as the interface\nThey create a history - all discussion & code (even if it is ultimately rejected), lives on a branch\n\nThe downsides include (see also2):\n1. You have to wait to have your code reviewed by others\n2. Reviewer can get backed up & overwhelmed\n\n\nHow to Submit a Pull Request\n\nGo to the repo, at the top click on Pull Requests\n\nCreate a New Pull Request (green button upper right)\n\nEnsure you are comparing the right branches\n\nLook at the gitdiff\n\nGive it an appropriate succint title\n\nInclude a descriptive message\n\nWhat has been done\n\nHow to use the new code\n\nWhat someone could do to test the code, e.g., do…\n\n\nCreate the request\n\nAdd a reviewer - upper right hand corner. Will trigger an email.\n\nOnce reviewed, the pull request will be merged with the branch (typically main)\n\nNOTE: You can add more commits to a single pull request, provided it has not been reviewed and merged. However, only do this for very minor changes - missing spaces, typos, missing last lines etc.\n\n\nHow to Review a Pull Request\n\nOpen the pull request\n\nReview the code changes\n\nReviewer - provide comments and feedback as comments\n\nOriginator - respond to comments, perhaps add comments\n\nReviewer - Approve changes (upper right corner) and add approval comment\n\nReviewer - merge pull request\n\nOriginator - delete the branch once the code has been merged. Please do this so that our remote is clean!\n\nDONT FORGET TO PULL the new code to your local instance to get latest code."
+  },
+  {
+    "objectID": "071-collaborate.html#issues",
+    "href": "071-collaborate.html#issues",
+    "title": "9  Collaboration & Code Review",
+    "section": "Issues",
+    "text": "Issues\nIssues are a great way to improve code outside the normal pull request-review process. Issues can be used to propose:\n\nFixes to broken code\n\nCool new features\n\nTackle TODO lists\n\nDocument Q&A\n\nUse tags (right sidebar) to highlight the type of issue being submitted.\n\nHow to submit an Issue\n\nOpen an issue\n\nGive it a succinct but appropriate name\n\nGive it a tag\n\nUse the @ in the body of the issue to mention others who might be interested or involved in the issue resolution\n\nUse simple pseudo-code (via Markup code) to describe your proposed changes.\n\nProvide a minimal reproducible example for bugs/errors, a.k.a. a repex\n\nBe sure to close the issue once it is complete.\n\nPro Tip: You can use the following statement to make Github automatically close an issue:\nthis closes issue #&lt;insert-issue-num&gt; see example here\n\n\n\n\nAssigning Issues\n\nFeel free to assign yourself the issue, but be sure to eventually tackle the issue.\nBEFORE ASSIGNING TO OTHERS discuss with the other person and/or the PM to ensure assignment is appropriate and does not conflict with current priorities."
+  },
+  {
+    "objectID": "071-collaborate.html#compare-two-branches-on-github",
+    "href": "071-collaborate.html#compare-two-branches-on-github",
+    "title": "9  Collaboration & Code Review",
+    "section": "Compare Two Branches on GitHub",
+    "text": "Compare Two Branches on GitHub\n\nOpen the branch with the newest commits\nAt the top you’ll see the number of commits difference like this:\n\n\n\nClick on the link “&lt;#&gt; commit ahead”\nThat will bring you to the diff page! Voila!"
+  },
+  {
+    "objectID": "071-collaborate.html#to-link-a-pull-request-with-an-issue",
+    "href": "071-collaborate.html#to-link-a-pull-request-with-an-issue",
+    "title": "9  Collaboration & Code Review",
+    "section": "To link a pull request with an issue",
+    "text": "To link a pull request with an issue\nLink Pull Request with Issue"
+  },
+  {
+    "objectID": "071-collaborate.html#to-remove-a-file-from-tracking-that-is-already-being-tracked",
+    "href": "071-collaborate.html#to-remove-a-file-from-tracking-that-is-already-being-tracked",
+    "title": "9  Collaboration & Code Review",
+    "section": "To remove a file from Tracking that is already being tracked",
+    "text": "To remove a file from Tracking that is already being tracked\n!!!! IMPORTANT NOTE !!!! ==&gt; The following steps will completely remove the files on all remotes once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains…)\n\nMove the file outside the git repository, i.e., save to your local machine/Desktop\n\nAdd all the file/folder names that you want to stop tracking in the repo but keep locally to .gitignore.\n\nOn the command line, execute\n\nFor a file: $git rm --cached put/here/your/file.ext\n\nFor a folder: $git rm --cached folder/\\* (if the files are in a folder you need to use /* to escape the *)\n\n\nCommit your changes:\n\n$git commit -m “&lt;Message&gt;”\n\nPush to remote."
+  },
+  {
+    "objectID": "071-collaborate.html#to-completely-remove-an-item-from-the-repo",
+    "href": "071-collaborate.html#to-completely-remove-an-item-from-the-repo",
+    "title": "9  Collaboration & Code Review",
+    "section": "To completely Remove an item from the repo",
+    "text": "To completely Remove an item from the repo\n\nOn your local machine, navigate to file and delete it\n\nThe git status should show that file was deleted.\n\n\nStage all uncommitted changes ($git add -u)\n\nCommit the deletion ($git commit -m &lt;commit message&gt;)\n\nView changes on the branch ($git log –online)\n\nensure local main is up-to-date with remote main ($git checkout main; $git pull origin main)\n\nEnsure your branch is up-to-date with your local main ($git checkout &lt;your-branch-name&gt;; $git merge main)\n\nPush your changes to the remote ($git push origin &lt;your-branch-name&gt;)"
+  },
+  {
+    "objectID": "071-collaborate.html#footnotes",
+    "href": "071-collaborate.html#footnotes",
+    "title": "9  Collaboration & Code Review",
+    "section": "",
+    "text": "If you don’t like the Centralized Workflow, try the Trunk-based Workflow.↩︎\nFor a counter argument to pull requests, see this video↩︎"
+  },
+  {
     "objectID": "08-offboarding.html#exit-interview",
     "href": "08-offboarding.html#exit-interview",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Exit Interview",
     "text": "Exit Interview\nSet up a dedicated time to meet with the A-Team PM to talk about your time in FMA, and to go through the appropriate checklist above. Besides the checklist, things to talk about include the best part of being part of the FMA A-Team, whether you got the support you needed and what could we improve for someone in your role in the future."
   },
   {
     "objectID": "08-offboarding.html#project-documentation",
     "href": "08-offboarding.html#project-documentation",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Project Documentation",
     "text": "Project Documentation\nProject work should be hosted in the A-Team Github repository and saved on the FMA Analytics Group Google drive.\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if confidential data). Ideally, the README should also include links to publications and presentations from the work."
   },
   {
     "objectID": "08-offboarding.html#publications-and-presentations",
     "href": "08-offboarding.html#publications-and-presentations",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Publications and Presentations",
     "text": "Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder in the FMA Analytics Group Google drive."
   },
   {
     "objectID": "08-offboarding.html#data",
     "href": "08-offboarding.html#data",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Data",
     "text": "Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nNot included/hosted on github or any other public repository (unless non-confidential/anonymized)\n\nAccessible to A-Team members.\nBriefly described in the project README."
   },
   {
     "objectID": "08-offboarding.html#code",
     "href": "08-offboarding.html#code",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Code",
     "text": "Code\nCode used or developed for your projects should be:\n\ncomplete and well-documented, including information in a README about what each file does and workflow to run the code.\nhosted in the A-Team Github repository and saved on the FMA Analytics Group Google drive."
   },
   {
     "objectID": "08-offboarding.html#turning-in-equipment",
     "href": "08-offboarding.html#turning-in-equipment",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Turning in equipment",
     "text": "Turning in equipment\nReturn all equipment (e.g., computer and peripherals) you have been using to the A-Team PM. Ensure all office furniture is present and remains in your office."
   },
   {
     "objectID": "08-offboarding.html#terminating-access",
     "href": "08-offboarding.html#terminating-access",
-    "title": "9  Offboarding",
+    "title": "10  Offboarding",
     "section": "Terminating Access",
     "text": "Terminating Access\n\nAccess to your @noaa.gov account will terminate on your last day. Transfer ownership of Google Docs to the A-Team PM.\nCAC access to the NOAA facilities and computers will be terminated when you leave Federal service. Ensure you have all your personal belongings prior to your last day."
   },
   {
     "objectID": "09-resources.html#fma",
     "href": "09-resources.html#fma",
-    "title": "10  Resources",
+    "title": "11  Resources",
     "section": "FMA",
     "text": "FMA\nOverview of the North Pacific Observer Program (NPOP)\nActivity Plans"
   },
   {
     "objectID": "09-resources.html#afsc",
     "href": "09-resources.html#afsc",
-    "title": "10  Resources",
+    "title": "11  Resources",
     "section": "AFSC",
     "text": "AFSC\nAFSC Intranet\n\nStrategic Science Plans\nAFSC Strategic Science Plans define vision, mission, core values, goals and objectives for a 5 year period.\nFY2023-FY2027\n\n\nAnnual Guidance Memos\nAnnual Guidance Memorandums prioritize activities for a single year to meet the objectives in the Strategic Science Plan.\nFY2024\nFY2023"
   },
   {
     "objectID": "09-resources.html#noaa",
     "href": "09-resources.html#noaa",
-    "title": "10  Resources",
+    "title": "11  Resources",
     "section": "NOAA",
     "text": "NOAA\nNOAA’s Vision and Mission"
   },
@@ -355,5 +397,12 @@
     "title": "Appendix C — Acronyms",
     "section": "",
     "text": "The US Government is absolutely slaphappy about acronyms.\n\n\n\n\n\n\n\nAcronym\nDefinition\n\n\n\n\nAFSC\nAlaska Fisheries Science Center\n\n\nAKRO\nAlaska Regional Office\n\n\nAMMOP\nAlaska Marine Mammal Observer Program\n\n\nA-Team\nFMA Analytical Services Program\n\n\nBSAI\nBering Sea Aleutian Islands\n\n\nCAC\nCommon Access Card, a.k.a., your “ID badge”\n\n\nDD\nDivision Director\n\n\nFMA\nFisheries Monitoring and Analysis Division\n\n\nFMAC\nFishery Monitoring Advisory Committee\n\n\nGOA\nGulf of Alaska\n\n\nM-Team\nFMA Management Team = DD, Deputy Director, Debriefing PM, Training PM, Analytical Services PM\n\n\nNPFMC\nNorth Pacific Fishery Management Council\n\n\nNPOP\nNorth Pacific Observer Program\n\n\nOOO\nOut Of Office\n\n\nPCFMAC\nPartial Coverage Fishery Monitoring Committee\n\n\nPM\nProgram Manger\n\n\nPSMFC\nPacific States Marine Fisheries Commission (coloquially, PacStates)\n\n\nWRC\nWestern Regional Center, a.k.a., the Sand Point Seattle Campus"
+  },
+  {
+    "objectID": "02-the-big-picture.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
+    "href": "02-the-big-picture.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
+    "title": "3  The Big Picture",
+    "section": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.",
+    "text": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024."
   }
 ]
