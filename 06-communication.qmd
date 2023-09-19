@@ -1,8 +1,8 @@
-# Communication {#communication}
+# Communication {#communication}![](_img/communication_icon.png){height=70px}
 
 There is a plethora of communication methods and technologies.  However, the communication tool should be chosen based on the purpose of the communication.  The purpose of this document is to explain how communication tools differ so that the tool used is appropriate given the topic(s) and timelines. 
 
-## Email
+## Email  ![](_img/email_icon.png){height=30px}
 
 **Topics**: Single topics requiring little/no context, explanation, or discussion    
 **Time**:    
@@ -24,7 +24,7 @@ There is a plethora of communication methods and technologies.  However, the com
 
 **Consider**: moving to a video call/FTF or phone call if the email chain goes back and forth more than a few times or in-depth discussion is necessary.
 
-## Video call/Face-To-Face Meeting (FTF)
+## Video call/Face-To-Face Meeting (FTF)   ![](_img/FTF_Vchat_icon.png){height=30px}
 **Topics**: Sensitive, complex, or multiple topics    
 **Time**: Lengthy discussion necessary; actions or responses will be discussed    
 **Tone**: Voice inflection, body language and body posture can be distorted or hidden by the tech. Eye contact can be misinterpreted, misleading, or absent.    
@@ -69,7 +69,7 @@ There is a plethora of communication methods and technologies.  However, the com
 
 **Consider**: moving lengthy discussions to a video call or FTF.
 
-## Phone 
+## Phone  ![](_img/phone_icon.png){height=30px}
 **Topics**: Sensitive or complex topics    
 **Time**:    
 
@@ -91,7 +91,7 @@ There is a plethora of communication methods and technologies.  However, the com
   
 **Consider**: following up with an email summary of the conversation
 
-## Mobile Text/SMS
+## Mobile Text/SMS ![](_img/communication_icon.png){height=40px}
 **Topics**: Extremely time sensitive    
 **Time**:    
 

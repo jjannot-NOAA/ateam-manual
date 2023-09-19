@@ -1,9 +1,16 @@
-# Expectations {#expectations}
+# Expectations {#expectations}![](_img/wearewilling.png){height=150px}
+
+
+## Professional Behavior
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#code-of-conduct) of this manual.
+
 
 ## Availability
 * Core hours for the AFSC are 9:30 am to 2:30 pm, T,W,R.    
 * A-Team members are encouraged to work in the office on one or more of these days.    
-* Core hours do not apply on Monday or Friday.
+* Core hours do not apply on Monday or Friday.    
+* NOAA Telework Policy for Federal employees requires 2 days in the office per week.    
+* Non-Federal employees should follow the telework guidance from their employer.
 
 You are **not** expected to be available 24/7. Similarly, unless it is an emergency, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or any time on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, team members will not be penalized for sending communication outside normal working hours.
 
@@ -39,7 +46,7 @@ Attendance is strongly recommended when possible at:
 
 ## Expectations of the Program Manager
 
-As of ```r format(Sys.Date(), "%Y")```, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
+As of `r date()`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
 
 The Program Manager will (at a minimum) provide the A-Team with:  
 
@@ -75,7 +82,8 @@ A-Team members will (at minimum):
 
 * strive to produce the best science, given the constraints    
 * grow and maintain technical and inter-personal skills
-* share knowledge, experience, code, and time
+* share knowledge, experience, code, and time    
+* adopt a service mindset
 * adopt a collaborative working mindset    
 * adapt and be flexible, within reason    
 * communicate clearly and effectively
@@ -96,3 +104,6 @@ Some ways to adopt a service mindset:
 ## Team Collaboration and Communication
 
 Although the Program Manager is your primary supervisor, everyone should always feel like they can reach out to anyone else on the A-team for help or collaboration.
+
+----
+<font size="2.5">"We are Willing to Try" artwork &copy; Samantha Tustison Snyder, Doodle Art Alley Inc.</font> 

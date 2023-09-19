@@ -1,7 +1,7 @@
-# Code of Conduct {#code}
-![](_img/Code_Conduct_icon.png){height=100}
 
-A _Code of Conduct_ is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), a _Code of Conduct_    
+# Code of Conduct \hspace{1cm} {#code-of-conduct}![](_img/Code_Conduct_icon.png){height=40px}
+
+A _Code of Conduct_ is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), the _Code of Conduct_    
 
   * provides a benchmark for self-evaluation    
   * helps define our identity    
@@ -9,11 +9,16 @@ A _Code of Conduct_ is a set of basic ground rules that we ask team members to f
 
 __We expect all team members to adhere to the policies and guidelines outlined here, as well as those found in the [AFSC Code of Conduct](https://drive.google.com/file/d/1wV0g2Tea0jdPjsTeNNST7I871j70qLAw/view).__  
 
-__*The FMA Analytical Services Team is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.*__
+__*The FMA Analytical Services Program is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.*__
 
 This code of conduct applies to all A-Team spaces, including group and individual meetings (face to face and remote), workshops, email correspondence, chat and web channels, and code repositories. Anyone who violates this code of conduct may be sanctioned and referred to the AFSC's policies.
 
-### Expectations for Professional Behavior
+----
+
+## Psychological Safety
+
+### What is Psychological Safety?
+
 All members of Analytical Services (including the Program Manager) are expected to conform to a set of behavioral norms that are designed to make the workplace a psychologically and physically safe space.
 
 A psychologically safe space is:
@@ -24,7 +29,20 @@ In practice, this means that people feel comfortable taking risks, being themsel
 
 In a double-blind research study of teams, [Google](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/) found that the most important feature of highly effective teams was the presence of [psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/).
 
-### To promote psychological safety, members of the Analytical Services Program are expected to:
+![](_img/Trust_PsychSafety_Science4Work_icon.png){style="float:center; padding-left:40px"}
+
+### Why Do We Need Psychological Safety in the Workplace?
+
+Evidence shows that creating a psychologically safe workplace is strongly linked with highly effective teams[^1] which are more likely to share ideas, give and welcome feedback, experiment, and discuss mistakes openly^1,^[^2]. Psychologically safe workplaces are linked to higher employee satisfaction^2^ 
+
+[^1]:https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/ 
+[^2]:https://scienceforwork.com/blog/psychological-safety/
+
+![](_img/ANTECEDENTSOUTCOMES_PsychSafety_Science4Work_icon.png){style="float:center; padding-left:40px"}
+
+### How Do We Create Psychological Safety in the Workplace?
+
+To promote psychological safety, **all members of the Analytical Services Program are expected to:**
 
 1. Delay entering into conversations when feelings are "elevated" (i.e., high level of frustration, anger, upset, etc.)    
 
@@ -47,8 +65,11 @@ In a double-blind research study of teams, [Google](https://rework.withgoogle.co
 
 
 
+Both images above are from [Science for Work](https://scienceforwork.com/blog/psychological-safety/).
 
-### Reporting Harassment
+----
+
+## Reporting Harassment
 
 If you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at [jason.jannot@noaa.gov](mailto:jason.jannot@noaa.gov). If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor.  Other methods of reporting available to you include:    
 

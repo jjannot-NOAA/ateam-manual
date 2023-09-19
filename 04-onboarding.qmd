@@ -1,6 +1,6 @@
 # Onboarding {#onboarding}
 
-Welcome to the FMA A-Team!
+## Welcome to the FMA A-Team! 
 
 ```{r, echo=FALSE}
 my_output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
@@ -11,6 +11,7 @@ knitr::include_graphics("_img/ateamgiffy.gif")
 
 ```
 
+<p align="left">
 Here are some resources to help you get settled.  
 
 Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
@@ -24,10 +25,16 @@ For Federal FTEs, check out the following for many good resources:
 [Fisheries New Employee Orientation website](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/training-and-development/fisheries-onboarding-and-orientation-program)    
 [New Employee Onboarding](https://drive.google.com/drive/folders/1aZcoJooHxNMh4kjCiv4WUgpDtszub1PI)
 
+Foreign Nationals should review the [AFSC Interal Foreign Nationals webpage](https://sites.google.com/noaa.gov/myafsc/administrative/security/foreign-nationals) during their first few days of employment.
+
+</p>
+
 ## CAC - Common Access Card
 A CAC will give you access to buildings and computer systems.  It is the necessary first step to getting started.
 
-*Both **Federal and non-Federal employees** will need a CAC*
+Both **Federal and non-Federal employees** will need a CAC.    
+
+Foreign Nationals (FN) **are not** assigned a CAC. FNs will need to obtain a [CAC Waiver](https://sites.google.com/noaa.gov/myafsc/technology/it-security/cac-waivers). Work with your NOAA Sponsor.
 
 ### Get a New CAC
 CAC cards are only issued at Defense Department authorized locations (referred to as "RAPIDS" offices) and may or may not be associated with a NOAA facility.  For AFSC staff, the following locations are the closet RAPIDS stations.  
@@ -54,14 +61,14 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   
 ## Schedules, Time & Attendance
 #### non-Federal employees
-Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with Jason on setting your schedule.
+Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.
 
 #### Federal employees
 If you are federal employee, you will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in webTA/GovTA.
 
 You should:
   
-* work with Jason to set your work schedule    
+* work with the Program Manager to set your work schedule    
 * familiarize yourself with the defintions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
 * fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
 * fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
@@ -79,17 +86,54 @@ Guidance on leave should be provided by your employer.
 #### Federal employees
  Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
-### Compensatory Time
+### Working Over-Time (more than 40/80)
 #### non-Federal employees
-Guidance on compensatory time should be provided by your employer.
+Obtain guidance on over-time from your employer.
 
 #### Federal employees
- For Federal staff, in most cases, compensatory time can be awarded for travel that occurs outside or beyond normal working hours or days.
+ For Federal staff, there are three mechanisms for being compensated for working more than 80 hours in a pay period (PP):
+ 
+ * Overtime Pay
+ * Credit hours for those on maxi-flex schedules
+ * Compensatory time
+ 
+##### Overtime Pay
+ Overtime pay is awarded for working beyond the 80 hours in a pay period.  This should not occur often during the year. As best as possible, please work with the Program Manager ahead of time to gain approval for overtime work.
+ If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay. Guidelines:
+ 
+ * Gain approval from Program Manager beforehand
+ * Work with PM and Timekeeper to fill out paperwork
+ 
+##### Credit Hours
+ If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay (see below). Guidelines:
+ 
+ * Can carry up to 24 credit hours    
+ * No advance approval is needed    
+ * Properly record credit hours on timesheet    
+ * Submit a Request for Premium Pay in GovTA
+ 
+
+##### Compensatory Time
+Compensatory time can be awarded for **travel** that occurs outside or beyond normal working hours or days.
  
  Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay.
  
   A quick guide for how to claim and record Compensatory Time can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
-  
+
+## Duties {#duties}
+Both Federal and non-Federal employees will work with the PM to determine specific responsibilities, individual projects, deliverables, and duties. Duties and responsibilities will be revisited (with the PM, and when appropriate, members of the A-Team) during the year and updated to reflect any changes on a regular basis.
+
+Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
+
+* leading and assisting in designated research projects
+* participation in professional development opportunities
+* presenting analyses and results to NPFMC and other stakeholders    
+* developing and submitting research funding proposals
+* submitting and publishing NOAA Technical Memorandum and other reports
+* submitting and publishing peer-reviewed journal articles
+* participating in outreach activities
+* attending scientific and professional conferences
+
 ## Performance {#sec-perf}
 #### non-Federal employees
 Guidance on performance reviews should be provided by your employer.
@@ -97,15 +141,7 @@ Guidance on performance reviews should be provided by your employer.
 #### Federal employees
 Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.    
 
-Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
-
-* leading and assisting in designated research projects  
-* participation in professional development opportunities  
-* developing and submitting research funding proposals  
-* submitting and publishing NOAA Technical Memorandum and other reports    
-* submitting and publishing peer-reviewed journal articles
-* participating in outreach activities    
-* attending scientific and professional conferences
+Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs are listed above under [Duties](#duties).
 
 More about the performance process can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps).
 

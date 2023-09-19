@@ -4,8 +4,9 @@ render: true
 ---
 # Collaboration & Code Review {#071-collaborate.qmd}
 
-## NOTE: This represents a starting place for A-Team discussion
-It is an amalgamation of [Jason's Git Collaboration notes](https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx) and the [2024 ADP Team Charter](https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y)
+## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+
+Currently, this is an amalgamation of [Jason's Git Collaboration notes](https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx) and the [2024 ADP Team Charter](https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y)
 
 :::: {.columns}
 
