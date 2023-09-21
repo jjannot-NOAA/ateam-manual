@@ -21,6 +21,7 @@ The US Government is absolutely slaphappy about acronyms.
 |PCFMAC|Partial Coverage Fishery Monitoring Committee|
 |PM|Program Manger|
 |PSMFC|Pacific States Marine Fisheries Commission (coloquially, PacStates)|
+|SON|Statement of Nondisclosure for Using Confidential Fisheries Data|
 |WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|
 
 

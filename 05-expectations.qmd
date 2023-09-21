@@ -1,8 +1,12 @@
+---
+engine: knitr
+---
+
 # Expectations {#expectations}![](_img/wearewilling.png){height=150px}
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#code-of-conduct) of this manual.
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#code-of-conduct) of this manual.  See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
 
 
 ## Availability
@@ -32,10 +36,10 @@ Much of our work is communicating and much of that communication comes in the fo
 
 Attendance, either virtual or in-person, is reasonably expected at:
 
-* Semimonthly A-Team meetings 
-* Individual 1:1 with Jason (in-person when possible)
+* [Semimonthly A-Team meetings](01-intro.qmd#ateam-meetings) 
+* [Individual 1:1 with Jason](#01-intro.qmd#meet-with-Jason) (in-person when possible)
 * Regularly scheduled project meetings  
-* NPFM Council Meetings  
+* [NPFM Council Meetings](https://www.npfmc.org/current-or-next-council-meeting/)  
 * FMA All-hands
 
 Attendance is strongly recommended when possible at:    
@@ -46,7 +50,7 @@ Attendance is strongly recommended when possible at:
 
 ## Expectations of the Program Manager
 
-As of `r date()`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
+As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
 
 The Program Manager will (at a minimum) provide the A-Team with:  
 
@@ -83,8 +87,8 @@ A-Team members will (at minimum):
 * strive to produce the best science, given the constraints    
 * grow and maintain technical and inter-personal skills
 * share knowledge, experience, code, and time    
-* adopt a service mindset
-* adopt a collaborative working mindset    
+* adopt a [service mindset](https://www.youtube.com/watch?v=q0mzqUMAc20)
+* adopt a [collaborative working mindset](https://www.youtube.com/watch?v=AMG8ObDmbaM)    
 * adapt and be flexible, within reason    
 * communicate clearly and effectively
 * communicate both successes and sticking points regularly    
@@ -94,7 +98,7 @@ Remember, as a government agency, we serve the people of the United States and *
 
 Some ways to adopt a service mindset:    
 
-* Share - code, knowledge, resources, opportunities 
+* Share - [code](071-collaborate.qmd), knowledge, resources, opportunities 
 * Serve as a role model    
 * Serve as a resource for other members of the A-Team    
 * Nominate your peers for their hard work and achievements - [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards).

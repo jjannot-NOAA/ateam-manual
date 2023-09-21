@@ -5,18 +5,19 @@ bibliography: references.bib
 
 # Introduction {#intro}
 
-The FMA Analytical Services Team adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
+The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-In short, our mission is...**INSERT SUMMARY OF MISSION FROM [HERE](02-the-big-picture.qmd#sec-big-picture)**
+In short, our mission is to use fishery-dependent data collected by the FMA and as in conjunction with other data sources collected by various agencies to create scientific products that inform fisheries management and science.
+<!-- Modify based on Program Launch additions to 02-the-big-picture.qmd#sec-big-picture -->
 
-See [The Big Picture](02-the-big-picture.qmd#sec-big_picture) section for more detail on our culture and philosophy.
+[The Big Picture](02-the-big-picture.qmd#sec-big_picture) describes our culture and philosophy in more detail.
 
-We are motivatedby... **INSERT MOTIVATIONAL REFERENCES**...:
-
+The FMA Analytical Services Program was a team for many years prior to becoming a fully-fledged program in May 2023. Internally, we informally refer to ourselves as the A-Team.
+<!-- We are motivated by... **INSERT MOTIVATIONAL REFERENCES**...: -->
 <!-- *\[To come: recommended reading list\]* -->
 
 ## Who We Are
- As of `r Sys.Date()`, the Analytical Services Program consists of
+ As of `r format(Sys.Date(), "%Y")`, the Analytical Services Program consists of
  
 :::: {.columns}
 
@@ -34,10 +35,12 @@ We are motivatedby... **INSERT MOTIVATIONAL REFERENCES**...:
 
 :::{.column width="70%"}
  
- **Jason Jannot, Program Manager**    
+ [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
   Supervisory Research Fishery Biologist (NMFS)
   pronouns: he/him/his
- 
+  
+  Jason was originally hired as an analyst with the FMA A-Team in Februrary 2023 and became the PM in May 2023.
+  
   professional interests: Leadership, Team Building, Project Managment, Succession Planning    
   
   personal interests: biking, bluegrass banjo...among others 
@@ -94,11 +97,21 @@ We are motivatedby... **INSERT MOTIVATIONAL REFERENCES**...:
 
 ## How we meet
 
-### A-Team Meetings
+### A-Team Meetings {#ateam-meetings}
 #### semimonthly Thursdays, 1000 PT, Google Meet
-Currently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions made, and outline action items during these meetings. 
+Currently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions, and outline action items during these meetings.
 
-### 1:1 with Jason
+The [agenda](https://docs.google.com/document/d/1WvOqt77kHU4_72IQFUuYN3M9kF2xTi56QtwpRFHf6C4/edit#heading=h.32mfp9s1k5bh) is a single document -- this makes finding and referencing old agenda items easier.  At the end of each meeting, in prep for the next meeting, the table and agenda outline are copied to the top of the page, the date of the next meeting is added and any items or decisions that were covered and settled or meetings that have passed are removed to make space for the next meeting's items.  
+
+During the time between meetings, staff are expected to:    
+
+* fill in their updates in the table    
+* review all the staff updates prior to the meeting and come with any questions    
+* if appropriate, add items to the Discussion, Parking Lot, Meetings or other sections of the agenda    
+
+[Scrivener](https://www.wordnik.com/words/scrivener) duties for the meeting rotate among A-Team staff and are listed at the bottom of the agenda.  The Scrivener is responsible for setting up the page for the next meeting (see above), running the meeting, and documenting discussions and decisions. 
+
+### 1:1 with Jason {#meet-with-Jason}
 We each have individual in-person meetings with Jason.    
 Each  member is responsible for documenting their 1:1 meetings with Jason, including tracking decisions and action items for themselves. Jason is happy to collaborate in Google Docs with individuals if that is their desire.
 

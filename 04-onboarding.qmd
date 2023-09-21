@@ -54,9 +54,17 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   * get logged into NOAA computer & Google account
   * request VPN accounts
   * download software needed (e.g., R, RStudio, SQL Developer, Endnote)
-  * check the [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it) for more information
+  * check the [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it) for more information    
   
-  [IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)
+#### Confidential Data
+Data used by the Analytical Services Program in it's raw[^1] form is considered to contain confidential information.  As such, you will need to read and sign a Statement of Non-Disclosure (SON).  Work with the PM to get this completed in the early days of on-boarding.    
+
+All confidential data must be summarized to meet the Rule of Three before being shared with anyone who does not have a current, signed SON on file with FMA.  The rule of three requires that, when data is aggregated, every data point in the aggregated data set includes a minimum of three entities which mask the confidential information in such a way that individual entities cannot be identified or tied to a specific data point.
+
+More general information on confidential data can be found [here](https://sites.google.com/noaa.gov/myafsc/technology/it-security/privacy-impacts).
+  
+#### Other IT Resouces  
+  [IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)    
   [IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
   
 ## Schedules, Time & Attendance
@@ -64,7 +72,7 @@ CAC cards are only issued at Defense Department authorized locations (referred t
 Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.
 
 #### Federal employees
-If you are federal employee, you will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in webTA/GovTA.
+If you are federal employee, you will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in GovTA.
 
 You should:
   
@@ -72,7 +80,7 @@ You should:
 * familiarize yourself with the defintions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
 * fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
 * fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
-* fill out a Telework Application Routing form
+* fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform)
 * take the CLC Telework Training    
 
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
@@ -105,7 +113,7 @@ Obtain guidance on over-time from your employer.
  * Work with PM and Timekeeper to fill out paperwork
  
 ##### Credit Hours
- If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay (see below). Guidelines:
+ If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay. Guidelines:
  
  * Can carry up to 24 credit hours    
  * No advance approval is needed    
@@ -114,11 +122,11 @@ Obtain guidance on over-time from your employer.
  
 
 ##### Compensatory Time
-Compensatory time can be awarded for **travel** that occurs outside or beyond normal working hours or days.
+Compensatory time can be awarded for **travel** that occurs outside or beyond normal working hours or days (e.g., "red-eye" flight, travel on weekend, etc).
  
- Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay.
+ Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay or credit hours (see above).
  
-  A quick guide for how to claim and record Compensatory Time can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
+  A quick guide for how to claim and record Compensatory Time for traveling can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
 
 ## Duties {#duties}
 Both Federal and non-Federal employees will work with the PM to determine specific responsibilities, individual projects, deliverables, and duties. Duties and responsibilities will be revisited (with the PM, and when appropriate, members of the A-Team) during the year and updated to reflect any changes on a regular basis.
@@ -158,13 +166,17 @@ Our physical offices are in Building 4 of the WRC.
 The following are FMA A-Team (and affiliated staff) office numbers:    
 
 * 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)
-* 1057 - Lacey Jeroue, AMMOP Program Manager
-* 1057 - Andy Kingham, Analyst/IT developer
-* 1057 - Geoff Mayhew, Research Fishery Biologist
-* 1056 - [Craig Faunce, Research Fisheries Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
-* 1089 - Jennifer Cahalan, Statistician/Analyst
-* [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz), [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd), [Jennifer Mondragon](https://www.fisheries.noaa.gov/contact/jennifer-mondragon) all work in the AKRO in Juneau and work closely with the FMA A-Team.
-
+* 1057 - XXXX XXXXX, Analyst, PSMFC
+* 1057 - Andy Kingham, Analyst/IT developer, NOAA
+* 1057 - Geoff Mayhew, Research Fishery Biologist, NOAA
+* 1056 - [Craig Faunce, Research Fisheries, NOAA  Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
+* 1089 - Jennifer Cahalan, Statistician/Analyst, PSMFC
+* 2060 - Lacey Jeroue, AMMOP Program Manager, PSMFC
+* Alaska Regional Office (AKRO) Juneau A-Team collaborators    
+  * [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz)    
+  * [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd)    
+  * [Jennifer Mondragon](https://www.fisheries.noaa.gov/contact/jennifer-mondragon)   
+  
 Other FMA staff offices
 
 * 1059 - [Jennifer Ferdinand, FMA Division Director](https://www.fisheries.noaa.gov/contact/jennifer-ferdinand)
@@ -204,3 +216,5 @@ NOAA offers this non-taxable transit-fare subsidy program to encourage federal e
 
   Health and safety resources (e.g., reporting an accident) can be found [here](https://sites.google.com/noaa.gov/myafsc/safety).
 
+
+[^1]: Raw here could mean the data has gone thru QAQC processes as well as other processing. However, the data has **not** been summarized to meet the rule of three.

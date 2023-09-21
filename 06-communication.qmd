@@ -43,6 +43,12 @@ There is a plethora of communication methods and technologies.  However, the com
   
 **Consider**: using other methods for simple updates that are informational only and require no response.
 
+---
+
+You are expected to follow the [AFSC Guidance on Inclusive Meetings in Hybrid Work Environments](https://docs.google.com/document/d/1K8mBHH6JOdKC4aT0L4jHmTJot9n4fnW9_L9kwdclCkQ/edit#heading=h.wwlwg0rdx3c8).  The [slide deck](https://docs.google.com/presentation/d/1D9cA_HwDdASXM5VfEV4l6n8_h7GG4ieXiAD4a9Lo0jo/edit#slide=id.p) from the AFSC FAQ session describing this guidance is also available.
+
+---
+
 ## Chat
 **Topics**: Single, non-sensitive topics    
 **Time**:    

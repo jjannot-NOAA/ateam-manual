@@ -21,6 +21,8 @@ This code of conduct applies to all A-Team spaces, including group and individua
 
 All members of Analytical Services (including the Program Manager) are expected to conform to a set of behavioral norms that are designed to make the workplace a psychologically and physically safe space.
 
+> A **norm** is a rule that guides behavior toward the usual, typical, and/or standard behavior of a group.
+
 A psychologically safe space is:
 
 > “a climate in which people are comfortable expressing and being themselves.” -- Amy Edmondson, *The Fearless Organization*
@@ -67,8 +69,11 @@ To promote psychological safety, **all members of the Analytical Services Progra
 
 Both images above are from [Science for Work](https://scienceforwork.com/blog/psychological-safety/).
 
-----
+---
 
+See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
+
+---
 ## Reporting Harassment
 
 If you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at [jason.jannot@noaa.gov](mailto:jason.jannot@noaa.gov). If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor.  Other methods of reporting available to you include:    
