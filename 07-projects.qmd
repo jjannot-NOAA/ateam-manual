@@ -1,16 +1,23 @@
 # Projects {#sec-projects}![](_img/analytics_icon.png){height=40px}
 
-## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+## Intake & Prioritization
 
-## Intake
-
- [Project Intake](https://docs.google.com/spreadsheets/d/1MXWbgYy-91S_PvldipatwdodjIjBECVL5yuWkLVIw50/edit?usp=sharing) <font size="1.5"> (google sheet 1) </font>
+ [Project Intake](Link to be added) <font size="2"> (google sheet) </font>
  
- [FY24 NOAA Priorities](https://docs.google.com/spreadsheets/d/1MXWbgYy-91S_PvldipatwdodjIjBECVL5yuWkLVIw50/edit?usp=sharing) <font size="1.5"> (google sheet 3) </font>
-
-## Prioritization
-
-  [Project Prioritization](https://docs.google.com/spreadsheets/d/1MXWbgYy-91S_PvldipatwdodjIjBECVL5yuWkLVIw50/edit?usp=sharing) <font size="1.5"> (google sheet 2) </font>
+ [FY24 NOAA Priorities](LINK TO BE ADDED)
+ 
+ Projects can be proposed to the A-Team Program Manager at any time by anyone, including A-Team members, FMA staff, AFSC staff, NOAA staff, or any other stakeholders or members of the public (e.g., NPFMC, academic researchers, NGOs, etc.).  The Program Manger's responsibility is to:    
+ 
+  1. document the project on the Project Intake spreadsheet    
+  2. prioritize the project, with the help of the FMA Division Director and others    
+  3. work with A-Team Staff to assign projects and roles
+ 
+ Prioritization includes several dimensions including (but not limited to) how well the project's goals and objectives align with NOAA Fisheries, AFSC, and FMA priorities and activities which are described in Annual Guidance Memos (NMFS), Strategic Plans (AFSC), and Activity Plans (FMA).  Links to these documents can be found on the [Resources](09-resources.qmd#sec-resources) page of this manual.  In addition to strategic priorities, prioritization of projects also takes into account the following (higher scores = higher priority):    
+ 
+  * Organizational impact - more parts of the organization that are impacted results in higher score    
+  * Stakeholder impact - more stakeholders impacted results in higher score    
+  * Feasibility - More feasible projects result in higher score    
+  * Time to Completion - Projects that are estimated to have a short time frame result in higher score    
   
 ## Planning
 
@@ -41,14 +48,13 @@ Use the Project Planning Template to develop your project. This template has all
 
 ## Tools & Workflow
 
+## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+
 The A-Team has a singular R package that holds commonly used R custom functions build by the A-Team: [FMAAnalystFunctions](https://github.com/Alaska-Fisheries-Monitoring-Analytics/FMAAnalystFunctions).  For instructions on how to install this package see the [GitHub Repo README](https://github.com/Alaska-Fisheries-Monitoring-Analytics/FMAAnalystFunctions#fma-analyst-functions).
 
 [Code Review](071-collaborate.qmd)
 
 ## Completion
----
-output-dir: _site
----
 
 ## Debrief/Lessons Learned
 

@@ -5,7 +5,7 @@ Jason's philosophy is that the best leaders are capable of adjusting their leade
 However, Jason's default style tends to be that of a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership). While he might adopt other leadership styles depending on the situation, servant leadership guides his daily leadership style.
 
 Jason has been  inspired by David Marquet's story:
-{{< video https://youtu.be/pYKH2uSax8U >}}
+{{< video https://www.youtube.com/watch?v=pYKH2uSax8U&list=PLg_BQpoFW2k341hHkO4_PhSnpJsOEaneY >}}
 
 as well as by Simon Sinek:
 {{< video https://youtu.be/zP9jpxitfb4 >}}

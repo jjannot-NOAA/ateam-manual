@@ -91,6 +91,13 @@
     "text": "External Stakeholders\nExternal stakeholders include, but are not limited to:\n\nNPFMC and advisory bodies\n\nAcademics and other researchers\n\nADFG and other AK State personnel\n\nNGO’s\n\nThe U.S. Public\n\nAlaska Native’s and U.S. Federally recognized Tribal Nations are not stakeholders. They are co-owners and co-managers of the resource. Find out more here."
   },
   {
+    "objectID": "03-code-of-conduct.html#managing-conflict",
+    "href": "03-code-of-conduct.html#managing-conflict",
+    "title": "4  Code of Conduct ",
+    "section": "Managing Conflict",
+    "text": "Managing Conflict\nTo promote healthy resolutions to conflict, build trust, and develop a sense of psychological safety on th A-Team, all members of the Analytical Services Program are expected to:\n\nDelay entering into conversations when feelings are “elevated” (i.e., high level of frustration, anger, upset, etc.)\n\nWhy? Anger impacts the way you process infomation. Other emotions can have negative impacts on communication as well.\n\nWhat to do\n\nIf you are angry, do not confront the person until you are able to have a rational conversation where you open to hearing them and can actively listen.\n\nIf you are confronted by a person who is angry or upset\n\nDo not to become defensive\n\nPolitely request to delay the conversation\n\nFollow-up when emotions have settled\n\n\n\nAlways assume positive intent of others. If your initial response is negative, try to change your viewpoint and find a positive explanation.\nRecognize the humanity in yourself and others. This means:\n\nRecognizing that no one is perfect, we all make mistakes.\n\nGracefully and sincerely apologizing when mistakes are made.\n\nGracefully accepting a sincere apology for mistakes when given.\n\nCultivating real compassion for yourself and others."
+  },
+  {
     "objectID": "03-code-of-conduct.html#psychological-safety",
     "href": "03-code-of-conduct.html#psychological-safety",
     "title": "4  Code of Conduct ",
@@ -273,25 +280,11 @@
     "text": "Mobile Text/SMS \nTopics: Extremely time sensitive\nTime:\n\nImmediate response or action is necessary\nNo discussion\nVery simple responses expected\n\nTone: Fast pace can lead to misunderstandings of tone and intent, similar to email and chat.\nPros: Can address time sensitive issues quickly\nCons: No screen show/share\nTracking: Creates a record, but there might be limits and constraints\nUse:\n\nEmergencies\n\nUrgent, time sensitive requests\n\nNecessary contact during off-hours or off-days\n\nTo check-in for current/near-future availability\n\nConsider: moving to another method as soon as practicable."
   },
   {
-    "objectID": "07-projects.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
-    "href": "07-projects.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
+    "objectID": "07-projects.html#intake-prioritization",
+    "href": "07-projects.html#intake-prioritization",
     "title": "8  Projects",
-    "section": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.",
-    "text": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024."
-  },
-  {
-    "objectID": "07-projects.html#intake",
-    "href": "07-projects.html#intake",
-    "title": "8  Projects",
-    "section": "Intake",
-    "text": "Intake\nProject Intake  (google sheet 1) \nFY24 NOAA Priorities  (google sheet 3)"
-  },
-  {
-    "objectID": "07-projects.html#prioritization",
-    "href": "07-projects.html#prioritization",
-    "title": "8  Projects",
-    "section": "Prioritization",
-    "text": "Prioritization\nProject Prioritization  (google sheet 2)"
+    "section": "Intake & Prioritization",
+    "text": "Intake & Prioritization\nProject Intake  (google sheet) \nFY24 NOAA Priorities\nProjects can be proposed to the A-Team Program Manager at any time by anyone, including A-Team members, FMA staff, AFSC staff, NOAA staff, or any other stakeholders or members of the public (e.g., NPFMC, academic researchers, NGOs, etc.). The Program Manger’s responsibility is to:\n\ndocument the project on the Project Intake spreadsheet\n\nprioritize the project, with the help of the FMA Division Director and others\n\nwork with A-Team Staff to assign projects and roles\n\nPrioritization includes several dimensions including (but not limited to) how well the project’s goals and objectives align with NOAA Fisheries, AFSC, and FMA priorities and activities which are described in Annual Guidance Memos (NMFS), Strategic Plans (AFSC), and Activity Plans (FMA). Links to these documents can be found on the Resources page of this manual. In addition to strategic priorities, prioritization of projects also takes into account the following (higher scores = higher priority):\n\nOrganizational impact - more parts of the organization that are impacted results in higher score\n\nStakeholder impact - more stakeholders impacted results in higher score\n\nFeasibility - More feasible projects result in higher score\n\nTime to Completion - Projects that are estimated to have a short time frame result in higher score"
   },
   {
     "objectID": "07-projects.html#planning",
@@ -305,7 +298,14 @@
     "href": "07-projects.html#tools-workflow",
     "title": "8  Projects",
     "section": "Tools & Workflow",
-    "text": "Tools & Workflow\nThe A-Team has a singular R package that holds commonly used R custom functions build by the A-Team: FMAAnalystFunctions. For instructions on how to install this package see the GitHub Repo README.\nCode Review"
+    "text": "Tools & Workflow"
+  },
+  {
+    "objectID": "07-projects.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
+    "href": "07-projects.html#note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.",
+    "title": "8  Projects",
+    "section": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.",
+    "text": "NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.\nThe A-Team has a singular R package that holds commonly used R custom functions build by the A-Team: FMAAnalystFunctions. For instructions on how to install this package see the GitHub Repo README.\nCode Review"
   },
   {
     "objectID": "07-projects.html#completion",

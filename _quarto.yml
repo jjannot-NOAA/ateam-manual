@@ -4,6 +4,11 @@ project:
   type: book
   output-dir: _site
 
+website:
+  sidebar:
+    contents: auto
+    bread-crumbs: true
+
 book:
   title: FMA A-Team Manual
   date: last-modified
