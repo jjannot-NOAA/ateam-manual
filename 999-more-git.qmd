@@ -1,0 +1,28 @@
+---
+output-dir: _site
+render: true
+---
+
+# More Git Tips and Resources {#sec-more-git}  
+
+## To remove a file from *Tracking* that is already being tracked
+**!!!! IMPORTANT NOTE !!!!** ==> The following steps will *completely remove* the files on **all remotes** once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains...)
+
+1. Move the file outside the git repository, i.e., save to your local machine/Desktop    
+2. Add all the file/folder names that you want to stop tracking in the repo but keep locally to `.gitignore`.    
+3. On the command line, execute    
+    a. For a file: `$git rm --cached put/here/your/file.ext`    
+    b. For a folder: `$git rm --cached folder/\*` (if the files are in a folder you need to use /\* to escape the *)    
+4. Commit your changes:    
+    a. `$git commit -m “<Message>”`    
+    b. Push to remote.    
+  
+## To *completely Remove* an item from the repo
+1. On your local machine, navigate to file and delete it    
+    a. The git status should show that file was deleted.    
+2. Stage all uncommitted changes (`$git add -u`)    
+3. Commit the deletion (`$git commit -m <commit message>`)    
+4. View changes on the branch (`$git log –online`)    
+5. ensure local main is up-to-date with remote main (`$git checkout main`; `$git pull origin main`)    
+6. Ensure your branch is up-to-date with your local main (`$git checkout <your-branch-name>`; `$git merge main`)    
+7. Push your changes to the remote (`$git push origin <your-branch-name>`)

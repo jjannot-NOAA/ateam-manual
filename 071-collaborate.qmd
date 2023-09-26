@@ -4,7 +4,9 @@ render: true
 ---
 # Collaboration & Code Review {#071-collaborate.qmd}
 
-## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+## NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+
+## Collaboration using Git
 
 Currently, this is an amalgamation of [Jason's Git Collaboration notes](https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx) and the [2024 ADP Team Charter](https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y)
 
@@ -12,7 +14,7 @@ Currently, this is an amalgamation of [Jason's Git Collaboration notes](https://
 
 ::: {.column width="45%"}   
  
-<center><h2>Git Collaboration</h2></center>
+<!-- <center><h2>Git Collaboration</h2></center> -->
 
 Determining the ["Git Work Flow"](https://www.atlassian.com/git/tutorials/comparing-workflows) is a huge part of working in a team! Be sure to check out the "Guidelines" section in the previous link for best practices when developing a workflow.
 
@@ -61,7 +63,8 @@ Determining the ["Git Work Flow"](https://www.atlassian.com/git/tutorials/compar
     b. Check your connection (`$git remote -v`)    
 6. Push your changes (`$git push origin <your-branch-name>`)
 
-#### Pull Request
+## Code Review
+### Pull Request
 A pull request is a request by a collaborator for the repo owner to "pull" the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.
 
 ##### Pull Request - What are they good for?
@@ -152,24 +155,4 @@ Use `tags` (right sidebar) to highlight the type of issue being submitted.
 
 [Link Pull Request with Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
-## To remove a file from *Tracking* that is already being tracked
-**!!!! IMPORTANT NOTE !!!!** ==> The following steps will *completely remove* the files on **all remotes** once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains...)
-
-1. Move the file outside the git repository, i.e., save to your local machine/Desktop    
-2. Add all the file/folder names that you want to stop tracking in the repo but keep locally to `.gitignore`.    
-3. On the command line, execute    
-    a. For a file: `$git rm --cached put/here/your/file.ext`    
-    b. For a folder: `$git rm --cached folder/\*` (if the files are in a folder you need to use /\* to escape the *)    
-4. Commit your changes:    
-    a. `$git commit -m “<Message>”`    
-    b. Push to remote.    
-  
-## To *completely Remove* an item from the repo
-1. On your local machine, navigate to file and delete it    
-    a. The git status should show that file was deleted.    
-2. Stage all uncommitted changes (`$git add -u`)    
-3. Commit the deletion (`$git commit -m <commit message>`)    
-4. View changes on the branch (`$git log –online`)    
-5. ensure local main is up-to-date with remote main (`$git checkout main`; `$git pull origin main`)    
-6. Ensure your branch is up-to-date with your local main (`$git checkout <your-branch-name>`; `$git merge main`)    
-7. Push your changes to the remote (`$git push origin <your-branch-name>`)
+See [More Git](999-more-git.qmd) for additional Git tips and resources.
