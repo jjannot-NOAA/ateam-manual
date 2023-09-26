@@ -248,16 +248,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024." class="level2">
-<h2 class="anchored" data-anchor-id="note-this-section-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.">NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.</h2>
+<section id="note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024." class="level2">
+<h2 class="anchored" data-anchor-id="note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.">NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.</h2>
+</section>
+<section id="collaboration-using-git" class="level2">
+<h2 class="anchored" data-anchor-id="collaboration-using-git">Collaboration using Git</h2>
 <p>Currently, this is an amalgamation of <a href="https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx">Jason’s Git Collaboration notes</a> and the <a href="https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y">2024 ADP Team Charter</a></p>
 <div class="columns">
 <div class="column" style="width:45%;">
-<center>
-<h2 class="anchored">
-Git Collaboration
-</h2>
-</center>
+<!-- <center><h2>Git Collaboration</h2></center> -->
 <p>Determining the <a href="https://www.atlassian.com/git/tutorials/comparing-workflows">“Git Work Flow”</a> is a huge part of working in a team! Be sure to check out the “Guidelines” section in the previous link for best practices when developing a workflow.</p>
 </div><div class="column" style="width:5%;">
 <p><!-- empty to create space --></p>
@@ -317,8 +316,11 @@ Git Collaboration
 <li>Push your changes (<code>$git push origin &lt;your-branch-name&gt;</code>)</li>
 </ol>
 </section>
-<section id="pull-request" class="level4">
-<h4 class="anchored" data-anchor-id="pull-request">Pull Request</h4>
+</section>
+<section id="code-review" class="level2">
+<h2 class="anchored" data-anchor-id="code-review">Code Review</h2>
+<section id="pull-request" class="level3">
+<h3 class="anchored" data-anchor-id="pull-request">Pull Request</h3>
 <p>A pull request is a request by a collaborator for the repo owner to “pull” the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.</p>
 <section id="pull-request---what-are-they-good-for" class="level5">
 <h5 class="anchored" data-anchor-id="pull-request---what-are-they-good-for">Pull Request - What are they good for?</h5>
@@ -451,50 +453,7 @@ Git Collaboration
 <section id="to-link-a-pull-request-with-an-issue" class="level2">
 <h2 class="anchored" data-anchor-id="to-link-a-pull-request-with-an-issue">To link a pull request with an issue</h2>
 <p><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue">Link Pull Request with Issue</a></p>
-</section>
-<section id="to-remove-a-file-from-tracking-that-is-already-being-tracked" class="level2">
-<h2 class="anchored" data-anchor-id="to-remove-a-file-from-tracking-that-is-already-being-tracked">To remove a file from <em>Tracking</em> that is already being tracked</h2>
-<p><strong>!!!! IMPORTANT NOTE !!!!</strong> ==&gt; The following steps will <em>completely remove</em> the files on <strong>all remotes</strong> once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains…)</p>
-<ol type="1">
-<li>Move the file outside the git repository, i.e., save to your local machine/Desktop<br>
-</li>
-<li>Add all the file/folder names that you want to stop tracking in the repo but keep locally to <code>.gitignore</code>.<br>
-</li>
-<li>On the command line, execute
-<ol type="a">
-<li>For a file: <code>$git rm --cached put/here/your/file.ext</code><br>
-</li>
-<li>For a folder: <code>$git rm --cached folder/\*</code> (if the files are in a folder you need to use /* to escape the *)<br>
-</li>
-</ol></li>
-<li>Commit your changes:
-<ol type="a">
-<li><code>$git commit -m “&lt;Message&gt;”</code><br>
-</li>
-<li>Push to remote.</li>
-</ol></li>
-</ol>
-</section>
-<section id="to-completely-remove-an-item-from-the-repo" class="level2">
-<h2 class="anchored" data-anchor-id="to-completely-remove-an-item-from-the-repo">To <em>completely Remove</em> an item from the repo</h2>
-<ol type="1">
-<li>On your local machine, navigate to file and delete it
-<ol type="a">
-<li>The git status should show that file was deleted.<br>
-</li>
-</ol></li>
-<li>Stage all uncommitted changes (<code>$git add -u</code>)<br>
-</li>
-<li>Commit the deletion (<code>$git commit -m &lt;commit message&gt;</code>)<br>
-</li>
-<li>View changes on the branch (<code>$git log –online</code>)<br>
-</li>
-<li>ensure local main is up-to-date with remote main (<code>$git checkout main</code>; <code>$git pull origin main</code>)<br>
-</li>
-<li>Ensure your branch is up-to-date with your local main (<code>$git checkout &lt;your-branch-name&gt;</code>; <code>$git merge main</code>)<br>
-</li>
-<li>Push your changes to the remote (<code>$git push origin &lt;your-branch-name&gt;</code>)</li>
-</ol>
+<p>See <a href="#072-more-git.qmd">More Git</a> for additional Git tips.</p>
 
 
 </section>

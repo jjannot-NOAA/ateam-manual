@@ -1,7 +1,0 @@
-
-# Confidential Data
-
-<!-- See _img/Safety_Hazards.png for how to think about confidential data 
-1. Identify HAzards, including severity and liklihood of consequencees
-2. Determine controls - see Safety_Hazards.png
-3. Risk Acceptance after controls in place - decision is made at appropriate level - higher risk and larger consequences higher up chain-->

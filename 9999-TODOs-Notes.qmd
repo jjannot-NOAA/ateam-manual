@@ -6,13 +6,17 @@ title: "TODOS and Notes"
 
 ## In conjunction with team
 
-* 02 - The Big Picture
-* 071 - Code Review and Git (071-collborate.qmd)
-* Confidential Data Section? (currently a 999)
+* 02 - The Big Picture - complete at Program Launch Meeting
+* 071 - Collaborate and Code Review (071-collborate.qmd)
 * Building an R package?
 
 ## Other
+* Projects - Add Planning and Work Breakdown Schedule Template links once they are moved to correct GDrive folder
 
-* Projects
-  - Should intake and prioritization be here? Or is that exclusively between myself and Jenn F?
 * Post/Publish to GitHub
+
+## Completed
+
+1. Projects - updated to reflect conversation between Jason and Jenn re: what should/should not be included.    
+2. Confidential Data Section? Included in On-boarding    
+
