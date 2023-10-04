@@ -25,6 +25,9 @@ There is a plethora of communication methods and technologies.  However, the com
 **Consider**: moving to a video call/FTF or phone call if the email chain goes back and forth more than a few times or in-depth discussion is necessary.
 
 ## Video call/Face-To-Face Meeting (FTF)   ![](_img/FTF_Vchat_icon.png){height=30px}
+
+You are expected to follow the [AFSC Guidance on Inclusive Meetings in Hybrid Work Environments](https://docs.google.com/document/d/1K8mBHH6JOdKC4aT0L4jHmTJot9n4fnW9_L9kwdclCkQ/edit#heading=h.wwlwg0rdx3c8).  The [slide deck](https://docs.google.com/presentation/d/1D9cA_HwDdASXM5VfEV4l6n8_h7GG4ieXiAD4a9Lo0jo/edit#slide=id.p) from the AFSC FAQ session describing this guidance is also available.
+
 **Topics**: Sensitive, complex, or multiple topics    
 **Time**: Lengthy discussion necessary; actions or responses will be discussed    
 **Tone**: Voice inflection, body language and body posture can be distorted or hidden by the tech. Eye contact can be misinterpreted, misleading, or absent.    
@@ -43,11 +46,6 @@ There is a plethora of communication methods and technologies.  However, the com
   
 **Consider**: using other methods for simple updates that are informational only and require no response.
 
----
-
-You are expected to follow the [AFSC Guidance on Inclusive Meetings in Hybrid Work Environments](https://docs.google.com/document/d/1K8mBHH6JOdKC4aT0L4jHmTJot9n4fnW9_L9kwdclCkQ/edit#heading=h.wwlwg0rdx3c8).  The [slide deck](https://docs.google.com/presentation/d/1D9cA_HwDdASXM5VfEV4l6n8_h7GG4ieXiAD4a9Lo0jo/edit#slide=id.p) from the AFSC FAQ session describing this guidance is also available.
-
----
 
 ## Chat
 **Topics**: Single, non-sensitive topics    

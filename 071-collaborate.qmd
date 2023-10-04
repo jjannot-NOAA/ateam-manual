@@ -36,10 +36,8 @@ Determining the ["Git Work Flow"](https://www.atlassian.com/git/tutorials/compar
 
 ::::
 
-> Jason suggests the Centralized Workflow (see link above) which keeps a linear history[^1].
+> Jason suggests the Centralized Workflow (see link above) which keeps a linear history^[If you don't like the Centralized Workflow, try the [Trunk-based Workflow](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).].
 
-
-[^1]:If you don't like the Centralized Workflow, try the [Trunk-based Workflow](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
 
 #### How to Collaborate
 1. Add collaborators to repository    
@@ -75,7 +73,7 @@ Pull request can simplify code review.  They are a discussion point between code
 - address issues
 - any time new code is added to the repo
 
-**What are the benefits of pull requests as code review[^2]?**    
+**What are the benefits of pull requests as code review^[For a counter argument to pull requests, [see this video](https://youtu.be/ASOSEiJCyEM?t=275)]?**    
 
 1. Increases the quality of the code
 2. Decreases probability of breaking stuff 
@@ -87,8 +85,6 @@ Pull request can simplify code review.  They are a discussion point between code
 The downsides include (see also^2^):    
 1. You have to wait to have your code reviewed by others    
 2. Reviewer can get backed up & overwhelmed
-
-[^2]: For a counter argument to pull requests, [see this video](https://youtu.be/ASOSEiJCyEM?t=275)
 
 ##### How to Submit a Pull Request
 

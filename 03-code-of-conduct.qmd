@@ -59,12 +59,10 @@ In a double-blind research study of teams, [Google](https://rework.withgoogle.co
 
 ### Why Do We Need Psychological Safety in the Workplace?
 
-Evidence shows that creating a psychologically safe workplace is strongly linked with highly effective teams[^1] which are more likely to share ideas, give and welcome feedback, experiment, and discuss mistakes openly^1,^[^2]. Psychologically safe workplaces are linked to higher employee satisfaction^2^ 
-
-[^1]:https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/ 
-[^2]:https://scienceforwork.com/blog/psychological-safety/
+Evidence shows that creating a psychologically safe workplace is strongly linked with highly effective teams^[https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/] which are more likely to share ideas, give and welcome feedback, experiment, and discuss mistakes openly^1,^^[https://scienceforwork.com/blog/psychological-safety/]. Psychologically safe workplaces are linked to higher employee satisfaction^2^ 
 
 ![](_img/ANTECEDENTSOUTCOMES_PsychSafety_Science4Work_icon.png){style="float:center; padding-left:40px"}
+
 Both images above are from [Science for Work](https://scienceforwork.com/blog/psychological-safety/).
 
 

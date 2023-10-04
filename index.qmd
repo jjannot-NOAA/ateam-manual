@@ -1,11 +1,8 @@
-<center><h1> Welcome![^1]</h1></center>
+# Welcome!^[This manual is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.]
 
-This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center[^2].
+This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center^[Jeepers, that's a mouthful!  Let's just abbreviate from now on - acronym definitions  are [here](999-acronyms.qmd#sec-acronyms)].
 
 FMA's Analytical Services Program provides scientific products to support the management of marine ecosystems and commercial fisheries.
 
-This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannnot (jason.jannot\@noaa.gov),  make a pull request, or submit an issue.
+This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannot (jason /dot/ jannot /at/ noaa /dot/ gov).  Alternatively you can [make a pull request, or submit an issue to the Github repo](https://github.com/jjannot-NOAA/ateam-manual).
 
-
-[^1]:This website is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.
-[^2]:Jeepers, that's a mouthful!  Let's just abbreviate from now on - acronym definitions  are [here](999-acronyms.qmd#sec-acronyms)
