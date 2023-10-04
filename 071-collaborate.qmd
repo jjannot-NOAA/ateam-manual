@@ -1,4 +1,5 @@
 ---
+engine: knitr
 output-dir: _site
 render: true
 ---

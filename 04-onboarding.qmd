@@ -1,4 +1,4 @@
-# Onboarding {#onboarding}
+# Onboarding {#sec-onboarding}
 
 ## Welcome to the FMA A-Team! 
 
@@ -12,9 +12,9 @@ knitr::include_graphics("_img/ateamgiffy.gif")
 ```
 
 <p align="left">
-Here are some resources to help you get settled.  
+Our group is excited that you have decided to join our team!    
 
-Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
+Here are some resources to help you get settled. We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
 
 [AFSC Onboarding Checklist for Federal and Non-Federal Staff](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view?usp=sharing)
 
@@ -52,7 +52,7 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   * get computer equipment
   * set-up accounts (including an Oracle database account)
   * get logged into NOAA computer & Google account
-  * request VPN accounts
+  * [request a VPN account](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fnoaa.gov%2Fmyafsc%2Ftechnology%2Fvpn-virtual-private-network&sa=D&sntz=1&usg=AOvVaw1YGm7HPymJCqrAYQakwJVj)
   * download software needed (e.g., R, RStudio, SQL Developer, Endnote)
   * check the [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it) for more information    
   

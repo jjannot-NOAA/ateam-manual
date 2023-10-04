@@ -1,19 +1,18 @@
+# Code of Conduct \hspace{1cm} {#sec-code-of-conduct}![](_img/Code_Conduct_icon.png){height=40px}
 
-# Code of Conduct \hspace{1cm} {#code-of-conduct}![](_img/Code_Conduct_icon.png){height=40px}
+A **Code of Conduct** is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), the **Code of Conduct**
 
-A _Code of Conduct_ is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), the _Code of Conduct_    
-
-  * provides a benchmark for self-evaluation    
-  * helps define our identity    
+  * provides a benchmark for self-evaluation
+  * helps define our identity
   * establishes behavioral guidelines
 
-__We expect all team members to adhere to the policies and guidelines outlined here, as well as those found in the [AFSC Code of Conduct](https://drive.google.com/file/d/1wV0g2Tea0jdPjsTeNNST7I871j70qLAw/view).__  
+**We expect all team members to adhere to the policies and guidelines outlined here, as well as those found in the [AFSC Code of Conduct](https://drive.google.com/file/d/1wV0g2Tea0jdPjsTeNNST7I871j70qLAw/view).**  
 
-__*The FMA Analytical Services Program is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.*__
+***The FMA Analytical Services Program is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of team members or others in our larger communities in any form.***
 
 This code of conduct applies to all A-Team spaces, including group and individual meetings (face to face and remote), workshops, email correspondence, chat and web channels, and code repositories. Anyone who violates this code of conduct may be sanctioned and referred to the AFSC's policies.
 
-----
+---
 
 ## Managing Conflict
 
@@ -66,39 +65,25 @@ Evidence shows that creating a psychologically safe workplace is strongly linked
 [^2]:https://scienceforwork.com/blog/psychological-safety/
 
 ![](_img/ANTECEDENTSOUTCOMES_PsychSafety_Science4Work_icon.png){style="float:center; padding-left:40px"}
+Both images above are from [Science for Work](https://scienceforwork.com/blog/psychological-safety/).
+
 
 ### How Do We Create Psychological Safety in the Workplace?
 
-To promote psychological safety, **all members of the Analytical Services Program are expected to:**
+To promote psychological safety, we can:
 
-1. Delay entering into conversations when feelings are "elevated" (i.e., high level of frustration, anger, upset, etc.)    
-
-  * Why? [Anger impacts the way you process infomation](https://www.youtube.com/watch?v=d_5DU5opOFk).  Other emotions can have [negative impacts on communication](https://nulab.com/learn/collaboration/overcoming-emotional-barriers-to-communication/) as well.    
-  * What to do    
-    * If you are angry, do not confront the person until you are able to have a rational conversation where you [open to hearing them and can actively listen](https://welldoing.org/article/how-communicate-when-youre-angry).    
-    * If you are confronted by a person who is angry or upset    
-      * Do not to become defensive    
-      * Politely request to delay the conversation    
-      * Follow-up when emotions have settled
-      
-2. Always [assume positive intent](https://www.axios.com/2022/06/03/simple-workplace-principle-assume-positive-intent) of others. If your initial response is negative, try to change your viewpoint and find a positive explanation.    
-
-3. Recognize the humanity in yourself and others. This means:    
-
-  * Recognizing that no one is perfect, we all make mistakes.    
-  * Gracefully and sincerely apologizing when mistakes are made.    
-  * Gracefully accepting a sincere apology for mistakes when given.    
-  * Cultivating real compassion for [yourself](https://youtu.be/-kfUE41-JFw) and [others](https://www.youtube.com/watch?v=46bRW1pYgoY).
-
-
-
-Both images above are from [Science for Work](https://scienceforwork.com/blog/psychological-safety/).
+1. Develop self-awareness so that you can adjust your emotional responses and learn to react in a way that invites open discussion.    
+2. Demonstrate concern for other team members as people so that they feel comfortable speaking up and showing up as their whole selves.    
+3. Ask questions, show appreciation for other's ideas, and suspend judgement.    
+4. Engage in positive dialog to inspire honest conversations.    
+5. Own up to our mistakes and share learnings from failures.    
 
 ---
 
 See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
 
 ---
+
 ## Reporting Harassment
 
 If you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at [jason.jannot@noaa.gov](mailto:jason.jannot@noaa.gov). If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor.  Other methods of reporting available to you include:    

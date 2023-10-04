@@ -2,11 +2,11 @@
 engine: knitr
 ---
 
-# Expectations {#expectations}![](_img/wearewilling.png){height=150px}
+# Expectations {#sec-expectations}![](_img/wearewilling.png){height=150px}
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#code-of-conduct) of this manual.  See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
 
 
 ## Availability
@@ -79,11 +79,13 @@ In addition to the above, the Program Manager will (at a minimum) provide indivi
 * Regular meetings to discuss work & maintain progress on goals  
 * Empathetic listening    
 * Coaching
+* Behave professionally and ethically in all work interactions
 
 ##  Expectations of Team Members
 
 A-Team members will (at minimum): 
 
+* behave professionally and ethically in all work interactions
 * strive to produce the best science, given the constraints    
 * grow and maintain technical and inter-personal skills
 * share knowledge, experience, code, and time    

@@ -1,27 +1,18 @@
 engine: knitr
-
 project:
   type: book
-  output-dir: _site
-
-website:
-  sidebar:
-    contents: auto
-    bread-crumbs: true
+  output-dir: _book
 
 book:
   title: FMA A-Team Manual
+  author: "Analytical Services\\\nFisheries Monitoring and Analaysis\\\nAFSC, NOAA Fisheries"
   date: last-modified
-  search: true
-  description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries"
+  cover-image: _img/FMAnalytics_logo_pic.png
+  favicon: _img/FMAnalytics_logo_pic.png
+  downloads: [pdf, epub]
   site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
   repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
   repo-actions: [edit,issue]
-  downloads: [pdf, epub]
-  favicon: _img/FMAnalytics_logo_pic.png
-  tools:
-    - icon: github
-      href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/"
   chapters:
     - text: Home
       href: index.qmd
@@ -36,62 +27,37 @@ book:
     - 08-offboarding.qmd
     - 09-resources.qmd
   appendices:
+    - text: Git Tips
+      href: 999-more-git.qmd
     - text: Jason's Philosophy
       href: 999-jjphilosophy.qmd
     - text: Make Your Calendar Visible
       href: 999-make-calendar-visible.qmd
     - text: Acronyms
       href: 999-acronyms.qmd
+  sidebar:
+    contents: auto
+    bread-crumbs: true
   page-navigation: true
+  version: 1.0
+
+bibliography: references.bib
 
 format:
   html:
     theme:
       light: cosmo
       dark: cyborg
-    toc: true
-    toc-location: right
-    toc-depth: 1
-    number-depth: 0
-    page-layout: article
-    code-fold: true
-    css: styles.css
+    page-footer:
+      background: light
+      left: |
+        <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a>
+      right: |
+        This book was built with <a href="https://quarto.org/">Quarto</a>.
+    cover-image: _img/FMAnalytics_logo_pic.png
+    favicon: _img/FMAnalytics_logo_pic.png
   pdf:
-    toc: true
-    number-sections: false
+    documentclass: scrreprt
     colorlinks: true
-  docx:
-    toc: true
     number-sections: false
-    highlight-style: github
-
-navbar:
-  title: FMA A-Team
-  left:
-    - text: Intro
-      href: 01-intro.qmd
-    - text: "Big Picture"
-      href: 02-the-big-picture.qmd
-    - text: Conduct
-      href: 03-code-of-conduct.qmd
-    - text: Onboard
-      href: 04-onboarding.qmd
-    - text: Expectations
-      href: 05-expectations.qmd
-    - text: Comms
-      href: 06-communication.qmd
-    - text: Projects
-      href: 07-projects.qmd
-    - text: Offboard
-      href: 08-offboarding.qmd
-    - text: Resources
-      href: 09-resources.qmd
-
-bibliography: [references.bib]
-
-page-footer:
-    background: light
-    left: |
-      <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a>
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
+    indent: false

@@ -25,4 +25,9 @@ The US Government is absolutely slaphappy about acronyms.
 |WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|
 
 
+# References
+
+::: {#refs}
+:::
+
 

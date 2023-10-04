@@ -5,14 +5,8 @@
 
 
 ## ![](_img/values.jpg){height=200}Values & Culture
-<!-- >Team Core Values - Taken from the ADP Charter -->
-<!-- Collaboration - conversation, not lecturing -->
-<!-- Flexibility - kill your darlings for the greater good if necessary. -->
-<!-- Respect - we are all professionals and should be treated as such. -->
-<!-- Safety - the group space is safe for productive conflict -->
-<!-- Humor - don't take anything too seriously -->
-<!-- Kindness - don’t be a jerk -->
 
+[NOAA's Mission and Vision](https://www.noaa.gov/our-mission-and-vision)
 <!-- * Share our learning and time with others on the team as well as those beyond our team, knowing that this builds community and ultimately improves both the quality and impact of our science. -->
 
 

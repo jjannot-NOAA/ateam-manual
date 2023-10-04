@@ -1,11 +1,9 @@
----
-title: "TODOS and Notes"
----
 
 # TODO
 
 ## In conjunction with team
 
+* 01 - Introduction - provide a bit about yourself
 * 02 - The Big Picture - complete at Program Launch Meeting
 * 071 - Collaborate and Code Review (071-collborate.qmd)
 * Building an R package?
@@ -20,3 +18,115 @@ title: "TODOS and Notes"
 1. Projects - updated to reflect conversation between Jason and Jenn re: what should/should not be included.    
 2. Confidential Data Section? Included in On-boarding    
 
+<!--  _quarto.yml that kinda works -->
+<!--  engine: knitr -->
+
+<!-- project: -->
+<!--   type: book -->
+<!--   output-dir: _site -->
+<!--   # output-dir: _output -->
+
+<!-- website: -->
+<!--   title: FMA A-Team Manual -->
+<!--   image: _img/FMAnalytics_logo_pic.png -->
+<!--   # date: last-modified -->
+<!--   sidebar: -->
+<!--     contents: auto -->
+<!--     bread-crumbs: true -->
+
+<!-- book: -->
+<!--   title: FMA A-Team Manual -->
+<!--   cover-image: _img/FMAnalytics_logo_pic.png -->
+<!--   date: last-modified -->
+<!--   search: true -->
+<!--   # description: "This is the manual for the Analytical Services Team, Fisheries Monitoring and Analysis Division, Alaska Fisheries Sceince Center, NOAA Fisheries" -->
+<!--   site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/ -->
+<!--   repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/ -->
+<!--   repo-actions: [edit,issue] -->
+<!--   downloads: [pdf, epub] -->
+<!--   favicon: _img/FMAnalytics_logo_pic.png -->
+<!--   sidebar: -->
+<!--     contents: auto -->
+<!--     bread-crumbs: true -->
+<!--   tools: -->
+<!--     - icon: github -->
+<!--       href: "https://github.com/Alaska-Fisheries-Monitoring-Analytics/" -->
+<!--   chapters: -->
+<!--     - text: Home -->
+<!--       href: index.qmd -->
+<!--     - 01-intro.qmd -->
+<!--     - 02-the-big-picture.qmd -->
+<!--     - 03-code-of-conduct.qmd -->
+<!--     - 04-onboarding.qmd -->
+<!--     - 05-expectations.qmd -->
+<!--     - 06-communication.qmd -->
+<!--     - 07-projects.qmd -->
+<!--     - 071-collaborate.qmd -->
+<!--     - 08-offboarding.qmd -->
+<!--     - 09-resources.qmd -->
+<!--   appendices: -->
+<!--     - text: Git Tips -->
+<!--       href: 999-more-git.qmd -->
+<!--     - text: Jason's Philosophy -->
+<!--       href: 999-jjphilosophy.qmd -->
+<!--     - text: Make Your Calendar Visible -->
+<!--       href: 999-make-calendar-visible.qmd -->
+<!--     - text: Acronyms -->
+<!--       href: 999-acronyms.qmd -->
+<!--   page-navigation: true -->
+
+<!-- format: -->
+<!--   html: -->
+<!--     theme: -->
+<!--       light: cosmo -->
+<!--       dark: cyborg -->
+<!--     toc: true -->
+<!--     toc-location: right -->
+<!--     toc-depth: 1 -->
+<!--     number-depth: 0 -->
+<!--     page-layout: article -->
+<!--     code-fold: true -->
+<!--     image: _img/FMAnalytics_logo_pic.png -->
+<!--     sidebar: -->
+<!--       contents: auto -->
+<!--       bread-crumbs: true -->
+<!--     # css: styles.css -->
+<!--   pdf: -->
+<!--     toc: true -->
+<!--     number-sections: false -->
+<!--     colorlinks: true -->
+<!--   docx: -->
+<!--     toc: true -->
+<!--     number-sections: false -->
+<!--     highlight-style: github -->
+
+<!-- navbar: -->
+<!--   title: FMA A-Team -->
+<!--   left: -->
+<!--     - text: Intro -->
+<!--       href: 01-intro.qmd -->
+<!--     - text: "Big Picture" -->
+<!--       href: 02-the-big-picture.qmd -->
+<!--     - text: Conduct -->
+<!--       href: 03-code-of-conduct.qmd -->
+<!--     - text: Onboard -->
+<!--       href: 04-onboarding.qmd -->
+<!--     - text: Expectations -->
+<!--       href: 05-expectations.qmd -->
+<!--     - text: Comms -->
+<!--       href: 06-communication.qmd -->
+<!--     - text: Projects -->
+<!--       href: 07-projects.qmd -->
+<!--     - text: Offboard -->
+<!--       href: 08-offboarding.qmd -->
+<!--     - text: Resources -->
+<!--       href: 09-resources.qmd -->
+
+<!-- bibliography: [references.bib] -->
+
+<!-- page-footer: -->
+<!--     background: light -->
+<!--     left: | -->
+<!--       <a href="https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis">FMA AFSC NOAA</a> -->
+<!--     right: | -->
+<!--       This book was built with <a href="https://quarto.org/">Quarto</a>. -->

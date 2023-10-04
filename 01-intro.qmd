@@ -1,6 +1,5 @@
 ---
 engine: knitr
-bibliography: references.bib
 ---
 
 # Introduction {#intro}
@@ -23,7 +22,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 
 ::: {.column width="25%"}   
  
- ![](_img/JJ_immersionsuit.jpg){height=300}
+ ![](_img/JJ_immersionsuit.jpg){height=300 align="right"}
 
 :::
 
@@ -36,14 +35,15 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 :::{.column width="70%"}
  
  [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
-  Supervisory Research Fishery Biologist (NMFS)
+  Supervisory Research Fishery Biologist (NMFS)    
   pronouns: he/him/his
   
   Jason was originally hired as an analyst with the FMA A-Team in Februrary 2023 and became the PM in May 2023.
   
-  professional interests: Leadership, Team Building, Project Managment, Succession Planning    
+  **Interests**
   
-  personal interests: biking, bluegrass banjo...among others 
+  * professional: Leadership, Team Building, Project Managment, Succession Planning    
+  * personal: biking, bluegrass banjo...among others 
  
  Learn more about his leadership style [here](999-jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
  
@@ -52,48 +52,89 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 ::::
  
  
+--- 
+
  **Jennifer Cahalan, Statistician**    
  Pacific States Marine Fisheries Commission    
  AFSC, Seattle
  
-  professional interests:     
+  **Interests**
   
-  personal interests: 
+  * professional:    
+  * personal:  
  
+
+--- 
+
  **Craig Faunce, Data Analyst**    
  Research Fish Biologist (NMFS)
  AFSC, Seattle
  
-  professional interests:     
+ **Interests**
   
-  personal interests: 
+  * professional:    
+  * personal:  
  
  You can learn more about Craig, [here](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
  
+---
+
+ **Christian Gredzens, Data Analyst**    
+ Research Fish Biologist (NMFS)
+ AFSC, Seattle
+ 
+  **Interests**
+  
+  * professional:    
+  * personal:  
+ 
+--- 
+
  **Andy Kingham, Data Analyst & Developer**    
  Operations Research Analyst (NMFS)    
  AFSC, Seattle
  
-  professional interests:     
+  **Interests**
   
-  personal interests: 
+  * professional:    
+  * personal:  
  
+--- 
+
  **Geoff Mayhew, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
  
-  professional interests:     
+ **Interests**
   
-  personal interests: 
+  * professional:    
+  * personal:  
  
+--- 
+
+ **Cameron Van Horn, Data Analyst**    
+ Pacific States Marine Fisheries Commission    
+ AFSC, Seattle
+ 
+ **Interests**
+  
+  * professional:    
+  * personal:  
+ 
+--- 
+
  **Phil Ganz, Data Analyst**    
  Fisheries Management Specialist (NMFS)    
  AKRO, Juneau
 
- professional interests:     
+**Interests**
   
- personal interests:    
+  * professional:    
+  * personal:  
+ 
  You can learn more about Phil [here](https://www.fisheries.noaa.gov/contact/phil-ganz)
+
+---
 
 ## How we meet
 
@@ -132,7 +173,7 @@ We think it is useful to have standard ways of sharing things. These don't alway
     * [A-team Manual](https://github.com/Alaska-Fisheries-Monitoring-Analytics/ateam-manual)    
   * Network Drives    
     * `Y://Programs Share/FMA_Observers/Observer/A is for ANALYSIS/`    
-    * Google Drive: `FMA Analysis Group` <font size="1.5"> (request access) </font>
+    * Google Drive: `FMA Analysis Group` <font size="1.5"> (request access) </font>    
   * FMAnalytics G-Chat Space    
   * project specific G-Chat Spaces (e.g., SASH, ADP)    
   * Github Issues    
@@ -140,7 +181,8 @@ We think it is useful to have standard ways of sharing things. These don't alway
 * A project-based approach to organizing your work makes it easier to share and solicit feedback from others    
   * here is a [good guide](https://www.r-bloggers.com/2018/08/structuring-r-projects/)    
   * see also *Good enough practices in scientific computing* [@wilson2017])   
-  
+
+---  
+
 See the [Resources](09-resources.qmd#resources) section for other useful resources 
 
-## References
