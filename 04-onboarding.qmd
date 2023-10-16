@@ -84,6 +84,13 @@ You should:
 * fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform)
 * take the CLC Telework Training    
 
+**Telework Policy for NOAA FTEs - please note the following**
+
+1. You are currently (`r Sys.Date()`) required to be in the office 2 days per week.    
+2. Telework is a privilege which can be revoked.    
+3. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
+    * For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed.  Your travel time to the AFSC is not to be recorded as work time.
+
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
   [Time and Attendance Resources](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
@@ -142,6 +149,11 @@ Duties that team members might assume, depending on interest, time, Program/Divi
 * submitting and publishing peer-reviewed journal articles
 * participating in outreach activities
 * attending scientific and professional conferences
+
+### Observer Training Class
+The Program Manager **strongly encourages** all new and existing Program staff to attend relevant portions of the 3 week observer training class.  This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.
+
+More details can be found in the [Observer Training appendix](999-observer-training-classes.qmd), but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.
 
 ## Performance {#sec-perf}
 #### non-Federal employees

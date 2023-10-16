@@ -7,6 +7,17 @@ render: true
 
 ## NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
 
+## Git Manager Software
+Here are some apps (called "[clients](https://en.wikipedia.org/wiki/Client_(computing))") you can use to help you manage your Git interface (i.e., less command line, more point-and-click):    
+
+[Fork](https://git-fork.com/) - Jason's favorite and it's free and easy to install    
+[Rstudio](https://geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) - has a built-in Git interface    
+[GitHub Desktop](https://desktop.github.com/) - probably one of the more famous clients    
+[sourcetree](https://www.sourcetreeapp.com/) - another common one
+
+You can read about those and many others [here](https://blog.devart.com/best-git-gui-clients-for-windows.html#GitHub-Desktop).
+
+
 ## Collaboration using Git
 
 Currently, this is an amalgamation of [Jason's Git Collaboration notes](https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx) and the [2024 ADP Team Charter](https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y)
@@ -152,4 +163,4 @@ Use `tags` (right sidebar) to highlight the type of issue being submitted.
 
 [Link Pull Request with Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
-See [More Git](999-more-git.qmd) for additional Git tips and resources.
+See [Git Tips](999-more-git.qmd) for additional tips and resources.

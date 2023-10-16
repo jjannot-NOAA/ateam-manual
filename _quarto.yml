@@ -27,6 +27,10 @@ book:
     - 08-offboarding.qmd
     - 09-resources.qmd
   appendices:
+    - text: Alaska Fishery Background
+      href: 999-fishery-background.qmd
+    - text: Observer Training Classes
+      href: 999-observer-training-classes.qmd
     - text: Git Tips
       href: 999-more-git.qmd
     - text: Jason's Philosophy
@@ -57,7 +61,6 @@ format:
     cover-image: _img/FMAnalytics_logo_pic.png
     favicon: _img/FMAnalytics_logo_pic.png
     embed-resouces: true
-
   pdf:
     documentclass: scrreprt
     colorlinks: true

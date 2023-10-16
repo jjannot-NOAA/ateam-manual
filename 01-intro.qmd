@@ -6,6 +6,8 @@ engine: knitr
 
 The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
+Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](999-fishery-background.qmd)
+
 In short, our mission is to use fishery-dependent data collected by the FMA and as in conjunction with other data sources collected by various agencies to create scientific products that inform fisheries management and science.
 <!-- Modify based on Program Launch additions to 02-the-big-picture.qmd#sec-big-picture -->
 

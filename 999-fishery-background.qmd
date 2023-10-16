@@ -1,0 +1,48 @@
+# Alaska Fishery Background
+
+A basic understanding of Alaska fisheries can be gained by reading the `Summary of Management Measures` in the Executive Summary section of the various Fishery Management Plans (FMPs):    
+
+* [BSAI Groundfish FMP](https://www.npfmc.org/wp-content/uploads/BSAIfmp.pdf)
+* [GOA Groundfish FMP](https://www.npfmc.org/wp-content/PDFdocuments/fmp/GOA/GOAfmp.pdf)
+* [Crab FMP](https://www.npfmc.org/wp-content/PDFdocuments/fmp/Crab/CrabFMP.pdf)
+* [Other Alaska  FMPs](https://www.npfmc.org/library/fmps-feps/)
+
+Alaska Fishery Ecosystem Plans, Amendments to FMPs, and Conservation Area Summaries can be found at [this link](https://www.npfmc.org/library/fmps-feps/).
+
+[A History of Federal Marine Fisheries Research in Alaska](https://www.fisheries.noaa.gov/resource/outreach-materials/history-federal-marine-fisheries-research-alaska) is an eBook presenting historical timelines and accounts of the Alaska Fisheries Science Center as well as fisheries research in Alaska.
+
+# North Pacific Observer Program
+
+[NPOP Publications](https://www.fisheries.noaa.gov/resource/document/north-pacific-observer-program-publications)
+
+[NOAA Fisheries Fishery Observers](https://www.fisheries.noaa.gov/topic/fishery-observers/overview)
+
+[NOAA Fisheries Bycatch and Prohibited Species Catch in Groundfish and Shellfish Fisheries in Alaska](https://www.fisheries.noaa.gov/alaska/bycatch/bycatch-and-prohibited-species-catch-groundfish-and-shellfish-fisheries-alaska)
+
+[NOAA Fisheries Seabird Bycatch in Alaska](https://www.fisheries.noaa.gov/alaska/bycatch/seabird-bycatch-alaska)
+
+[NOAA Fisheries Electronic Monitoring in Alaska](https://www.fisheries.noaa.gov/alaska/resources-fishing/electronic-monitoring-alaska)
+
+# North Pacific Fishery Management Council (NPFMC)
+
+The [NPFMC website](https://www.npfmc.org/) has lots of information, background and history related to Alaska Fisheries.  In particular, you might want to peruse their [on-line library](https://www.npfmc.org/library/).
+
+Both past and current NPFMC meeting agendas, along with past and current agendas for Plan Teams, SSC, and other Council bodies can be [found here](https://meetings.npfmc.org/).
+
+# Stock Assessment
+
+[Current BSAI and GOA SAFE Reports](https://www.npfmc.org/library/safe-reports/)
+
+[A Guide to Stock Assessment of Bering Sea and Aleutian Islands Groundfish](https://www.npfmc.org/wp-content/PDFdocuments/resources/BS_Stock.pdf)
+
+[Fish Stock Assessment 101](https://www.st.nmfs.noaa.gov/Assets/stock/documents/Fish_Stock_Assessment_101.pdf)
+
+[The ABC's of Stock Assessments](https://www.youtube.com/watch?v=3UbWMdpavUE)(a video)
+
+# Management
+
+[NOAA Fisheries Sustainable Fisheries Management](https://www.fisheries.noaa.gov/topic/sustainable-fisheries/management)
+
+[Understanding Fisheries Management in the US](https://www.fisheries.noaa.gov/insight/understanding-fisheries-management-united-states)
+
+[Status of US Fisheries](https://www.fisheries.noaa.gov/topic/sustainable-fisheries/status-of-u.s.-fisheries)
