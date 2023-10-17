@@ -1,0 +1,34 @@
+# Psychological Safety {#psych-safety}
+
+## Reporting Harassment
+
+If you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at [jason.jannot@noaa.gov](mailto:jason.jannot@noaa.gov). If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor.  Other methods of reporting available to you include:    
+
+  * [NOAA Sexual Assault Sexual Harassment Helpline](https://noaasashhelpline.org/)
+  * [NOAA Workplace Violence Prevention and Response Program](https://www.noaa.gov/workplace-violence-prevention-response-program)
+  * [NOAA Workforce Management Office](mailto:DAO-955.OHCS@noaa.gov)
+  * [NOAA Office of Inclusion and Civil Rights](mailto:noaa.oicr@noaa.gov)
+ 
+  In addition to the AFSC's Code of Conduct, the Dec. 8th 2022 [Policy Statement on Equal Employment Opportunity](https://www.noaa.gov/organization/inclusion-and-civil-rights/policy-statement-on-equal-employment-opportunity) from NOAA provides a good explanation of NOAA's stance and policies against harassment, discrimination, and violence in the workplace.
+
+## Summaries & Handouts
+  
+* The [Openscapes talk on Psychological Safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing) in open data science teams by Tara Robertson (there is also a resource list at the end of this slide deck!)    
+* [Worksheet](https://drive.google.com/file/d/1kY4otiCfyGXMHPtWxuSMndHsAbc5FcrY/view?usp=sharing) from NOAA Psychological Safety training    
+
+## Books
+
+* [Feminist Fight Club](https://bookshop.org/p/books/feminist-fight-club-a-survival-manual-for-a-sexist-workplace-jessica-bennett/6437314?ean=9780062689030) talks about how members of the group can hand the mic back if it's taken away, giving credit, support quieter members, etc.  It is focused on women supporting women, not Psych Safety specifically.    
+
+* [This Chair Rocks](https://bookshop.org/p/books/this-chair-rocks-a-manifesto-against-ageism-ashton-applewhite/6986118?ean=9781250297259) by Ashton Applewhite (and her [TED talk](https://www.ted.com/talks/ashton_applewhite_let_s_end_ageism) [12 mins])    
+
+## Studies
+
+* Canadian study “[The Tallest Poppy](https://www.womenofinfluence.ca/tps/)” from the Women of Influence group    
+
+* Paper: “[Know Before You Go: A Community-Derived Approach to Planning for and Preventing Sexual Harassment at Oceanographic Field Sites](https://doi.org/10.5670/oceanog.2023.112).”
+
+## Videos
+Brene Brown’s [TED talk on vulnerability](https://brenebrown.com/videos/ted-talk-the-power-of-vulnerability/) (20 mins)
+
+

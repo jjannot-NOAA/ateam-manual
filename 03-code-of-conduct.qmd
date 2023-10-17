@@ -78,7 +78,7 @@ To promote psychological safety, we can:
 
 ---
 
-See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
+See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety).
 
 ---
 

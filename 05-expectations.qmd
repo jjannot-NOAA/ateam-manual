@@ -6,7 +6,7 @@ engine: knitr
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](09-resources.qmd#psych-safety).
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety).
 
 
 ## Availability

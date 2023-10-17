@@ -25,12 +25,15 @@ book:
     - 07-projects.qmd
     - 071-collaborate.qmd
     - 08-offboarding.qmd
-    - 09-resources.qmd
   appendices:
+    - text: Psychological Safety
+      href: 999-psychological-safety-resources.qmd
     - text: Alaska Fishery Background
       href: 999-fishery-background.qmd
     - text: Observer Training Classes
       href: 999-observer-training-classes.qmd
+    - text: NOAA, AFSC, FMA Resources
+      href: 999-NOAA-AFSC-FMA-resources.qmd
     - text: Git Tips
       href: 999-more-git.qmd
     - text: Jason's Philosophy
@@ -61,8 +64,10 @@ format:
     cover-image: _img/FMAnalytics_logo_pic.png
     favicon: _img/FMAnalytics_logo_pic.png
     embed-resouces: true
+    number-depth: 0
   pdf:
     documentclass: scrreprt
     colorlinks: true
     number-sections: false
     indent: false
+

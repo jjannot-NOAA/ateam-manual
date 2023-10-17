@@ -12,7 +12,7 @@
   2. prioritize the project, with the help of the FMA Division Director and others    
   3. work with A-Team Staff to assign projects and roles
  
- A large portion of prioritization includes how well the project's goals and objectives align with NOAA Fisheries, AFSC, and FMA priorities and activities which are described in Annual Guidance Memos (NMFS), Strategic Plans (AFSC), and Activity Plans (FMA).  Links to these documents can be found on the [Resources](09-resources.qmd#sec-resources) page of this manual.  In addition to strategic priorities, project prioritization also takes into account the following (higher scores = higher priority):    
+ A large portion of prioritization includes how well the project's goals and objectives align with NOAA Fisheries, AFSC, and FMA priorities and activities which are described in Annual Guidance Memos (NMFS), Strategic Plans (AFSC), and Activity Plans (FMA).  Links to these documents can be found on the [NOAA, AFSC, FMA Resources](999-NOAA-AFSC-FMA-resources.qmd#sec-resources) page of this manual.  In addition to strategic priorities, project prioritization also takes into account the following (higher scores = higher priority):    
  
   * Organizational impact - more parts of the organization that are impacted results in higher score    
   * Stakeholder impact - more stakeholders impacted results in higher score    
