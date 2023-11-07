@@ -1,4 +1,6 @@
-# Code of Conduct \hspace{1cm} {#sec-code-of-conduct}![](_img/Code_Conduct_icon.png){height=40px}
+# Code of Conduct \hspace{1cm} {#sec-code-of-conduct}
+
+<!-- ![](_img/Code_Conduct_icon.png){height=40px} -->
 
 A **Code of Conduct** is a set of basic ground rules that we ask team members to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our  [Big Picture](02-the-big-picture.qmd#sec-big_picture), the **Code of Conduct**
 
@@ -20,9 +22,9 @@ To promote healthy resolutions to conflict, build trust, and develop a sense of 
 
 1. Delay entering into conversations when feelings are "elevated" (i.e., high level of frustration, anger, upset, etc.)    
 
-    * Why? [Anger impacts the way you process infomation](https://www.youtube.com/watch?v=d_5DU5opOFk).  Other emotions can have [negative impacts on communication](https://nulab.com/learn/collaboration/overcoming-emotional-barriers-to-communication/) as well.    
+    * Why? [Anger impacts the way you process information](https://www.youtube.com/watch?v=d_5DU5opOFk).  Other emotions can have [negative impacts on communication](https://nulab.com/learn/collaboration/overcoming-emotional-barriers-to-communication/) as well.    
     * What to do    
-      * If you are angry, do not confront the person until you are able to have a rational conversation where you [open to hearing them and can actively listen](https://welldoing.org/article/how-communicate-when-youre-angry).    
+      * If you are angry, do not confront the person until you are able to have a rational conversation where you are [open to hearing them and can actively listen](https://welldoing.org/article/how-communicate-when-youre-angry).    
       * If you are confronted by a person who is angry or upset    
         * Do not to become defensive    
         * Politely request to delay the conversation    
@@ -36,6 +38,33 @@ To promote healthy resolutions to conflict, build trust, and develop a sense of 
     * Gracefully and sincerely apologizing when mistakes are made.    
     * Gracefully accepting a sincere apology for mistakes when given.    
     * Cultivating real compassion for [yourself](https://youtu.be/-kfUE41-JFw) and [others](https://www.youtube.com/watch?v=46bRW1pYgoY).
+
+
+[How to Actively Listen](https://www.youtube.com/watch?v=Lkj86o69c5c) 
+
+[How to have an uncomfortable conversation](https://www.youtube.com/watch?v=RcGkHrPSzDc )   
+
+---
+
+## Feedback
+
+Feedback is meant to change outcomes. Feedback can be either reinforcing, i.e., it reinforces behaviors or actions that lead to outcomes we want, or redirecting, i.e., it outlines behaviors or actions that lead to unwanted outcomes and provides alternative behaviors or actions that lead to desired outcomes. 
+
+Giving and receiving redirecting feedback can be difficult. However, if we don't get feedback, we can't see our own blind-spots. If we don't provide constructive ways for others to improve, then we can't expect them to improve and we can't expect to have our own needs met.
+
+Healthy, productive teams have members who give each other six (6) or more reinforcing feedback comments for every redirecting feedback comment.
+
+Reward your colleagues for good work and deeds. [Here's some ways to recognize them](https://sites.google.com/noaa.gov/myafsc/home/workforce-collaboration-team-wct).
+
+Simon Sinek has some [great advice](https://youtu.be/tttv9lRPcLA?t=235) for how to give difficult feedback (watch at least to the 6:10 mark; but the whole clip is worthwhile).
+
+Effective communication skills are like muscles, we need to exercise them.  You can't go to the gym for 9 hours and expect to be in shape.  But if you go for 30 minutes a day, every day, you will eventually get in shape.  Similarly, the first time you try to give or receive feedback in a new way, it might go badly.  But eventually it will get better and easier - but never easy.
+
+Not having a conversation because it will be hard is not an excuse for not having a conversation.  Difficult conversations avoided today become tomorrow's even more difficult conversation. 
+
+This [resource from UBC](https://scwrl.ubc.ca/stem-writing-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) outlines best practices for giving and receiving feedback.
+
+[How to Create a Culture of Feedback](https://www.youtube.com/watch?v=C0fRaM7M_WU)
 
 ---
 
@@ -78,7 +107,7 @@ To promote psychological safety, we can:
 
 ---
 
-See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety).
+See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety) and [Wellness](999-wellness-resources.qmd)
 
 ---
 
@@ -92,3 +121,9 @@ If you are being harassed by a member of the FMA A-Team, notice that someone els
   * [NOAA Office of Inclusion and Civil Rights](mailto:noaa.oicr@noaa.gov)
  
   In addition to the AFSC's Code of Conduct, the Dec. 8th 2022 [Policy Statement on Equal Employment Opportunity](https://www.noaa.gov/organization/inclusion-and-civil-rights/policy-statement-on-equal-employment-opportunity) from NOAA provides a good explanation of NOAA's stance and policies against harassment, discrimination, and violence in the workplace.
+
+---
+
+##  [Drug Free Workplace](https://sites.google.com/noaa.gov/ohcs/employee-resources/work-life-resources/workplace-programs/drug-free-workplace-program)
+A drug-free workplace is a condition of employment for all federal employees to refrain
+from using illegal drugs on or off-duty.

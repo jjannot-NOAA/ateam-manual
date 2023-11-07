@@ -54,7 +54,6 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   * get logged into NOAA computer & Google account
   * [request a VPN account](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fnoaa.gov%2Fmyafsc%2Ftechnology%2Fvpn-virtual-private-network&sa=D&sntz=1&usg=AOvVaw1YGm7HPymJCqrAYQakwJVj)
   * download software needed (e.g., R, RStudio, SQL Developer, Endnote)
-  * check the [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it) for more information    
   
 #### Confidential Data
 Data used by the Analytical Services Program in it's raw^[Raw here could mean the data has gone thru QAQC processes as well as other processing. However, the data has **not** been summarized to meet the rule of three.] form is considered to contain confidential information.  As such, you will need to read and sign a Statement of Non-Disclosure (SON).  Work with the PM to get this completed in the early days of on-boarding.    
@@ -64,9 +63,10 @@ All confidential data must be summarized to meet the Rule of Three before being 
 More general information on confidential data can be found [here](https://sites.google.com/noaa.gov/myafsc/technology/it-security/privacy-impacts).
   
 
-#### Other IT Resouces  
-  [IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)    
-  [IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
+#### Other IT Resouces 
+[IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it)    
+[IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)    
+[IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
   
 ## Schedules, Time & Attendance
 #### non-Federal employees
@@ -86,7 +86,7 @@ You should:
 
 **Telework Policy for NOAA FTEs - please note the following**
 
-1. You are currently (`r Sys.Date()`) required to be in the office 2 days per week.    
+1. You are currently (`r Sys.Date()`) required to be in the office 2 days per pay period.    
 2. Telework is a privilege which can be revoked.    
 3. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
     * For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed.  Your travel time to the AFSC is not to be recorded as work time.
@@ -101,6 +101,23 @@ Guidance on leave should be provided by your employer.
 
 #### Federal employees
  Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+ 
+ In 2023, NOAA added a new leave category `66-Administrative Leave - Wellness`. The category "...aims to provide workplace flexibilities that increase employees' engagement, retention, and interest in their health and wellness." ([HRGB #1018, FY23](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1)). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for a complete understanding of the rules and the [FAQ](https://drive.google.com/file/d/1asc745qKgQXn_7Tlp_DxnJhOYuYlROfX/view) for further information.
+ 
+ Administrative Leave to participate in wellness activities:    
+ 
+ 1. Must be coordinated with, requested to, and approved by your supervisor before being taken.    
+ 2. Must be displayed on your G-calendar.    
+ 3. Must be used in increments of at least 15 minutes.    
+ 4. Generally may not exceed more than 1 hour on any given work week.    
+ 5. May be used in conjunction with lunch periods, or at the beginning or end of a
+workday.    
+ 6. Must be used within the employee’s established work hours.    
+ 7. Is not allowed on the employee’s days off, or while the employee is otherwise on
+approved leave, or when the employee is on overtime.    
+ 8. May not be combined with other instances of approved Administrative Leave.
+
+See the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for eligibility, employee responsibilities and allowable activities.
 
 ### Working Over-Time (more than 40/80)
 #### non-Federal employees
@@ -151,7 +168,7 @@ Duties that team members might assume, depending on interest, time, Program/Divi
 * attending scientific and professional conferences
 
 ### Observer Training Class
-The Program Manager **strongly encourages** all new and existing Program staff to attend relevant portions of the 3 week observer training class.  This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.
+The Program Manager **strongly encourages all new and existing Program staff** to attend relevant portions of the 3 week observer training class.  This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.
 
 More details can be found in the [Observer Training appendix](999-observer-training-classes.qmd), but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.
 
@@ -179,13 +196,13 @@ Our physical offices are in Building 4 of the WRC.
 The following are FMA A-Team (and affiliated staff) office numbers:    
 
 * 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)
-* 1057 - XXXX XXXXX, Data Management Specialist, PSMFC
-* 1057 - XXXX XXXXX, Research Fishery Biologist, NOAA
+* XXXX - Cameron Van Horn, Data Management Specialist, PSMFC
+* XXXX - Christian Gredzens, Research Fishery Biologist, NOAA
 * 1057 - Andy Kingham, Operations Analyst, NOAA
 * 1057 - Geoff Mayhew, Research Fishery Biologist, NOAA
 * 1056 - [Craig Faunce, Research Fisheries, NOAA  Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
 * 1089 - Jennifer Cahalan, Statistician/Analyst, PSMFC
-* 2060 - Lacey Jeroue, AMMOP Program Manager, PSMFC
+* XXXX - Lacey Jeroue, AMMOP Program Manager, PSMFC
 * Alaska Regional Office (AKRO) Juneau A-Team collaborators    
   * [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz)    
   * [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd)    

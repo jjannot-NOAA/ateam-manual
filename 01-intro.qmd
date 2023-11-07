@@ -8,7 +8,7 @@ The FMA Analytical Services Program adheres to NOAA's mission of [Science, Servi
 
 Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](999-fishery-background.qmd)
 
-In short, our mission is to use fishery-dependent data collected by the FMA and as in conjunction with other data sources collected by various agencies to create scientific products that inform fisheries management and science.
+In short, the mission of the Analytical Services Program is to use fishery-dependent data collected by the FMA, in conjunction with other data sources collected by various agencies, to create scientific products that inform fisheries management and science.
 <!-- Modify based on Program Launch additions to 02-the-big-picture.qmd#sec-big-picture -->
 
 [The Big Picture](02-the-big-picture.qmd#sec-big_picture) describes our culture and philosophy in more detail.
@@ -38,14 +38,15 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  
  [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
   Supervisory Research Fishery Biologist (NMFS)    
+  AFSC, Seattle    
   pronouns: he/him/his
   
   Jason was originally hired as an analyst with the FMA A-Team in Februrary 2023 and became the PM in May 2023.
   
   **Interests**
   
-  * professional: Leadership, Team Building, Project Managment, Succession Planning    
-  * personal: biking, bluegrass banjo...among others 
+  * professional: Leadership, Team Building, Program Managment, Succession Planning    
+  * personal: biking, bluegrass banjo, telemark skiing, travel, books, painting, German language 
  
  Learn more about his leadership style [here](999-jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
  
@@ -69,7 +70,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 --- 
 
  **Craig Faunce, Data Analyst**    
- Research Fish Biologist (NMFS)
+ Research Fish Biologist (NMFS)    
  AFSC, Seattle
  
  **Interests**
@@ -82,7 +83,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 ---
 
  **Christian Gredzens, Data Analyst**    
- Research Fish Biologist (NMFS)
+ Research Fish Biologist (NMFS)    
  AFSC, Seattle
  
   **Interests**
@@ -155,23 +156,32 @@ During the time between meetings, staff are expected to:
 [Scrivener](https://www.wordnik.com/words/scrivener) duties for the meeting rotate among A-Team staff and are listed at the bottom of the agenda.  The Scrivener is responsible for setting up the page for the next meeting (see above), running the meeting, and documenting discussions and decisions. 
 
 ### 1:1 with Jason {#meet-with-Jason}
-We each have individual in-person meetings with Jason.    
+Each team member has individual in-person meetings with Jason.    
 Each  member is responsible for documenting their 1:1 meetings with Jason, including tracking decisions and action items for themselves. Jason is happy to collaborate in Google Docs with individuals if that is their desire.
 
-## How we give feedback
+## How we give and receive feedback
 
-Feedback, both giving and receiving it, is an important aspect of our team. We expect feedback to be supportive but constructive. Feedback we give and receive can come in a variety of places and times, including but not limited to, during: brainstorming sessions; meetings; reviews of code or written documents; practice talks; post-project/post-meeting debriefs; 1:1's with Jason. 
+Feedback, both giving and receiving it, is an important aspect of our team. We expect feedback to be supportive but constructive. Feedback we give and receive can come in a variety of places and times, including but not limited to, during:   
 
-This [resource from UBC](https://scwrl.ubc.ca/stem-writing-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) outlines best practices for giving and receiving feedback.
+  * brainstorming sessions   
+  * meetings   
+  * reviews of code or written documents   
+  * practice talks   
+  * post-project/post-meeting debriefs   
+  * 1:1's  
+
+See the Feedback section of the [Code of Conduct](#03-code-of-conduct.qmd) for more discussion and some resources.
 
 ## How we share things
+
+**Ask for help, and share what you learn and know:** Most of our learning is done from each other. Struggling through problems alone is inefficient. Ask for and give assistance with awareness of the value of everyone's time.
 
 We think it is useful to have standard ways of sharing things. These don't always have to be followed but are a useful guide. The most important principle is to make it easier for others and your future self!    
 
 * Mechanisms for Sharing
-  * Code: Github (preferred), Google Docs    
+  * Code: Github, Google Docs    
     * GitHub account: [Alaska Fisheries Monitoring Analytics](https://github.com/Alaska-Fisheries-Monitoring-Analytics)    
-  * Docs: Rmarkdown (preferred), Google Docs, or MSWord    
+  * Docs: Rmarkdown, Google Docs, or MSWord    
     * [A-team Manual](https://github.com/Alaska-Fisheries-Monitoring-Analytics/ateam-manual)    
   * Network Drives    
     * `Y://Programs Share/FMA_Observers/Observer/A is for ANALYSIS/`    

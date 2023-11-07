@@ -9,8 +9,24 @@
 * Building an R package?
 
 ## Other
-* Projects - Add Planning and Work Breakdown Schedule Template links once they are moved to correct GDrive folder
-
+* Add Analytics Team Drive?
+* Add Culture videos and resources to Expectations or Big Picture page    
+  - Simon Sinek How to Create a Culture of Feedback https://www.youtube.com/watch?v=C0fRaM7M_WU
+  - High Performing Teams all have 3 things in common with their cultures    
+    1. A sense of Psychological Safety - speak up when they disagree, take risks; important for learning    
+      - conflict is opportunity for collaboration    
+      - win or learn    
+      - encourage dissent
+    2. A sense of Common Understanding - extent to which team members have a common understanding of clarity - I know my roles and your roles and what the deliverables are AND I understand the context and preferences - the empathy piece - I understand you as a human    
+      - try to get to know people and try to get others to know each other
+    3. A sense of Pro-Social Purpose - extent to which TM feel that they are making a contribution that benefits others    
+      - who do we serve?
+      
+* Projects 
+  - Add Planning and Work Breakdown Schedule Template links once they are moved to correct GDrive folder    
+  - Add Project Intake Template once added to the correct drive
+  
+*
 * Post/Publish to GitHub
 
 ## Completed

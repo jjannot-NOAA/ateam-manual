@@ -17,6 +17,9 @@ Here are some apps (called "[clients](https://en.wikipedia.org/wiki/Client_(comp
 
 You can read about those and many others [here](https://blog.devart.com/best-git-gui-clients-for-windows.html#GitHub-Desktop).
 
+## NOAA Open Science Git Resources
+
+[GitHub and Git NOAA Open Scapes resources](https://nmfs-opensci.github.io/GitHub-Guide/#sec-introduction)
 
 ## Collaboration using Git
 

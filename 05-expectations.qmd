@@ -6,14 +6,14 @@ engine: knitr
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety).
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety) and [Wellness](999-wellness-resources.qmd).
 
 
 ## Availability
 * Core hours for the AFSC are 9:30 am to 2:30 pm, T,W,R.    
 * A-Team members are encouraged to work in the office on one or more of these days.    
 * Core hours do not apply on Monday or Friday.    
-* NOAA Telework Policy for Federal employees requires 2 days in the office per week.    
+* NOAA Telework Policy for Federal employees requires 2 days in the office per pay period.    
 * Non-Federal employees should follow the telework guidance from their employer.
 
 You are **not** expected to be available 24/7. Similarly, unless it is an emergency, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or any time on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, team members will not be penalized for sending communication outside normal working hours.
@@ -28,8 +28,8 @@ Much of our work is communicating and much of that communication comes in the fo
 * [Make your calendar visible](999-make-calendar-visible.qmd#sec-calendar) to others.    
 * Keep your calendar up-to-date    
 * Add your working location and hours    
-* Add leave and out of office (OOO)    
-* Set-up automated OOO messages with alternative contacts, if OOO for longer than 1 day   
+* Add leave and out of office (OOO) to your calendars   
+* Set-up automated OOO message, if OOO for longer than 1 day   
 
 
 ## Attendance at regularly scheduled events
@@ -37,7 +37,7 @@ Much of our work is communicating and much of that communication comes in the fo
 Attendance, either virtual or in-person, is reasonably expected at:
 
 * [Semimonthly A-Team meetings](01-intro.qmd#ateam-meetings) 
-* [Individual 1:1 with Jason](#01-intro.qmd#meet-with-Jason) (in-person when possible)
+* [Individual 1:1 with Jason](#01-intro.qmd#meet-with-Jason) (in-person when possible)    
 * Regularly scheduled project meetings  
 * [NPFM Council Meetings](https://www.npfmc.org/current-or-next-council-meeting/)  
 * FMA All-hands
@@ -47,6 +47,8 @@ Attendance is strongly recommended when possible at:
 * AFSC All-Hands    
 * Other Center-wide Meetings
 
+### Tardiness & Absence 
+Let's face it - life happens.  Be kind.  If you're going to be late, please notify someone else in the meeting as soon as you realize it and provide a time frame for arrival.  If you aren't going to make it, decline on your calendar. 
 
 ## Expectations of the Program Manager
 
@@ -54,15 +56,17 @@ As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program M
 
 The Program Manager will (at a minimum) provide the A-Team with:  
 
-* Clarity (the `why?`)
+* Clarity (the `why?`)    
 * Guidance (the `how?`)    
-* Expectations (the `what?`)   
-* Collaboration & Communication (the `who?`)
-* Prioritization & Gate-keeping  
+* Expectations (the `what?`)    
+* Collaboration & Communication (the `who?`)    
+* Prioritization & Gate-keeping    
 * Accountability    
 * Visibility & Public Recognition    
 * Overcoming Barriers    
-* Timely Administrative Support
+* Timely Administrative Support    
+* A Professional and Ethical Role Model
+
 
 In addition to the above, the Program Manager will (at a minimum) provide individual team members with:  
 
@@ -79,7 +83,6 @@ In addition to the above, the Program Manager will (at a minimum) provide indivi
 * Regular meetings to discuss work & maintain progress on goals  
 * Empathetic listening    
 * Coaching
-* Behave professionally and ethically in all work interactions
 
 ##  Expectations of Team Members
 

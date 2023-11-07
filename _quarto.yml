@@ -28,6 +28,8 @@ book:
   appendices:
     - text: Psychological Safety
       href: 999-psychological-safety-resources.qmd
+    - text: Wellness Resources
+      href: 999-wellness-resources.qmd
     - text: Alaska Fishery Background
       href: 999-fishery-background.qmd
     - text: Observer Training Classes
