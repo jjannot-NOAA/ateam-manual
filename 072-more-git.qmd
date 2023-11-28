@@ -2,7 +2,7 @@
 # More Git
 
 ## To remove a file from *Tracking* that is already being tracked
-**!!!! IMPORTANT NOTE !!!!** ==> The following steps will *completely remove* the files on **all remotes** once they checkout a branch that contains this change. They files will only exist in your local repo. (Of course you can always push them back up if anyone complains...)
+**!!!! IMPORTANT NOTE !!!!** ==> The following steps will *completely remove* the files on **all remotes** once they checkout a branch that contains this change. The files will only exist in your local repo. (Of course you can always push them back up if anyone complains...)
 
 1. Move the file outside the git repository, i.e., save to your local machine/Desktop    
 2. Add all the file/folder names that you want to stop tracking in the repo but keep locally to `.gitignore`.    

@@ -106,7 +106,7 @@ The downsides include (see also^2^):
 2. Create a `New Pull Request` (green button upper right)    
 3. Ensure you are comparing the right branches    
 4. Look at the `gitdiff`    
-5. Give it an appropriate succint title    
+5. Give it an appropriate succinct title    
 6. Include a descriptive message    
     a. What has been done    
     b. How to use the new code    

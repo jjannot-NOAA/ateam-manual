@@ -14,7 +14,7 @@ knitr::include_graphics("_img/ateamgiffy.gif")
 <p align="left">
 Our group is excited that you have decided to join our team!    
 
-Here are some resources to help you get settled. We hope that these onboarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
+Here are some resources to help you get settled. We hope that these on-boarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.
 
 [AFSC Onboarding Checklist for Federal and Non-Federal Staff](https://drive.google.com/file/d/1Gxg-tw76NeptYFkya7M6JSyxsy31mmAu/view?usp=sharing)
 
@@ -56,7 +56,7 @@ CAC cards are only issued at Defense Department authorized locations (referred t
   * download software needed (e.g., R, RStudio, SQL Developer, Endnote)
   
 #### Confidential Data
-Data used by the Analytical Services Program in it's raw^[Raw here could mean the data has gone thru QAQC processes as well as other processing. However, the data has **not** been summarized to meet the rule of three.] form is considered to contain confidential information.  As such, you will need to read and sign a Statement of Non-Disclosure (SON).  Work with the PM to get this completed in the early days of on-boarding.    
+Data used by the Analytical Services Program in it's raw^[Raw here could mean the data has gone through QAQC processes as well as other processing. However, the data has **not** been summarized to meet the rule of three.] form is considered to contain confidential information.  As such, you will need to read and sign a Statement of Non-Disclosure (SON).  Work with the PM to get this completed in the early days of on-boarding.    
 
 All confidential data must be summarized to meet the Rule of Three before being shared with anyone who does not have a current, signed SON on file with FMA.  The rule of three requires that, when data is aggregated, every data point in the aggregated data set includes a minimum of three entities which mask the confidential information in such a way that individual entities cannot be identified or tied to a specific data point.
 
@@ -66,23 +66,25 @@ More general information on confidential data can be found [here](https://sites.
 #### Other IT Resouces 
 [IT Onboarding webpage](https://sites.google.com/noaa.gov/myafsc/technology/onboarding-and-clearing-it)    
 [IT Resources](https://sites.google.com/noaa.gov/myafsc/technology)    
-[IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)
+[IT Help](https://sites.google.com/noaa.gov/myafsc/technology/afsc-it-service-desk)    
+[Software Management and Permission](https://sites.google.com/noaa.gov/myafsc/technology/it-security/software-management)
   
 ## Schedules, Time & Attendance
 #### non-Federal employees
 Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.
 
 #### Federal employees
-If you are federal employee, you will access your timesheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in GovTA.
+If you are federal employee, you will access your time-sheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in GovTA.
 
 You should:
   
 * work with the Program Manager to set your work schedule    
-* familiarize yourself with the defintions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
+* familiarize yourself with the definitions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
 * fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
 * fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
+* fill out a [Telework Safety Checklist](https://drive.google.com/file/d/198EkLWjTkQIOVQ1z7eD9eBf5z74Orfah/view)
 * fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform)
-* take the CLC Telework Training    
+* take Telework Training in the [Common Learning Center]( https://doc.csod.com/client/doc/default.aspx)    
 
 **Telework Policy for NOAA FTEs - please note the following**
 
@@ -102,7 +104,7 @@ Guidance on leave should be provided by your employer.
 #### Federal employees
  Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
  
- In 2023, NOAA added a new leave category `66-Administrative Leave - Wellness`. The category "...aims to provide workplace flexibilities that increase employees' engagement, retention, and interest in their health and wellness." ([HRGB #1018, FY23](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1)). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for a complete understanding of the rules and the [FAQ](https://drive.google.com/file/d/1asc745qKgQXn_7Tlp_DxnJhOYuYlROfX/view) for further information.
+ In 2023, NOAA added a new leave category `66-Administrative Leave - Wellness`. The category "...aims to provide workplace liabilities that increase employees' engagement, retention, and interest in their health and wellness." ([HRGB #1018, FY23](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1)). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for a complete understanding of the rules and the [FAQ](https://drive.google.com/file/d/1asc745qKgQXn_7Tlp_DxnJhOYuYlROfX/view) for further information.
  
  Administrative Leave to participate in wellness activities:    
  
@@ -142,7 +144,7 @@ Obtain guidance on over-time from your employer.
  
  * Can carry up to 24 credit hours    
  * No advance approval is needed    
- * Properly record credit hours on timesheet    
+ * Properly record credit hours on time-sheet    
  * Submit a Request for Premium Pay in GovTA
  
 
@@ -190,19 +192,25 @@ The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/w
 
 AFSC buildings on the Seattle Sand Point Campus (a.k.a. [Western Regional Center \[WRC\]](https://www.wrc.noaa.gov/)) are only accessible during work hours and with a CAC.
 
+[Map of NOAA Sand Point Seattle Campus](https://www.wrc.noaa.gov/images/WRC_Map.jpg)
+
+There is a cafeteria that offers snacks and coffee in Building 2. Full lunch meals are no longer offered.  However, as of `r Sys.Date()` WRC is experimenting with food trucks on campus on T,W, & Th, 1100-1330, located behind building 2 near the gym.
+
 ### Office space
 
 Our physical offices are in Building 4 of the WRC.    
 The following are FMA A-Team (and affiliated staff) office numbers:    
 
 * 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)
-* XXXX - Cameron Van Horn, Data Management Specialist, PSMFC
-* XXXX - Christian Gredzens, Research Fishery Biologist, NOAA
+* 2060 - Cameron Van Horn, Data Management Specialist, PSMFC
+* 1057 - Christian Gredzens, Research Fishery Biologist, NOAA
 * 1057 - Andy Kingham, Operations Analyst, NOAA
 * 1057 - Geoff Mayhew, Research Fishery Biologist, NOAA
 * 1056 - [Craig Faunce, Research Fisheries, NOAA  Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
-* 1089 - Jennifer Cahalan, Statistician/Analyst, PSMFC
-* XXXX - Lacey Jeroue, AMMOP Program Manager, PSMFC
+* 1089 - Jennifer Cahalan, Statistician/Analyst, PSMFC    
+
+Affiliated staff
+* Lacey Jeroue, AMMOP Program Manager, PSMFC
 * Alaska Regional Office (AKRO) Juneau A-Team collaborators    
   * [Phil Ganz](https://www.fisheries.noaa.gov/contact/phil-ganz)    
   * [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd)    
@@ -225,7 +233,7 @@ To obtain either a vehicle or a bike parking pass for the Seattle Sand Point Cam
 
 ### Transit Benefits for Bicyclists
 #### Federal employees only
-Allows for reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the worksite. Reimbursement can be up to $20 per month, not to exceed $240 per calendar year for bicycle commuting expenses.
+Allows for reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the work site. Reimbursement can be up to $20 per month, not to exceed $240 per calendar year for bicycle commuting expenses.
 
 [More information on bike benefits and instructions](https://sites.google.com/noaa.gov/cao/about-ocao/logistics-operations-division/noaa-transit-subsidy-program).
 

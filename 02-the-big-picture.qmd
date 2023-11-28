@@ -52,7 +52,7 @@ Other values we hold:
 ## ![](_img/visionicon.png){height=50}Vision - Where are we going?
 <!-- ![](_img/visionicon.png){height=50, align= 'center'} -->
 
-Success for the Analytical Services Program will be gagued by how we are perceived by others. Success will be if others look to our Program for inspiration and collaboration. 
+Success for the Analytical Services Program will be gauged by how we are perceived by others. Success will be if others look to our Program for inspiration and collaboration. 
 
 * What does success look like for the team?
 * What is the future state of the team? What does it look like?
@@ -83,7 +83,7 @@ We are committed to:
 
 Our mission is to provide the highest quality best available science for use in managing fisheries and marine resources.
 
-The FMA Analytical Services Team adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
+The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
 Science^[Scientific products might include (but is not limited to) data, data products, software, web applications, summaries, reports, analyses, models, presentations and advice.  
 ] from the FMA A-Team:

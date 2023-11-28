@@ -41,7 +41,7 @@ Use the [Work Breakdown Structure Template] **INSERT LINK** to document and assi
 <!-- 14. Resource Management Plan - what *non-human* resources are needed, include costs if purchases are going to be made.  Include estimates of travel & publication costs.     -->
 <!-- 15. Human Resources Management Plan - staffing needs, including skills sets and training.     -->
 <!-- 16. Human Resource Requirement Calendar - provide estimates of the time needed for each team member.     -->
-<!-- 17. Schedule Management Plan - explain how changes to the schedule will be managed and accomodated to meet project goals     -->
+<!-- 17. Schedule Management Plan - explain how changes to the schedule will be managed and accommodated to meet project goals     -->
 <!-- 18. Quality Management Plan - explain how quality control measures will ensure the final quality of the deliverables     -->
 <!-- 19. Risk Management Plan - how will risks be identified, analyzed and mitigated against.  Use a Risk Log to catalog risks.     -->
 <!-- 20. Quality Baseline - define success for the project -->

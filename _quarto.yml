@@ -22,8 +22,9 @@ book:
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-communication.qmd
-    - 07-projects.qmd
+    # - 07-projects.qmd
     - 071-collaborate.qmd
+    - 10-publications.qmd
     - 08-offboarding.qmd
   appendices:
     - text: Psychological Safety

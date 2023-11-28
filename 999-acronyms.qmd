@@ -19,8 +19,8 @@ The US Government is absolutely slaphappy about acronyms.
 |NPOP|North Pacific Observer Program|
 |OOO|Out Of Office|
 |PCFMAC|Partial Coverage Fishery Monitoring Committee|
-|PM|Program Manger|
-|PSMFC|Pacific States Marine Fisheries Commission (coloquially, PacStates)|
+|PM|Program Manager|
+|PSMFC|Pacific States Marine Fisheries Commission (colloquially, PacStates)|
 |SON|Statement of Nondisclosure for Using Confidential Fisheries Data|
 |WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|
 
