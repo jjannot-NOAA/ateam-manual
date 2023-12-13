@@ -6,12 +6,12 @@ engine: knitr
 
 The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](999-fishery-background.qmd)
+Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](fishery-background.qmd)
 
 In short, the mission of the Analytical Services Program is to use fishery-dependent data collected by the FMA, in conjunction with other data sources collected by various agencies, to create scientific products that inform fisheries management and science.
 <!-- Modify based on Program Launch additions to 02-the-big-picture.qmd#sec-big-picture -->
 
-[The Big Picture](02-the-big-picture.qmd#sec-big_picture) describes our culture and philosophy in more detail.
+[The Big Picture](the-big-picture.qmd#sec-big_picture) describes our culture and philosophy in more detail.
 
 The FMA Analytical Services Program was a team for many years prior to becoming a fully-fledged program in May 2023. Internally, we informally refer to ourselves as the A-Team.
 <!-- We are motivated by... **INSERT MOTIVATIONAL REFERENCES**...: -->
@@ -48,7 +48,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
   * professional: Leadership, Team Building, Program Management, Succession Planning    
   * personal: biking, bluegrass banjo, telemark skiing, travel, books, painting, German language 
  
- Learn more about his leadership style [here](999-jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
+ Learn more about his leadership style [here](jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
  
 :::    
 
@@ -176,7 +176,7 @@ Feedback, both giving and receiving it, is an important aspect of our team. We e
   * post-project/post-meeting debriefs   
   * 1:1's  
 
-See the Feedback section of the [Code of Conduct](#03-code-of-conduct.qmd) for more discussion and some resources.
+See the Feedback section of the [Code of Conduct](#code-of-conduct.qmd) for more discussion and some resources.
 
 ## How we share things
 

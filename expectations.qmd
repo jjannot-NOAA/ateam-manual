@@ -6,7 +6,7 @@ engine: knitr
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](03-code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](999-psychological-safety-resources.qmd#psych-safety) and [Wellness](999-wellness-resources.qmd).
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](psychological-safety-resources.qmd#psych-safety) and [Wellness](wellness-resources.qmd).
 
 
 ## Availability
@@ -25,7 +25,7 @@ We communicate largely via email on the A-Team. You should therefore check your 
 ### G-Calendar
 Much of our work is communicating and much of that communication comes in the form of meetings. Therefore, you should:    
 
-* [Make your calendar visible](999-make-calendar-visible.qmd#sec-calendar) to others.    
+* [Make your calendar visible](make-calendar-visible.qmd#sec-calendar) to others.    
 * Keep your calendar up-to-date    
 * Add your working location and hours    
 * Add leave and out of office (OOO) to your calendars   
@@ -36,8 +36,8 @@ Much of our work is communicating and much of that communication comes in the fo
 
 Attendance, either virtual or in-person, is reasonably expected at:
 
-* [Semimonthly A-Team meetings](01-intro.qmd#ateam-meetings) 
-* [Individual 1:1 with Jason](#01-intro.qmd#meet-with-Jason) (in-person when possible)    
+* [Semimonthly A-Team meetings](intro.qmd#ateam-meetings) 
+* [Individual 1:1 with Jason](#intro.qmd#meet-with-Jason) (in-person when possible)    
 * Regularly scheduled project meetings  
 * [NPFM Council Meetings](https://www.npfmc.org/current-or-next-council-meeting/)  
 * FMA All-hands
@@ -52,7 +52,7 @@ Let's face it - life happens.  Be kind.  If you're going to be late, please noti
 
 ## Expectations of the Program Manager
 
-As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](999-jjphilosophy.qmd#sec-jj-philosophy).
+As of `r format(Sys.Date(), "%Y")`, Jason Jannot is the FMA Analytical Program Manager.  You can read about his [leadership and management philosophy here](jjphilosophy.qmd#sec-jj-philosophy).
 
 The Program Manager will (at a minimum) provide the A-Team with:  
 
@@ -103,7 +103,7 @@ Remember, as a government agency, we serve the people of the United States and *
 
 Some ways to adopt a service mindset:    
 
-* Share - [code](071-collaborate.qmd), knowledge, resources, opportunities 
+* Share - [code](collaborate.qmd), knowledge, resources, opportunities 
 * Serve as a role model    
 * Serve as a resource for other members of the A-Team    
 * Nominate your peers for their hard work and achievements - [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards).

@@ -75,7 +75,7 @@ We are committed to:
 * Developing high-quality science for use in fisheries management and to advance the fields of fisheries science and management    
 * Disseminating and communicating the best science based on these data    
 * Sharing our data, knowledge, and advice to the greatest extent possible    
-* Developing, enhancing, and fostering positive and strong collaborations among ourselves and our [stakeholders](02-the-big-picture.qmd#subsec-stakeholders)
+* Developing, enhancing, and fostering positive and strong collaborations among ourselves and our [stakeholders](the-big-picture.qmd#subsec-stakeholders)
 
 * What is the inspiration that guides and motivates the team to achieve the mission?
 

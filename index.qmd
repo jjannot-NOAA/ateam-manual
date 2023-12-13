@@ -1,6 +1,6 @@
 # Welcome!^[This manual is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.]
 
-This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center^[Jeepers, that's a mouthful!  Let's just abbreviate from now on - acronym definitions  are [here](999-acronyms.qmd#sec-acronyms)].
+This is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA's Alaska Fisheries Science Center^[Jeepers, that's a mouthful!  Let's just abbreviate from now on - acronym definitions  are [here](acronyms.qmd#sec-acronyms)].
 
 FMA's Analytical Services Program provides scientific products to support the management of marine ecosystems and commercial fisheries.
 

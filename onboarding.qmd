@@ -172,7 +172,7 @@ Duties that team members might assume, depending on interest, time, Program/Divi
 ### Observer Training Class
 The Program Manager **strongly encourages all new and existing Program staff** to attend relevant portions of the 3 week observer training class.  This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.
 
-More details can be found in the [Observer Training appendix](999-observer-training-classes.qmd), but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.
+More details can be found in the [Observer Training appendix](observer-training-classes.qmd), but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.
 
 ## Performance {#sec-perf}
 #### non-Federal employees

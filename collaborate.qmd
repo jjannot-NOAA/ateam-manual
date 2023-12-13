@@ -3,7 +3,7 @@ engine: knitr
 output-dir: _site
 render: true
 ---
-# Collaboration & Code Review {#071-collaborate.qmd}
+# Collaboration & Code Review {#collaborate.qmd}
 
 ## NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
 
@@ -166,4 +166,4 @@ Use `tags` (right sidebar) to highlight the type of issue being submitted.
 
 [Link Pull Request with Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
-See [Git Tips](999-more-git.qmd) for additional tips and resources.
+See [Git Tips](more-git.qmd) for additional tips and resources.
