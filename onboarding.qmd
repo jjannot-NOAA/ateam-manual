@@ -194,7 +194,7 @@ AFSC buildings on the Seattle Sand Point Campus (a.k.a. [Western Regional Center
 
 [Map of NOAA Sand Point Seattle Campus](https://www.wrc.noaa.gov/images/WRC_Map.jpg)
 
-There is a cafeteria that offers snacks and coffee in Building 2. Full lunch meals are no longer offered.  However, as of `r Sys.Date()` WRC is experimenting with food trucks on campus on T,W, & Th, 1100-1330, located behind building 2 near the gym.
+There is a cafeteria in Building 2 that offers snacks and drinks (coffee, tea, etc.). Full lunch meals are no longer offered. As of `r Sys.Date()` WRC is experimenting with food trucks on campus on T,W, & Th, 1100-1330, located in the upper parking lot of Building 3. Eventually there will be a Food Truck calendar.
 
 ### Office space
 
@@ -245,6 +245,25 @@ NOAA offers this non-taxable transit-fare subsidy program to encourage federal e
 
 ## AFSC Contact Card
   Federal staff are encouraged to set-up an AFSC Contact Card, for example, see [Jason's Contact Card](https://www.fisheries.noaa.gov/contact/jason-e-jannot).  This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a [Contact Card here](https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform)
+
+
+## Travel (Federal employees)
+To request domestic travel approval use the [Travel App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec) for all domestic individual travel. For foreign travel requests, please work directly with your travel arranger.
+
+While on travel collect receipts for:    
+1. Lodging - ensure the balance shows 0.00 (zero)!    
+2. Local transport    
+3. Checked baggage charges    
+
+Receipts for food or other incidentals are not necessary.
+
+Upon return:    
+1. Create and approve the final travel voucher in [E2](https://e2.gov.cwtsatotravel.com/)    
+2. Include receipts    
+
+
+[AFSC Travel FAQ](https://sites.google.com/noaa.gov/myafsc/administrative/travel)
+
 
 ## General Adminstrative Resources
 
