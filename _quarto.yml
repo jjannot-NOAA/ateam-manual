@@ -10,8 +10,8 @@ book:
   cover-image: _img/FMAnalytics_logo_pic.png
   favicon: _img/FMAnalytics_logo_pic.png
   downloads: [pdf, epub]
-  site-url: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/
-  repo-url: https://github.com/Alaska-Fisheries-Monitoring-Analytics/
+  site-url: https://jjannot-NOAA.github.io/manual/
+  repo-url: https://github.com/jjannot-NOAA/
   repo-actions: [edit,issue]
   chapters:
     - text: Home
