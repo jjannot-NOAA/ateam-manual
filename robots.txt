@@ -1,1 +1,1 @@
-Sitemap: https://Alaska-Fisheries-Monitoring-Analytics.github.io/manual/sitemap.xml
+Sitemap: https://jjannot-NOAA.github.io/manual/sitemap.xml
