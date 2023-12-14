@@ -6,7 +6,20 @@ engine: knitr
 
 
 ## Professional Behavior
-All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](code-of-conduct.qmd#sec-code-of-conduct) of this manual.  See also the resources for [Psychological Safety](psychological-safety-resources.qmd#psych-safety) and [Wellness](wellness-resources.qmd).
+All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](code-of-conduct.qmd#sec-code-of-conduct) of this manual.    
+
+It’s important for all of us within the Program to *always, always* show respect and courtesy to others in all of our professional communications and interactions – that includes face-to-face, virtual meetings, emails, phone calls, chat, and text. It also includes all interactions among Program staff or any professional interactions outside the Program.    
+
+**As a service Program our most important asset is our relationships!**    
+
+Professional behavior includes, but is not limited to:    
+
+1. Always using an appropriate tone and volume when speaking. Yelling is almost never necessary, unless there is an emergency or someone is in immediate danger.    
+2. Always using appropriate body language to help emphasize our point.  When words and body language send different messages, humans defer to *the message in the body language*. This means that intimidating body language such as leaning across a desk, getting into someone face, standing up, looming over a person, or beating our chest are all inappropriate behaviors in the workplace. They are counterproductive to getting your message across.    
+3. Always using appropriate language – that means no swearing, no inappropriate or derogatory descriptions of others such as “ignorant”, “idiot”, “stupid”. These create a toxic work environment and they are unnecessary and counterproductive.    
+4. Always work to support each other, not to undermine others. This means we do not "talk trash" or disparage others under any circumstances.
+
+See also the resources for [Psychological Safety](psychological-safety-resources.qmd#psych-safety) and [Wellness](wellness-resources.qmd).
 
 
 ## Availability
@@ -48,7 +61,7 @@ Attendance is strongly recommended when possible at:
 * Other Center-wide Meetings
 
 ### Tardiness & Absence 
-Let's face it - life happens.  Be kind.  If you're going to be late, please notify someone else in the meeting as soon as you realize it and provide a time frame for arrival.  If you aren't going to make it, decline on your calendar. 
+Let's face it - life happens.  Be kind.  If you're going to be late, please notify someone else in the meeting as soon as you realize it and provide a time frame for arrival.  If you know in advance that you aren't going to attedn the meeting, decline on your calendar. 
 
 ## Expectations of the Program Manager
 
@@ -63,7 +76,7 @@ The Program Manager will (at a minimum) provide the A-Team with:
 * Prioritization & Gate-keeping    
 * Accountability    
 * Visibility & Public Recognition    
-* Overcoming Barriers    
+* Support Overcoming Barriers    
 * Timely Administrative Support    
 * A Professional and Ethical Role Model
 

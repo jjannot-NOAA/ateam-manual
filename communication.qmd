@@ -1,10 +1,10 @@
 # Communication {#communication}![](_img/communication_icon.png){height=70px}
 
-There is a plethora of communication methods and technologies.  However, the communication tool should be chosen based on the purpose of the communication.  The purpose of this document is to explain how communication tools differ so that the tool used is appropriate given the topic(s) and timelines. 
+There is a plethora of communication methods and technologies.  However, the communication tool should be chosen based on the purpose of the communication.  The purpose of this section is to explain how communication tools differ so that the tool used is appropriate given the topic(s) and timelines. 
 
 ## Email  ![](_img/email_icon.png){height=30px}
 
-**Topics**: Single topics requiring little/no context, explanation, or discussion    
+**Topics**: Single topics requiring simple or little or no context, explanation, or discussion    
 **Time**:    
 
   * Immediate action is not required and/or;    
@@ -48,7 +48,7 @@ You are expected to follow the [AFSC Guidance on Inclusive Meetings in Hybrid Wo
 
 
 ## Chat
-**Topics**: Single, non-sensitive topics    
+**Topics**: Single, non-sensitive topics which require no explanation, sharing general information (e.g., links, papers, etc.)     
 **Time**:    
 
   * Immediate response is necessary, requested or implied
@@ -96,7 +96,7 @@ You are expected to follow the [AFSC Guidance on Inclusive Meetings in Hybrid Wo
 **Consider**: following up with an email summary of the conversation
 
 ## Mobile Text/SMS ![](_img/communication_icon.png){height=40px}
-**Topics**: Extremely time sensitive    
+**Topics**: Extremely time sensitive topics or contact necessary outside normal work days/hours, requires zero explanation    
 **Time**:    
 
   * Immediate response or action is necessary
