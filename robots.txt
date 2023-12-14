@@ -1,1 +1,1 @@
-Sitemap: https://jjannot-NOAA.github.io/manual/sitemap.xml
+Sitemap: https://jjannot-noaa.github.io/ateam-manual/sitemap.xml
