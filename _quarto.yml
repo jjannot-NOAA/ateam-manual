@@ -10,8 +10,8 @@ book:
   cover-image: _img/FMAnalytics_logo_pic.png
   favicon: _img/FMAnalytics_logo_pic.png
   downloads: [pdf, epub]
-  site-url: https://jjannot-NOAA.github.io/manual/
-  repo-url: https://github.com/jjannot-NOAA/
+  site-url: https://jjannot-noaa.github.io/ateam-manual/
+  repo-url: https://github.com/jjannot-NOAA/ateam-maual/
   repo-actions: [edit,issue]
   chapters:
     - text: Home
