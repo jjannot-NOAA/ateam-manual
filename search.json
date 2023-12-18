@@ -532,6 +532,13 @@
     "text": "To completely Remove an item from the repo\n\nOn your local machine, navigate to file and delete it\n\nThe git status should show that file was deleted.\n\n\nStage all uncommitted changes ($git add -u)\n\nCommit the deletion ($git commit -m &lt;commit message&gt;)\n\nView changes on the branch ($git log –online)\n\nensure local main is up-to-date with remote main ($git checkout main; $git pull origin main)\n\nEnsure your branch is up-to-date with your local main ($git checkout &lt;your-branch-name&gt;; $git merge main)\n\nPush your changes to the remote ($git push origin &lt;your-branch-name&gt;)"
   },
   {
+    "objectID": "more-git.html#publish-to-gh-pages",
+    "href": "more-git.html#publish-to-gh-pages",
+    "title": "Appendix F — More Git",
+    "section": "Publish to gh-pages",
+    "text": "Publish to gh-pages\n\nCreate a gh-pages branch using the terminal. In the terminal:\n\n$ git checkout --orphan gh-pages\n\n$ git reset -- hard !! Make sure all changes have been committed !!\n\n$ git commit --allow-empty -m \"Initializing gh-pages branch\"\n\n$ git push origin gh-pages\n\n\nIn GitHub\n\nSettings ==&gt; Pages ==&gt; set\n\nSource ==&gt; Deploy from Branch\n\nBranch ==&gt; gh-pages/root iii Save\n\n\n\n.gitignore - If this is a quarto document, be sure that you ignore the source folder, e.g., _book, _site, etc. and remove from tracking in the terminal by $ git rm -r _book.\n\n_quarto.yml - Ensure that any “site” or “repo” tags are associated with the correct URLs.\n\nIn the terminal, $ quarto publish gh-pages\n\nCould take a few minutes to complete deployment, refresh browser to see site."
+  },
+  {
     "objectID": "jjphilosophy.html",
     "href": "jjphilosophy.html",
     "title": "Appendix G — Jason Jannot’s Leadership Philosophy",
