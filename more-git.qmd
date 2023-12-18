@@ -21,4 +21,20 @@
 4. View changes on the branch (`$git log –online`)    
 5. ensure local main is up-to-date with remote main (`$git checkout main`; `$git pull origin main`)    
 6. Ensure your branch is up-to-date with your local main (`$git checkout <your-branch-name>`; `$git merge main`)    
-7. Push your changes to the remote (`$git push origin <your-branch-name>`)
+7. Push your changes to the remote (`$git push origin <your-branch-name>`)    
+
+## Publish to `gh-pages`
+1. Create a `gh-pages` branch using the terminal.  In the terminal:    
+    a. `$ git checkout --orphan gh-pages`    
+    b. `$ git reset -- hard` **!! Make sure all changes have been committed !!**    
+    c. `$ git commit --allow-empty -m "Initializing gh-pages branch"`    
+    d. `$ git push origin gh-pages`    
+2. In GitHub    
+    a. Settings ==> Pages ==> set    
+        i. **Source** ==> Deploy from Branch    
+        ii. **Branch** ==> `gh-pages/root`
+        iii **Save**    
+3. `.gitignore` - If this is a `quarto` document, be sure that you ignore the source folder, e.g., `_book`, `_site`, etc. and remove from tracking in the terminal by `$ git rm -r _book`.    
+4. `_quarto.yml` - Ensure that any "site" or "repo" tags are associated with the correct URLs.    
+5. In the terminal, `$ quarto publish gh-pages`    
+6. Could take a few minutes to complete deployment,  refresh browser to see site.
