@@ -1,8 +1,6 @@
 
 # The Big Picture {#sec-big-picture}![](_img/lightbulbicon.jpg){height=90}
 
-## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
-
 [Team culture](https://www.youtube.com/watch?v=IlH0GgVbhwM) is a set of values, goals and attitudes that members of the same team practice to create a productive and healthy workplace atmosphere. It represents all the ways people behave and the attitudes and beliefs that inform those behaviors, including both the formal stated norms as well as the implicit ways people interact.      
 
 The culture is [everyone's responsibility](https://www.youtube.com/watch?v=6MEocQzw-54).
@@ -23,10 +21,23 @@ The culture is [everyone's responsibility](https://www.youtube.com/watch?v=6MEoc
 
 ## Values & Culture
 ![](_img/values.jpg){height=300, align='center'}
+## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Meeting early 2024.
 
-[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement is science, **service**, and stewardship.  We are the Analytical **Services** Program.
+### Our Principles
+#### Service
+[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement is science, **service**, and stewardship.  We are the Analytical **Services** Program. Therefore, we should strive to build a culture around service and adopt a service mindset by asking "How can I help?".    
 
-We should strive to build a culture around service and adopt a service mindset by asking "How can I help?". Even when the person being asked doesn't feel they need help,    
+**Service** in practice...    
+* puts the needs of others first    
+* actively listens    
+* asks questions    
+* suspends judgement    
+* is [empathetic](https://www.indeed.com/career-advice/career-development/how-to-be-empathetic)    
+* helps resolve issues and challenges    
+* exhibits [self-awareness](https://www.indeed.com/career-advice/career-development/self-awareness-in-leadership)    
+* shares time, knowlegdge, expertise, and energy
+
+Even when the person being asked doesn't feel they need help,    
 **asking `How can I help?` has multiple benefits** including:
 
 1. Making others feel supported    
@@ -36,30 +47,41 @@ We should strive to build a culture around service and adopt a service mindset b
 5. Produces better results    
 6. More positive about those you work with    
 
-Other values we hold:
+#### Stewardship
+[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement also includes **stewardship**.
 
-* Asking for help and sharing what we know and learn
-* Making ourselves available
-* Celebrating everyone's accomplishments
-* Acknowledging and giving credit to others work
-* Sustaining a positive, open, safe working environment
-* Having an open mindset
-* Being mindful of our own biases
-* Planning with intention, and following through
-* Fostering inclusivity
-* Promoting and sustaining healthy work-life integration
+Stewardship encompasses how we handle the responsibilities entrusted to us.  These responsibilities include, but are not limited to the responsibility to:    
+* our stakeholders    
+* our work, outputs, effort, and projects    
+* each other    
+* ourselves
 
-## ![](_img/visionicon.png){height=50}Vision - Where are we going?
-<!-- ![](_img/visionicon.png){height=50, align= 'center'} -->
+**Stewardship** in practice...    
+* builds upon the resources and investments that are in our charge    
+* takes calculated risks to improve processes and outcomes    
+* learns from past mistakes    
+* leads by example    
+* is dependable and ethical    
+* is committed to personal and professional growth    
+* works to protect assets (e.g., economic opportunity, environment)
 
-Success for the Analytical Services Program will be gauged by how we are perceived by others. Success will be if others look to our Program for inspiration and collaboration. 
+Good stewardship leads to...    
+* positive impacts on processes and outcomes    
+* maximizes the impact given the constraints (e.g., time, money, know-how)    
+* growth of individuals and team members    
+* protects assets from risks and hazards    
 
-* What does success look like for the team?
-* What is the future state of the team? What does it look like?
-* Answers the question: Where are you going?
-* If there were no constraints at all, what would things look like in 5 years, 10 years, 20 years?
-* What picture do we want to create for the future?
-* What legacy do we want to leave behind?
+<!-- ## ![](_img/visionicon.png){height=50}Vision - Where are we going? -->
+<!-- <!-- ![](_img/visionicon.png){height=50, align= 'center'} -->
+
+<!-- Success for the Analytical Services Program will be gauged by how we are perceived by others. Success will be if others look to our Program for inspiration and collaboration.  -->
+
+<!-- * What does success look like for the team? -->
+<!-- * What is the future state of the team? What does it look like? -->
+<!-- * Answers the question: Where are you going? -->
+<!-- * If there were no constraints at all, what would things look like in 5 years, 10 years, 20 years? -->
+<!-- * What picture do we want to create for the future? -->
+<!-- * What legacy do we want to leave behind? -->
 
 ## ![](_img/purpose_icon.png){height=100}Purpose - Why do we do this?
 
