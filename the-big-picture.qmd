@@ -19,11 +19,11 @@ The culture is [everyone's responsibility](https://www.youtube.com/watch?v=6MEoc
 [Hyper-competitiveness](https://www.youtube.com/watch?v=jtpOYxsZj7o) can be destructive to individuals and to a strong culture.
 
 
-## Values & Culture
-![](_img/values.jpg){height=300, align='center'}
-## NOTE: This section will be completed with input from all Analytical Services Program members during the Analytical Services Program Meeting early 2024.
+## Principles
+<!-- ![](_img/values.jpg){height=300, align='center'} -->
+## NOTE: This section is still being developed with the help of all Program Staff.
 
-### Our Principles
+
 #### Service
 [NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement is science, **service**, and stewardship.  We are the Analytical **Services** Program. Therefore, we should strive to build a culture around service and adopt a service mindset by asking "How can I help?".    
 
@@ -47,29 +47,11 @@ Even when the person being asked doesn't feel they need help,
 5. Produces better results    
 6. More positive about those you work with    
 
-#### Stewardship
-[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement also includes **stewardship**.
-
-Stewardship encompasses how we handle the responsibilities entrusted to us.  These responsibilities include, but are not limited to the responsibility to:    
-* our stakeholders    
-* our work, outputs, effort, and projects    
-* each other    
-* ourselves
-
-**Stewardship** in practice...    
-* builds upon the resources and investments that are in our charge    
-* takes calculated risks to improve processes and outcomes    
-* learns from past mistakes    
-* leads by example    
-* is dependable and ethical    
-* is committed to personal and professional growth    
-* works to protect assets (e.g., economic opportunity, environment)
-
-Good stewardship leads to...    
-* positive impacts on processes and outcomes    
-* maximizes the impact given the constraints (e.g., time, money, know-how)    
-* growth of individuals and team members    
-* protects assets from risks and hazards    
+#### Integrity
+#### Open-Mindedness
+#### Personal Development
+#### Science
+[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement also includes **science**.
 
 <!-- ## ![](_img/visionicon.png){height=50}Vision - Where are we going? -->
 <!-- <!-- ![](_img/visionicon.png){height=50, align= 'center'} -->
