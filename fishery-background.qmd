@@ -1,5 +1,7 @@
 # Alaska Fishery Background
 
+* [Alaska Fishing Fleet Profiles](https://www.npfmc.org/wp-content/PDFdocuments/resources/FleetProfiles412.pdf) An older publication (2012) with information about the fishing fleets prosecuting federally managed fisheries off Alaska.
+
 A basic understanding of Alaska fisheries can be gained by reading the `Summary of Management Measures` in the Executive Summary section of the various Fishery Management Plans (FMPs):    
 
 * [BSAI Groundfish FMP](https://www.npfmc.org/wp-content/uploads/BSAIfmp.pdf)
