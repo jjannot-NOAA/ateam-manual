@@ -24,17 +24,24 @@
 7. Push your changes to the remote (`$git push origin <your-branch-name>`)    
 
 ## Publish to `gh-pages`
+To create **new** GitHub page:    
+
 1. Create a `gh-pages` branch using the terminal.  In the terminal:    
     a. `$ git checkout --orphan gh-pages`    
     b. `$ git reset -- hard` **!! Make sure all changes have been committed !!**    
     c. `$ git commit --allow-empty -m "Initializing gh-pages branch"`    
     d. `$ git push origin gh-pages`    
-2. In GitHub    
+2. In GitHub
     a. Settings ==> Pages ==> set    
         i. **Source** ==> Deploy from Branch    
-        ii. **Branch** ==> `gh-pages/root`
+        ii. **Branch** ==> `gh-pages/root`    
         iii **Save**    
 3. `.gitignore` - If this is a `quarto` document, be sure that you ignore the source folder, e.g., `_book`, `_site`, etc. and remove from tracking in the terminal by `$ git rm -r _book`.    
 4. `_quarto.yml` - Ensure that any "site" or "repo" tags are associated with the correct URLs.    
 5. In the terminal, `$ quarto publish gh-pages`    
 6. Could take a few minutes to complete deployment,  refresh browser to see site.
+
+### To update already existing `gh-pages`
+1. Make changes, commit, and push to `main`
+2. In the terminal, `$ quarto publish gh-pages`    
+3. Could take a few minutes to complete deployment,  refresh browser to see site.
