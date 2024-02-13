@@ -260,7 +260,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#to-remove-a-file-from-tracking-that-is-already-being-tracked" id="toc-to-remove-a-file-from-tracking-that-is-already-being-tracked" class="nav-link active" data-scroll-target="#to-remove-a-file-from-tracking-that-is-already-being-tracked">To remove a file from <em>Tracking</em> that is already being tracked</a></li>
   <li><a href="#to-completely-remove-an-item-from-the-repo" id="toc-to-completely-remove-an-item-from-the-repo" class="nav-link" data-scroll-target="#to-completely-remove-an-item-from-the-repo">To <em>completely Remove</em> an item from the repo</a></li>
-  <li><a href="#publish-to-gh-pages" id="toc-publish-to-gh-pages" class="nav-link" data-scroll-target="#publish-to-gh-pages">Publish to <code>gh-pages</code></a></li>
+  <li><a href="#publish-to-gh-pages" id="toc-publish-to-gh-pages" class="nav-link" data-scroll-target="#publish-to-gh-pages">Publish to <code>gh-pages</code></a>
+  <ul class="collapse">
+  <li><a href="#to-update-already-existing-gh-pages" id="toc-to-update-already-existing-gh-pages" class="nav-link" data-scroll-target="#to-update-already-existing-gh-pages">To update already existing <code>gh-pages</code></a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/more-git.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -330,6 +333,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="publish-to-gh-pages" class="level2">
 <h2 class="anchored" data-anchor-id="publish-to-gh-pages">Publish to <code>gh-pages</code></h2>
+<p>To create <strong>new</strong> GitHub page:</p>
 <ol type="1">
 <li>Create a <code>gh-pages</code> branch using the terminal. In the terminal:
 <ol type="a">
@@ -348,7 +352,8 @@ ul.task-list li input[type="checkbox"] {
 <ol type="i">
 <li><strong>Source</strong> ==&gt; Deploy from Branch<br>
 </li>
-<li><strong>Branch</strong> ==&gt; <code>gh-pages/root</code> iii <strong>Save</strong><br>
+<li><strong>Branch</strong> ==&gt; <code>gh-pages/root</code><br>
+iii <strong>Save</strong><br>
 </li>
 </ol></li>
 </ol></li>
@@ -360,8 +365,17 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Could take a few minutes to complete deployment, refresh browser to see site.</li>
 </ol>
+<section id="to-update-already-existing-gh-pages" class="level3">
+<h3 class="anchored" data-anchor-id="to-update-already-existing-gh-pages">To update already existing <code>gh-pages</code></h3>
+<ol type="1">
+<li>Make changes, commit, and push to <code>main</code></li>
+<li>In the terminal, <code>$ quarto publish gh-pages</code><br>
+</li>
+<li>Could take a few minutes to complete deployment, refresh browser to see site.</li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
