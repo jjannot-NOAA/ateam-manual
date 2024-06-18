@@ -4,6 +4,11 @@ engine: knitr
 
 # Expectations {#sec-expectations}![](_img/wearewilling.png){height=150px}
 
+## NOAA Fisheries CORE Policies
+Most of NOAA Fisheries policies can be found in the [CORE Policy Handbook](https://sites.google.com/noaa.gov/inside-fisheries-core/table-of-contents)
+
+Many other NOAA Fisheries employee resources can be found [here](https://sites.google.com/noaa.gov/inside-fisheries/home)
+.
 
 ## Professional Behavior
 All FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in [Chapter 4 Code of Conduct](code-of-conduct.qmd#sec-code-of-conduct) of this manual.    
