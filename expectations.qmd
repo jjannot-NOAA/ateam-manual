@@ -48,6 +48,7 @@ Much of our work is communicating and much of that communication comes in the fo
 * Add your working location and hours    
 * Add leave and out of office (OOO) to your calendars   
 * Set-up automated OOO message, if OOO for longer than 1 day   
+* Busy/Private appointments during regularly scheduled work hours should only be used for non-work related activities for which there is approved leave, e.g., doctor's appointment, parental duties, etc. Please use "Focus Time" or other similar titles to block uninterrupted work time.
 
 
 ## Attendance at regularly scheduled events
