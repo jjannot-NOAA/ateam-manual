@@ -1,0 +1,80 @@
+# Publication Process with AFSC {#sec-publicationprocess}![](_img/contract.png){height=70}
+
+## Style
+Please refer to the [AFSC Style Guide](https://drive.google.com/file/d/0B-F6OHsoRmTkX2x6cXZ3NWwzeFE/view?resourcekey=0-PULR1VmB2gVOuSMDW-YAQA) for questions about style.
+
+Please refer to the [Federal standards for plain language guidelines](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf) - it's a great resource for how to be a better writer, irrespective of your audience!
+
+Should I use [NMFS or NOAA Fisheries](https://drive.google.com/file/d/0B-F6OHsoRmTkRzRlbFNXZUU2aGc/view?resourcekey=0-8ApYb_ovfYVj4pLKifk_lg)?
+
+Is it [Fish, Fishery, or Fisheries](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts/sorting-fish)?
+
+How do I [cite my AFSC Affiliation](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts/citing-affiliation)?
+
+What's the [proper spacing around a degree symbol](https://techwritertemplates.com/documentation/reference/spacing-the-degree-symbol/)?
+
+
+## RPTS Research Publications Tracking System
+Tacking our science is important to you, the Analytical Services Program, AFSC, and NOAA. Science is what we produce and therefore documenting our science through a formal process provides both authors and the organization with a mechanism for recognition and dissemination of our work.
+
+All formal research documents that present data, research, science, analyses, findings or conclusions where an author or co-author cites affiliation with AFSC, must go through review and approval using the RPTS system.
+
+>**Manuscripts destined for review by peer-reviewed journal cannot be submitted to the journal until they have been entered into RPTS and completed the internal review process!**
+
+The [AFSC Intrasite Publications and RPTS](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts) describes the process and should be your first resource when moving to publication.
+
+[RPTS login](https://apps-st.fisheries.noaa.gov/rpts/#view=login)
+
+In short the process is as follows:
+
+  1. Submit your manuscript to RPTS.    
+  2. Analytical Services Program Manager will complete the Technical Review.    
+  3. FMA Division Director will complete the Information Quality Act review.    
+  4. Submit to the journal for peer-review.  Follow the peer-review process.    
+  5. **IMPORTANT** After publication, log into RPTS and update the status of the publication.    
+  6. The final step should submit the publication to the [NOAA Institutional Library](https://repository.library.noaa.gov/welcome) for archiving.
+
+## Using a Purchase Order to Pay for Publishing
+Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge.
+
+1. Use the table on the [AFSC Intranet Acquisitions page](https://sites.google.com/noaa.gov/myafsc/administrative/procurement/acquisition-package) as a guide. The column you need    
+    a. Simplified Acquisitions Procedures (SAP)    
+    b. <250$K    
+    c. Service    
+2. Fill out the forms marked with an "X" in the column from 1a+b+c (above). Links to the forms can be found *below* the table on the same page. More detail on the forms are found below. The forms you need are:    
+    a. Statement of Need/Work    
+    b. IGCE    
+    c. IT Security Checklist    
+    d. Services Contract    
+3. You will also need to fill out and submit [form GPO 3868](https://www.gpo.gov/docs/default-source/forms-standards-pdf-files/3868.pdf?sfvrsn=2). Instructions are found under [Journal Article Waiver Requests *When is a journal article waiver needed?*](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts). **IMPORTANT NOTE despite the title, this form applies to all journal articles, not just those with a waiver!**
+
+### Forms
+Return the completed Statement of Need/Work, IGCE, IT Security Checklist, and Services Contract forms to Jodi Stebbins via email and be sure to **include the original invoice from the publisher**.    
+
+Submit the GPO Form 3868 to the FDLP, which can be done with an email containing the publication details or by submitting the GPO Form 3868 to `intenttopublish@gpo.gov`.
+
+#### Statement of Need/Work
+1. Delete any unnecessary sections.    
+2. Delete any blue explanatory text.    
+
+#### IGCE
+1. Fill out the top of the Summary tab.    
+2. Fill out the bottom section under "OTHER (Anything not covered above)" of the SERVICE IGCE tab.    
+3. Ignore the SUPPLY IGCE tab.    
+
+#### IT Security Checklist
+1. Fill out the top portion and date.    
+2. Check "No" to all boxes.    
+3. Sign under "Contracting Officer".    
+4. Submit to `nmfs.afsc.helpdesk@noaa.gov` for review and signature. Forward the fully signed IT Checklist form back to Jodi Stebbins.
+
+#### Services Contract
+1. Respond "No" to *almost* all the questions, *except*...
+2. The last three (3) questions at the very end should be "Yes" - it should be clear from reading the questions.    
+
+#### GPO 3868
+1. Fill out to the extent possible.    
+2. Send to `intenttopublish@gpo.gov`
+  
+
+
