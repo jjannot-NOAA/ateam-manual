@@ -24,6 +24,7 @@ book:
     - communication.qmd
     - collaborate.qmd
     - publications.qmd
+    - publicationprocess.qmd
     - offboarding.qmd
   appendices:
     - text: Psychological Safety
@@ -44,6 +45,8 @@ book:
       href: make-calendar-visible.qmd
     - text: Acronyms
       href: acronyms.qmd
+    - text: Contributing
+      href: contributing.qmd
   sidebar:
     contents: auto
     bread-crumbs: true
