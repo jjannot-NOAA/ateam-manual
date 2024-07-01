@@ -4,5 +4,5 @@ This is the manual for the Analytical Services Program in the Fisheries Monitori
 
 FMA's Analytical Services Program provides scientific products to support the management of marine ecosystems and commercial fisheries.
 
-This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannot (jason /dot/ jannot /at/ noaa /dot/ gov).  Alternatively you can [make a pull request, or submit an issue to the Github repo](https://github.com/jjannot-NOAA/ateam-manual).
+This manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannot (jason /dot/ jannot /at/ noaa /dot/ gov) and review our [Contributing](contributing.qmd) policy.
 
