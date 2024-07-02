@@ -41,39 +41,21 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
   AFSC, Seattle    
   pronouns: he/him/his
   
-  Jason was originally hired as an analyst with the FMA A-Team in February 2023 and became the PM in May 2023. Jason worked as a data analyst for the West Coast Groundfish and At-Sea Hake Observer Programs from 2010-2022 and for the International Pacific Halibut Commission from 2022-23.
+  Jason was originally hired as an analyst with the FMA A-Team in February 2023 and became the PM in May 2023.
   
   **Interests**
   
-  * professional: leadership, team building, program management, project management, succession planning    
+  * professional: Leadership, Team Building, Program Management, Succession Planning    
   * personal: biking, bluegrass banjo, telemark skiing, travel, books, painting, German language 
  
  Learn more about his leadership style [here](jjphilosophy.qmd) and about him at his personal [website](https://jjannot.github.io/). 
-
-
-
+ 
 :::    
 
 ::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
  
- ![](_img/JenCahalan.jpg){height=150 align="right"}
-
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
  
+--- 
 
  **Jennifer Cahalan, Statistician**    
  Pacific States Marine Fisheries Commission    
@@ -81,64 +63,24 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  
   **Interests**
   
-  * professional: statistics, sampling design, estimation 
-
-:::    
-
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
+  * professional:    
+  * personal:  
  
- ![](_img/CraigFaunce.jpg){height=150 align="right"}
 
-:::
+--- 
 
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
  **Craig Faunce, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
  
  **Interests**
   
-  * professional: observer effects, annual deployment plans, project management   
-  * personal: sports, nature, music, family  
+  * professional:    
+  * personal:  
  
  You can learn more about Craig, [here](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
  
-:::    
-
-::::
-
 ---
-
- 
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/ChristianGredzens.jpg){height=150 align="right"}
- 
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
 
  **Christian Gredzens, Data Analyst**    
  Research Fish Biologist (NMFS)    
@@ -146,136 +88,55 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  
   **Interests**
   
-  * professional: spatial analyses   
-  * personal: reading, outdoors, biking, diving
+  * professional:    
+  * personal:  
  
-:::    
+--- 
 
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/AndyKingham.jpg){height=200 align="right"}
- 
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
  **Andy Kingham, Data Analyst & Developer**    
  Operations Research Analyst (NMFS)    
  AFSC, Seattle
  
   **Interests**
   
-  * professional: database and application development, operations   
-  * personal:  sports, fishing, family
+  * professional:    
+  * personal:  
  
-:::    
+--- 
 
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/GeoffMayhew.jpg){height=200 align="right"}
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
  **Geoff Mayhew, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
  
  **Interests**
   
-  * professional: modeling, R coding, annual deployment planning   
-  * personal:  travel, house projects, woodworking
+  * professional:    
+  * personal:  
  
-:::    
+--- 
 
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/CameronVanHorn.jpg){height=200 align="right"}
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
  **Cameron Van Horn, Data Analyst**    
  Pacific States Marine Fisheries Commission    
  AFSC, Seattle
  
  **Interests**
   
-  * professional: data quality diagnostics and analytics   
-  * personal: film, music, photography, sports, snorkeling, diving 
+  * professional:    
+  * personal:  
  
-:::    
+--- 
 
-::::
-
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/PhilGanz.jpg){height=200 align="right"}
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
  **Phil Ganz, Data Analyst**    
  Fisheries Management Specialist (NMFS)    
  AKRO, Juneau
 
 **Interests**
   
-  * professional: annual reporting, annual deployment planning, catch accounting, data quality   
-  * personal: family, running
+  * professional:    
+  * personal:  
  
  You can learn more about Phil [here](https://www.fisheries.noaa.gov/contact/phil-ganz)
 
-:::    
-
-::::
- 
 ---
 
 ## How we meet
