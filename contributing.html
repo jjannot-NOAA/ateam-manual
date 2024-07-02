@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jason E. Jannot">
+<meta name="dcterms.date" content="2024-07-01">
 
-<title>FMA A-Team Manual - 9&nbsp; Publications by FMA Analytical Services</title>
+<title>FMA A-Team Manual - Appendix J — Contributing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./publicationprocess.html" rel="next">
-<link href="./collaborate.html" rel="prev">
+<link href="./acronyms.html" rel="prev">
 <link href="./_img/FMAnalytics_logo_pic.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -84,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./publications.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Publications by FMA Analytical Services</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./psychological-safety-resources.html">Appendices</a></li><li class="breadcrumb-item"><a href="./contributing.html"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Contributing</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -180,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications.html" class="sidebar-item-text sidebar-link active">
+  <a href="./publications.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Publications by FMA Analytical Services</span></span></a>
   </div>
 </li>
@@ -261,7 +262,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./contributing.html" class="sidebar-item-text sidebar-link">
+  <a href="./contributing.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Contributing</span></span></a>
   </div>
 </li>
@@ -277,32 +278,53 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link active" data-scroll-target="#peer-reviewed-publications">Peer-Reviewed Publications</a>
+  <li><a href="#how-to-contribute" id="toc-how-to-contribute" class="nav-link active" data-scroll-target="#how-to-contribute">How to Contribute</a>
   <ul class="collapse">
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2024</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2023</a></li>
+  <li><a href="#code-of-conduct" id="toc-code-of-conduct" class="nav-link" data-scroll-target="#code-of-conduct">Code of Conduct</a></li>
+  <li><a href="#team-members" id="toc-team-members" class="nav-link" data-scroll-target="#team-members">Team members</a></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a></li>
+  <li><a href="#git-workflow-for-collaborating" id="toc-git-workflow-for-collaborating" class="nav-link" data-scroll-target="#git-workflow-for-collaborating">Git Workflow for Collaborating</a></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
+  <li><a href="#fixing-typos" id="toc-fixing-typos" class="nav-link" data-scroll-target="#fixing-typos">Fixing typos</a></li>
+  <li><a href="#bigger-changes" id="toc-bigger-changes" class="nav-link" data-scroll-target="#bigger-changes">Bigger changes</a></li>
+  <li><a href="#making-changes" id="toc-making-changes" class="nav-link" data-scroll-target="#making-changes">Making Changes</a></li>
+  <li><a href="#styleguides" id="toc-styleguides" class="nav-link" data-scroll-target="#styleguides">Styleguides</a>
+  <ul class="collapse">
+  <li><a href="#git-commit-messages" id="toc-git-commit-messages" class="nav-link" data-scroll-target="#git-commit-messages">Git Commit Messages</a></li>
+  <li><a href="#pull-requests-messages" id="toc-pull-requests-messages" class="nav-link" data-scroll-target="#pull-requests-messages">Pull Requests Messages</a></li>
+  <li><a href="#coding-conventions" id="toc-coding-conventions" class="nav-link" data-scroll-target="#coding-conventions">Coding conventions</a></li>
+  <li><a href="#file-structure-and-conventions" id="toc-file-structure-and-conventions" class="nav-link" data-scroll-target="#file-structure-and-conventions">File structure and conventions</a></li>
   </ul></li>
-  <li><a href="#technical-memoranda-and-other-reports" id="toc-technical-memoranda-and-other-reports" class="nav-link" data-scroll-target="#technical-memoranda-and-other-reports">Technical Memoranda and Other Reports</a>
-  <ul class="collapse">
-  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2024</a></li>
-  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2023</a></li>
+  <li><a href="#reviewing-pull-requests" id="toc-reviewing-pull-requests" class="nav-link" data-scroll-target="#reviewing-pull-requests">Reviewing Pull Requests</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/publications.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/contributing.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./psychological-safety-resources.html">Appendices</a></li><li class="breadcrumb-item"><a href="./contributing.html"><span class="chapter-number">J</span>&nbsp; <span class="chapter-title">Contributing</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-publications"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Publications by FMA Analytical Services</span></span><img src="_img/journalarticleicon.png" class="quarto-section-identifier" height="70"></h1>
+<h1 class="title">Appendix J — Contributing</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jason E. Jannot </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 1, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -312,36 +334,163 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="peer-reviewed-publications" class="level2">
-<h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h2>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">2024</h3>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2023</h3>
+<section id="how-to-contribute" class="level1">
+<h1>How to Contribute</h1>
+<p>This document describes how to contribute to this project.</p>
 <ul>
-<li><p>Cheng, M L H, C. J. Rodgveller, J. A. Langan, C. J Cunningham. 2023. <a href="https://doi.org/10.1093/icesjms/fsad037">Standardizing fishery-dependent catch-rate information across gears and data collection programs for Alaska sablefish (<em>Anoplopoma fimbria</em>). ICES J. Mar.&nbsp;Sci. 80(4):1028 - 1042</a>.</p></li>
-<li><p>Faunce, C., J. Smith, A. Kingham, D. Jaszka. 2023. <a href="https://doi.org/10.1016/j.marpol.2023.105868">Fisheries observers as enforcement assets: 21 Years of lessons from the North Pacific. Marine Policy 158: 1-12</a>. See also <a href="https://www.fisheries.noaa.gov/feature-story/advancing-transparency-fisheries-monitoring-and-enforcement">WebStory</a></p></li>
+<li>Great to have you here.</li>
+<li>You can help make this project better!</li>
+<li>Thank you for your efforts.</li>
 </ul>
-<hr>
+<section id="code-of-conduct" class="level2">
+<h2 class="anchored" data-anchor-id="code-of-conduct">Code of Conduct</h2>
+<p>This project and everyone participating in it is governed by the <a href="https://sites.google.com/noaa.gov/myafsc/home/about-afsc">AFSC Code of Conduct</a> as well as the <a href="https://nmfs-opensci.github.io/GitHub-Guide/">Github and Git Guidance and Best Practices for NMFS Users</a>. By contributing to this project you agree to abide by these terms.</p>
 </section>
-</section>
-<section id="technical-memoranda-and-other-reports" class="level2">
-<h2 class="anchored" data-anchor-id="technical-memoranda-and-other-reports">Technical Memoranda and Other Reports</h2>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">2024</h3>
+<section id="team-members" class="level2">
+<h2 class="anchored" data-anchor-id="team-members">Team members</h2>
+<p><strong>Lead</strong>: Jason E. Jannot, NOAA Fisheries AFSC FMA Division, Seattle, WA.</p>
+<p><strong>Contributors</strong>:</p>
 <ul>
-<li><p><a href="https://www.fisheries.noaa.gov/s3//2023-11/Final-2024-ADP.pdf">2024 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska</a></p></li>
-<li><p><a href="https://www.fisheries.noaa.gov/s3//2023-11/Draft-2024-ADP.pdf">Draft 2024 Annual Deployment Plan and Partial Coverage Cost Efficiencies Analysis</a></p></li>
+<li><p>Jennifer Cahalan, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA</p></li>
+<li><p>Craig Faunce, NOAA Fisheries AFSC FMA Division, Seattle, WA</p></li>
+<li><p>Christian Gredzens, NOAA Fisheries AFSC FMA Division, Seattle, WA</p></li>
+<li><p>Andy Kingham, NOAA Fisheries AFSC FMA Division, Seattle, WA</p></li>
+<li><p>Geoff Mayhew, NOAA Fisheries AFSC FMA Division, Seattle, WA</p></li>
+<li><p>Cameron Van Horn, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA</p></li>
 </ul>
 </section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">2023</h3>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
 <ul>
-<li>Freed, J. C., N. C. Young, A. A. Brower, B. J. Delean, M. M. Muto, K. L. Raum-Suryan, K. M. Savage, S. S. Teerlink, L. A. Jemison, K. M. Wilkinson, J. E. Jannot, K. A. Somers. 2023. <a href="https://doi.org/10.25923/rpkz-pb10">Human-caused mortality and injury of NMFS-managed Alaska Marine Mammal Stocks, 2017-2021</a>.</li>
+<li>Make sure you have a GitHub account.</li>
+<li>Clone the repository from GitHub to your local machine.</li>
+<li>Questions? email jason.jannot@noaa.gov</li>
 </ul>
-<hr>
-<p>For publications prior to 2023, see <a href="https://repository.library.noaa.gov/gsearch?terms=Alaska+Fisheries+Monitoring+and+Analysis+Division">this link</a> and <a href="https://apps-afsc.fisheries.noaa.gov/pubs/pubs_results.php">this link</a>.</p>
+</section>
+<section id="git-workflow-for-collaborating" class="level2">
+<h2 class="anchored" data-anchor-id="git-workflow-for-collaborating">Git Workflow for Collaborating</h2>
+<p>A Git workflow is a recommendation for how to use Git to accomplish work in a consistent and productive manner. The goals is that the workflow enhances the effectiveness of the team and does not limit productivity. A good workflow proactively reduces the number of merge conflicts and merges that need to be reverted. The choice of workflow by a team should be a joint decision. Jason’s recommendation is to use the <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow">GitFlow</a> workflow because it accomplishes two important, but somewhat competing, tactics to reduce merge conflicts when collaborating with git:</p>
+<ol type="1">
+<li><p><strong>Branch life should be minimized</strong> The risk of merge conflicts increase in proportion to the time the branch has been separate from the main branch. Short-lived branches promote cleaner merges.</p></li>
+<li><p><strong>Branches should be tested before merging</strong> Testing a branch before merging into the main branch reduces problems. However, accidents happen, thus a good workflow allows for easy reverts that don’t cause issues for other contributors.</p></li>
+</ol>
+<p><em>Having said all that, I welcome all discussions on how to best develop our Git workflow!</em> - Jason.</p>
+<p>For those interested a comparison of Git workflows can be found <a href="https://www.atlassian.com/git/tutorials/comparing-workflows">here</a>.</p>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>No PII or BII data or data that could identify fishers, individual fishing locations, or individual processors should be saved to this repository. Any such data will be removed immediately. For further guidance see: <a href="https://nmfs-opensci.github.io/GitHub-Guide/">Github and Git Guidance and Best Practices for NMFS Users</a>.</p>
+</section>
+<section id="fixing-typos" class="level2">
+<h2 class="anchored" data-anchor-id="fixing-typos">Fixing typos</h2>
+<p>You can fix typos, spelling mistakes, or grammatical errors in the documentation directly using the GitHub web interface, as long as the changes are made in the <em>source</em> file. This generally means you’ll need to edit <a href="https://roxygen2.r-lib.org/articles/roxygen2.html">roxygen2 comments</a> in an <code>.R</code>, not a <code>.Rd</code> file. You can find the <code>.R</code> file that generates the <code>.Rd</code> by reading the comment in the first line.</p>
+</section>
+<section id="bigger-changes" class="level2">
+<h2 class="anchored" data-anchor-id="bigger-changes">Bigger changes</h2>
+<p>If you want to make a bigger change, it’s a good idea to first file an issue and make sure someone from the team agrees that it’s needed. If you’ve found a bug, please file an issue that illustrates the bug with a minimal <a href="https://www.tidyverse.org/help/#reprex">reprex</a> (this will also help you write a unit test, if needed). See the tidyverse guide on <a href="https://code-review.tidyverse.org/issues/">how to create a great issue</a> for more advice. Other sources for issue best practices are described in various places on the web, such as <a href="https://medium.com/nyc-planning-digital/writing-a-proper-github-issue-97427d62a20f">here</a> and <a href="https://rewind.com/blog/best-practices-for-using-github-issues/">here</a>.</p>
+</section>
+<section id="making-changes" class="level2">
+<h2 class="anchored" data-anchor-id="making-changes">Making Changes</h2>
+<p>The following uses the Gitflow method as the workflow.</p>
+<ul>
+<li>Clone the package onto your computer. If you haven’t done this before, we recommend using <code>usethis::create_from_github("jjannot-NOAA/AnnualReportADPGantt", fork = TRUE)</code>.</li>
+<li>Pull the most recent code.</li>
+<li>Create a Git branch for your pull request (PR). We recommend using <code>usethis::pr_init("brief-description-of-change")</code>.</li>
+<li>Make your changes.</li>
+<li>Commit your changes. See the <a href="#git-commit-messages">Git Commit Messages</a> styleguide below.</li>
+<li>Push your changes to the remote Github repository.</li>
+<li>Go to Github and create a ‘pull request’ e.g., by running <code>usethis::pr_push()</code>, and following the prompts in your browser. The title of your PR should briefly describe the change.See the <a href="#pull-requests-messages">Pull Requests Messages</a> section below.</li>
+<li>Assign a reviewer.</li>
+</ul>
+</section>
+<section id="styleguides" class="level2">
+<h2 class="anchored" data-anchor-id="styleguides">Styleguides</h2>
+<section id="git-commit-messages" class="level3">
+<h3 class="anchored" data-anchor-id="git-commit-messages">Git Commit Messages</h3>
+<p>As a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.</p>
+<ul>
+<li>Use the present tense (“Add feature” not “Added feature”)</li>
+<li>Use the imperative mood (“Move cursor to…” not “Moves cursor to…”)</li>
+<li>Limit the first line to 72 characters or less</li>
+<li>Reference issues and pull requests liberally after the first line</li>
+</ul>
+</section>
+<section id="pull-requests-messages" class="level3">
+<h3 class="anchored" data-anchor-id="pull-requests-messages">Pull Requests Messages</h3>
+<p>For general guidelines, please see <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">Github’s Pull Request</a> page.</p>
+<p>In the message, please include the following headers:</p>
+<ul>
+<li>Description of the Issue or New Feature</li>
+<li>Description of What Has Been Done</li>
+<li>Usage
+<ul>
+<li>Examples and/or how others might test the change</li>
+</ul></li>
+<li>Assign a Reviewer - this will most likely be the Merge Master. In the case of the Merge Master, this will be another appropriate contributor.</li>
+</ul>
+</section>
+<section id="coding-conventions" class="level3">
+<h3 class="anchored" data-anchor-id="coding-conventions">Coding conventions</h3>
+<p>Start reading our code and you’ll get the hang of it. We optimize for readability.</p>
+<ul>
+<li><p>Scripts should not be longer than 400-600 lines.</p></li>
+<li><p>We use <a href="https://cran.r-project.org/package=roxygen2">roxygen2</a>, with <a href="https://cran.r-project.org/web/packages/roxygen2/vignettes/rd-formatting.html">Markdown syntax</a>, for documentation.</p></li>
+<li><p>Never use <code>rm(list = ls())</code> Why, you ask? Well first off, Jenny Bryan is likely to come <a href="https://www.tidyverse.org/blog/2017/12/workflow-vs-script/">set your computer on fire</a>. More specifically, it mixes <em>your</em> workflow (i.e., personal choices) with <em>the</em> product (i.e., the R code needed by someone else to run your code). See Jenny’s in-depth discussion at the link above.</p></li>
+<li><p>Write functions. There’s a good chance that your script can be simplified into a function. “Everything that happens is a function call.” - John Chambers</p></li>
+<li><p>Always put spaces after list items and method parameters (1, 2, 3, not 1,2,3) and around operators (x + y = 1, not x+y=1).</p></li>
+<li><p>Eliminate unnecessary white space. I realize this conflicts with the previous statement, but I’m comfortable with that ambiguity.</p></li>
+<li><p>Use a styler and IDE to keep your code clean. <a href="https://styler.r-lib.org/"><code>stylr</code></a> is a good R package for keeping your code tidy and easy to use.</p></li>
+<li><p><code>tidyverse</code> methods, especially those using pipes, <code>%&gt;%</code>, increase readability and make reviewing code much more pleasant.</p></li>
+<li><p>When in doubt, consult the <a href="https://style.tidyverse.org/"><code>tidyverse</code> style guide</a></p></li>
+</ul>
+<p>This is collaborative software. Consider the people who will read your code, and make it look nice for them. It’s sort of like driving a car: Perhaps you love doing donuts when you’re alone, but with passengers the goal is to make the ride as smooth as possible.</p>
+</section>
+<section id="file-structure-and-conventions" class="level3">
+<h3 class="anchored" data-anchor-id="file-structure-and-conventions">File structure and conventions</h3>
+<p>Keeping a tidy project requires maintaining order amongst files.</p>
+<ul>
+<li><p>General folder structure is:</p>
+<ul>
+<li>– root
+<ul>
+<li>– data</li>
+<li>– figures</li>
+<li>– notes</li>
+<li>– R</li>
+<li>– scripts</li>
+<li>– tables</li>
+<li>– tests (optional)</li>
+</ul></li>
+</ul></li>
+<li><p>root directory in addition to holding the folders (above), should only contain configuration and R package files.</p></li>
+<li><p>data - holds any data files used in the project.</p></li>
+<li><p>figures - holds any figure files created by the project.</p></li>
+<li><p>notes - holds <code>TODO.Rmd</code>, <code>Notes.Rmd</code>, <code>SCRATCH.R/.Rmd</code> and reusable templates (for Roxygenating functions, headers for commenting code) or example code. The <code>TODO.Rmd</code> is being worked on and what has recently been done and should closely mirror Git commits. <code>Notes.Rmd</code> is more narrative than <code>TODO</code> and contains important information that is too detailed/complex for a vignette. Scratch files are sandboxes for working out code.</p></li>
+<li><p>R - should hold only functions. Each function should be called <code>&lt;my-special-function-name&gt;_function.R</code>.</p></li>
+<li><p>scripts - these are the scripts that run the analysis. Each script name should start with a number in the order the scripts are to be run. The first script in the sequence is typically <code>0_Setup.R</code>. <code>Setup.R</code> sets the paths for the project (this makes it reproducible on your machine!), loads all necessary libraries, date constants, functions, and data. The next script in the sequence might be, e.g., <code>1_Pre_Processing.R</code>, followed by <code>2_Data_Wrangling.R</code>, <code>3_Analysis.R</code>, <code>4_Plots.R</code>…note: these are just examples.</p></li>
+<li><p>tables - holds any tables generated by the scripts.</p></li>
+<li><p>tests - any unit tests that might be applicable. This is optional.</p></li>
+</ul>
+</section>
+</section>
+<section id="reviewing-pull-requests" class="level2">
+<h2 class="anchored" data-anchor-id="reviewing-pull-requests">Reviewing Pull Requests</h2>
+<ul>
+<li>Open the pull request</li>
+<li>Review the code changes</li>
+<li>Reviewer - provide comments and feedback in GitHub</li>
+<li>Originator - respond to comments, perhaps add comments</li>
+<li>Approve changes (upper right corner) and add approval comment</li>
+<li><strong>Merge Master/Code owner merges all pull requests! Please do not merge your own pull request.</strong> If the Merge Master is pushing code, then the reviewer should be responsible for merging the pull request.</li>
+<li>MergeMaster will delete the branch once the code has been merged.</li>
+<li><strong>DONT FORGET TO PULL the new code</strong> to your local instance to get latest code.</li>
+</ul>
+<!-- # Documentation -->
+<!-- This section includes any help you need with the documentation and where it can be found. Code needs explanation, and sometimes those who know the code well have trouble explaining it to someone just getting into it.  -->
+<!-- * Help us with documentation here -->
+<ul>
+<li>If you have further questions, contact: Jason Jannot jason.jannot@noaa.gov</li>
+</ul>
 
 
 </section>
@@ -903,14 +1052,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./collaborate.html" class="pagination-link" aria-label="Collaboration &amp; Code Review">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span>
+      <a href="./acronyms.html" class="pagination-link" aria-label="Acronyms">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">I</span>&nbsp; <span class="chapter-title">Acronyms</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./publicationprocess.html" class="pagination-link" aria-label="Publication Process with AFSC">
-        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Publication Process with AFSC</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -918,4 +1064,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/publications.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/contributing.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
