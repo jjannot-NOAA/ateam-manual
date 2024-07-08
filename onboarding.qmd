@@ -89,8 +89,9 @@ You should:
 **Telework Policy for NOAA FTEs - please note the following**
 
 1. You are currently (`r Sys.Date()`) required to be in the office 2 days per pay period.    
-2. Telework is a privilege which can be revoked.    
-3. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
+2. If you change your work hours within a given day by more than 1 hour, you must notify the Program Manger.    
+3. Telework is a privilege which can be revoked.    
+4. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
     * For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed.  Your travel time to the AFSC is not to be recorded as work time.
 
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
@@ -203,8 +204,8 @@ Our physical offices are in Building 4 of the WRC.
 The following are FMA A-Team (and affiliated staff) office numbers:    
 
 * 1060 - [Jason Jannot, FMA Analytical Services Program Manager](https://www.fisheries.noaa.gov/contact/jason-e-jannot)
-* 2060 - Cameron Van Horn, Data Management Specialist, PSMFC
-* 1057 - Christian Gredzens, Research Fishery Biologist, NOAA
+* 1065 - Cameron Van Horn, Data Management Specialist, PSMFC
+* 1065 - Christian Gredzens, Research Fishery Biologist, NOAA
 * 1057 - Andy Kingham, Operations Analyst, NOAA
 * 1057 - Geoff Mayhew, Research Fishery Biologist, NOAA
 * 1056 - [Craig Faunce, Research Fisheries, NOAA  Biologist](https://www.fisheries.noaa.gov/contact/craig-h-faunce)
