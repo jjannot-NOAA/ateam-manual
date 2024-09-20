@@ -20,11 +20,14 @@ book:
     - the-big-picture.qmd
     - code-of-conduct.qmd
     - onboarding.qmd
+    - timeattendance.qmd
     - expectations.qmd
     - communication.qmd
     - collaborate.qmd
-    - publications.qmd
     - publicationprocess.qmd
+    - publications.qmd
+    - travel.qmd
+    - facilities.qmd
     - offboarding.qmd
   appendices:
     - text: Psychological Safety
