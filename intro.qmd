@@ -2,7 +2,7 @@
 engine: knitr
 ---
 
-# Introduction {#intro}
+# Who We Are {#intro}
 
 The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
@@ -17,7 +17,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 <!-- We are motivated by... **INSERT MOTIVATIONAL REFERENCES**...: -->
 <!-- *\[To come: recommended reading list\]* -->
 
-## Who We Are
+## Analytical Services Staff
  As of `r format(Sys.Date(), "%Y")`, the Analytical Services Program consists of
  
 :::: {.columns}
@@ -38,7 +38,9 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  
  [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
   Supervisory Research Fishery Biologist (NMFS)    
-  AFSC, Seattle    
+  AFSC, Seattle
+  Building 4, Office 1060
+  
   pronouns: he/him/his
   
   Jason was originally hired as an analyst with the FMA A-Team in February 2023 and became the PM in May 2023. Jason worked as a data analyst for the West Coast Groundfish and At-Sea Hake Observer Programs from 2010-2022 and for the International Pacific Halibut Commission from 2022-23.
@@ -78,6 +80,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Jennifer Cahalan, Statistician**    
  Pacific States Marine Fisheries Commission    
  AFSC, Seattle
+ Building 4, Office 1089
  
   **Interests**
   
@@ -108,6 +111,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Craig Faunce, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
+ Building 4, Office 1056
  
  **Interests**
   
@@ -143,6 +147,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Christian Gredzens, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
+ Building 4, Office 1065
  
   **Interests**
   
@@ -174,6 +179,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Andy Kingham, Data Analyst & Developer**    
  Operations Research Analyst (NMFS)    
  AFSC, Seattle
+ Building 4, Office 1057
  
   **Interests**
   
@@ -204,6 +210,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Geoff Mayhew, Data Analyst**    
  Research Fish Biologist (NMFS)    
  AFSC, Seattle
+ Building 4, Office 1057
  
  **Interests**
   
@@ -234,6 +241,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  **Cameron Van Horn, Data Analyst**    
  Pacific States Marine Fisheries Commission    
  AFSC, Seattle
+ Building 4, Office 1065
  
  **Interests**
   
@@ -276,6 +284,21 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 
 ::::
  
+*Other FMA staff offices*
+
+* 1059 - FMA Division Director - vacant
+* 1061 - [Lisa Thompson, Acting FMA  Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
+* 1062 - [Marlon Conception, Acting FMA Deputy Director and Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
+* 1063 - [Brian Mason, FMA Training Program Manager](https://www.fisheries.noaa.gov/contact/brian-mason)
+
+* Lacey Jeroue, AMMOP Program Manager, PSMFC    
+
+**Affiliated staff**
+* [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd) Alaska Regional Office (AKRO) Juneau
+* [Jennifer Mondragon](https://www.fisheries.noaa.gov/contact/jennifer-mondragon) Alaska Regional Office (AKRO) Juneau    
+    
+  
+
 ---
 
 ## How we meet
