@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>FMA A-Team Manual - 9&nbsp; Collaboration &amp; Code Review</title>
+<title>FMA A-Team Manual - 6&nbsp; Schedules, Leave, Duties, Performance</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./publicationprocess.html" rel="next">
-<link href="./communication.html" rel="prev">
+<link href="./expectations.html" rel="next">
+<link href="./onboarding.html" rel="prev">
 <link href="./_img/FMAnalytics_logo_pic.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./collaborate.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./timeattendance.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Schedules, Leave, Duties, Performance</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -162,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./timeattendance.html" class="sidebar-item-text sidebar-link">
+  <a href="./timeattendance.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Schedules, Leave, Duties, Performance</span></span></a>
   </div>
 </li>
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./collaborate.html" class="sidebar-item-text sidebar-link active">
+  <a href="./collaborate.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span></a>
   </div>
 </li>
@@ -295,30 +295,26 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024." id="toc-note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024." class="nav-link active" data-scroll-target="#note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.">NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.</a></li>
-  <li><a href="#git-manager-software" id="toc-git-manager-software" class="nav-link" data-scroll-target="#git-manager-software">Git Manager Software</a></li>
-  <li><a href="#noaa-open-science-git-resources" id="toc-noaa-open-science-git-resources" class="nav-link" data-scroll-target="#noaa-open-science-git-resources">NOAA Open Science Git Resources</a></li>
-  <li><a href="#collaboration-using-git" id="toc-collaboration-using-git" class="nav-link" data-scroll-target="#collaboration-using-git">Collaboration using Git</a></li>
-  <li><a href="#code-review" id="toc-code-review" class="nav-link" data-scroll-target="#code-review">Code Review</a>
+  <li><a href="#schedules-time-attendance" id="toc-schedules-time-attendance" class="nav-link active" data-scroll-target="#schedules-time-attendance">Schedules, Time &amp; Attendance</a>
   <ul class="collapse">
-  <li><a href="#pull-request" id="toc-pull-request" class="nav-link" data-scroll-target="#pull-request">Pull Request</a></li>
+  <li><a href="#leave" id="toc-leave" class="nav-link" data-scroll-target="#leave">Leave</a></li>
+  <li><a href="#working-over-time-more-than-4080" id="toc-working-over-time-more-than-4080" class="nav-link" data-scroll-target="#working-over-time-more-than-4080">Working Over-Time (more than 40/80)</a></li>
   </ul></li>
-  <li><a href="#issues" id="toc-issues" class="nav-link" data-scroll-target="#issues">Issues</a>
+  <li><a href="#duties" id="toc-duties" class="nav-link" data-scroll-target="#duties">Duties</a>
   <ul class="collapse">
-  <li><a href="#how-to-submit-an-issue" id="toc-how-to-submit-an-issue" class="nav-link" data-scroll-target="#how-to-submit-an-issue">How to submit an Issue</a></li>
-  <li><a href="#assigning-issues" id="toc-assigning-issues" class="nav-link" data-scroll-target="#assigning-issues">Assigning Issues</a></li>
+  <li><a href="#observer-training-class" id="toc-observer-training-class" class="nav-link" data-scroll-target="#observer-training-class">Observer Training Class</a></li>
   </ul></li>
-  <li><a href="#compare-two-branches-on-github" id="toc-compare-two-branches-on-github" class="nav-link" data-scroll-target="#compare-two-branches-on-github">Compare Two Branches on GitHub</a></li>
-  <li><a href="#to-link-a-pull-request-with-an-issue" id="toc-to-link-a-pull-request-with-an-issue" class="nav-link" data-scroll-target="#to-link-a-pull-request-with-an-issue">To link a pull request with an issue</a></li>
+  <li><a href="#sec-perf" id="toc-sec-perf" class="nav-link" data-scroll-target="#sec-perf">Performance</a></li>
+  <li><a href="#afsc-contact-card" id="toc-afsc-contact-card" class="nav-link" data-scroll-target="#afsc-contact-card">AFSC Contact Card</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/collaborate.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/timeattendance.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="collaborate.qmd" class="quarto-section-identifier"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Collaboration &amp; Code Review</span></span></h1>
+<h1 class="title"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Schedules, Leave, Duties, Performance</span></h1>
 </div>
 
 
@@ -335,234 +331,162 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024." class="level2">
-<h2 class="anchored" data-anchor-id="note-these-sections-will-be-completed-with-input-from-all-analytical-services-program-members-during-the-analytical-services-program-launch-meeting-slated-for-early-2024.">NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.</h2>
+<section id="schedules-time-attendance" class="level2">
+<h2 class="anchored" data-anchor-id="schedules-time-attendance">Schedules, Time &amp; Attendance</h2>
+<section id="non-federal-employees" class="level4">
+<h4 class="anchored" data-anchor-id="non-federal-employees">non-Federal employees</h4>
+<p>Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.</p>
 </section>
-<section id="git-manager-software" class="level2">
-<h2 class="anchored" data-anchor-id="git-manager-software">Git Manager Software</h2>
-<p>Here are some apps (called “<a href="https://en.wikipedia.org/wiki/Client_(computing)">clients</a>”) you can use to help you manage your Git interface (i.e., less command line, more point-and-click):</p>
-<p><a href="https://git-fork.com/">Fork</a> - Jason’s favorite and it’s free and easy to install<br>
-<a href="https://geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/">Rstudio</a> - has a built-in Git interface<br>
-<a href="https://desktop.github.com/">GitHub Desktop</a> - probably one of the more famous clients<br>
-<a href="https://www.sourcetreeapp.com/">sourcetree</a> - another common one</p>
-<p>You can read about those and many others <a href="https://blog.devart.com/best-git-gui-clients-for-windows.html#GitHub-Desktop">here</a>.</p>
-</section>
-<section id="noaa-open-science-git-resources" class="level2">
-<h2 class="anchored" data-anchor-id="noaa-open-science-git-resources">NOAA Open Science Git Resources</h2>
-<p><a href="https://nmfs-opensci.github.io/GitHub-Guide/#sec-introduction">GitHub and Git NOAA Open Scapes resources</a></p>
-</section>
-<section id="collaboration-using-git" class="level2">
-<h2 class="anchored" data-anchor-id="collaboration-using-git">Collaboration using Git</h2>
-<p>Currently, this is an amalgamation of <a href="https://docs.google.com/document/d/1lcchh6ggKS5-Sf7G3zwyRz1AA_XVxb7rc8Id_k5GEOo/edit#heading=h.k1i0lpeyjkx">Jason’s Git Collaboration notes</a> and the <a href="https://docs.google.com/document/d/1spu2uv0KmV2_aW64qwe2pJndPrSeHNEj1Utzi_lLpjU/edit#heading=h.84v7rojjdy4y">2024 ADP Team Charter</a></p>
-<div class="columns">
-<div class="column" style="width:45%;">
-<!-- <center><h2>Git Collaboration</h2></center> -->
-<p>Determining the <a href="https://www.atlassian.com/git/tutorials/comparing-workflows">“Git Work Flow”</a> is a huge part of working in a team! Be sure to check out the “Guidelines” section in the previous link for best practices when developing a workflow.</p>
-</div><div class="column" style="width:5%;">
-<p><!-- empty to create space --></p>
-</div><div class="column" style="width:45%;">
-<p><img src="_img/git.png" height="200"></p>
-</div>
-</div>
-<blockquote class="blockquote">
-<p>Jason suggests the Centralized Workflow (see link above) which keeps a linear history<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
-</blockquote>
-<section id="how-to-collaborate" class="level4">
-<h4 class="anchored" data-anchor-id="how-to-collaborate">How to Collaborate</h4>
-<ol type="1">
-<li>Add collaborators to repository<br>
-</li>
-<li>Collaborators clone repository to their local machine<br>
-</li>
-<li>Make changes
-<ol type="a">
-<li>Create a New Branch<br>
-</li>
-<li>Name it appropriately e.g., jason/newfeature<br>
-</li>
-<li>Make changes locally on the new branch<br>
-</li>
-<li>Commit changes to the new branch
-<ol type="i">
-<li>As a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.<br>
-</li>
-</ol></li>
-<li><em>See below before completing this step</em> - Push changes to the remote repository…this will create a pull request….</li>
-</ol></li>
-</ol>
-</section>
-<section id="before-pushing-to-the-repository" class="level4">
-<h4 class="anchored" data-anchor-id="before-pushing-to-the-repository">Before Pushing to the Repository</h4>
-<ol type="1">
-<li>Switch to your local main branch (<code>$git checkout main</code>)<br>
-</li>
-<li>Pull the remote main into your local main (<code>$git pull origin main</code>)<br>
-</li>
-<li>Switch to your dev branch (<code>$git checkout &lt;your-dev-branch-name-here&gt;</code>)<br>
-</li>
-<li>Merge your local main to your local dev branch (<code>$git merge main</code>)
-<ol type="a">
-<li><strong>NOTE</strong> This is where conflicts will show up if they will occur<br>
-</li>
-<li>Fix any conflicts</li>
-</ol></li>
-<li>Do some checking before pushing:
-<ol type="a">
-<li>Check the commits that will be pushed (<code>$git log - - oneline</code>; <code>q</code> escapes you back to the <code>$</code>)<br>
-</li>
-<li>Check your connection (<code>$git remote -v</code>)<br>
-</li>
-</ol></li>
-<li>Push your changes (<code>$git push origin &lt;your-branch-name&gt;</code>)</li>
-</ol>
-</section>
-</section>
-<section id="code-review" class="level2">
-<h2 class="anchored" data-anchor-id="code-review">Code Review</h2>
-<section id="pull-request" class="level3">
-<h3 class="anchored" data-anchor-id="pull-request">Pull Request</h3>
-<p>A pull request is a request by a collaborator for the repo owner to “pull” the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.</p>
-<section id="pull-request---what-are-they-good-for" class="level5">
-<h5 class="anchored" data-anchor-id="pull-request---what-are-they-good-for">Pull Request - What are they good for?</h5>
-<p>Pull request can simplify code review. They are a discussion point between coders. They can be used to:</p>
+<section id="federal-employees" class="level4">
+<h4 class="anchored" data-anchor-id="federal-employees">Federal employees</h4>
+<p>If you are federal employee, you will access your time-sheets through the <a href="https://docwebta.eas.commerce.gov/webta/">GovTA</a> web portal. Within one week of on-boarding <a href="https://enterpriseservices.servicenowservices.com/es">Enterprise Services</a> will create a new profile for you in GovTA.</p>
+<p>You should:</p>
 <ul>
-<li>review and discuss code: a new feature, improvements, strategy, etc.</li>
-<li>address issues</li>
-<li>any time new code is added to the repo</li>
+<li>work with the Program Manager to set your work schedule<br>
+</li>
+<li>familiarize yourself with the definitions and rules around <a href="https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1">Alternative Work Schedules</a><br>
+</li>
+<li>fill out an <a href="https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link">Employee Work Schedule Form</a><br>
+</li>
+<li>fill out a <a href="https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view">Telework Application Agreement</a><br>
+</li>
+<li>fill out a <a href="https://drive.google.com/file/d/198EkLWjTkQIOVQ1z7eD9eBf5z74Orfah/view">Telework Safety Checklist</a></li>
+<li>fill out a <a href="https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform">Telework Application Routing form</a></li>
+<li>take Telework Training in the <a href="https://doc.csod.com/client/doc/default.aspx">Common Learning Center</a></li>
 </ul>
-<p><strong>What are the benefits of pull requests as code review<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>?</strong></p>
+<p><strong>Telework Policy for NOAA FTEs - please note the following</strong></p>
 <ol type="1">
-<li>Increases the quality of the code</li>
-<li>Decreases probability of breaking stuff</li>
-<li>Frees time from micromanaging other peoples code</li>
-<li>Reduces the need for meetings</li>
-<li>Email notifications act as the interface</li>
-<li>They create a history - all discussion &amp; code (even if it is ultimately rejected), lives on a branch</li>
+<li>You are currently (<code>r Sys.Date()</code>) required to be in the office 2 days per pay period.<br>
+</li>
+<li>If you change your work hours within a given day by more than 1 hour, you must notify the Program Manger.<br>
+</li>
+<li>Telework is a privilege which can be revoked.<br>
+</li>
+<li>If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is <em>non-work</em> time and should <em>not</em> be recorded on your time sheet.
+<ul>
+<li>For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed. Your travel time to the AFSC is not to be recorded as work time.</li>
+</ul></li>
 </ol>
-<p>The downsides include (see also<sup>2</sup>):<br>
-1. You have to wait to have your code reviewed by others<br>
-2. Reviewer can get backed up &amp; overwhelmed</p>
+<p>Forms and information can be found on the <a href="https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance">myAFSC Time and Attendance page</a></p>
+<p><a href="https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance">Time and Attendance Resources</a></p>
 </section>
-<section id="how-to-submit-a-pull-request" class="level5">
-<h5 class="anchored" data-anchor-id="how-to-submit-a-pull-request">How to Submit a Pull Request</h5>
+<section id="leave" class="level3">
+<h3 class="anchored" data-anchor-id="leave">Leave</h3>
+<section id="non-federal-employees-1" class="level4">
+<h4 class="anchored" data-anchor-id="non-federal-employees-1">non-Federal employees</h4>
+<p>Guidance on leave should be provided by your employer.</p>
+</section>
+<section id="federal-employees-1" class="level4">
+<h4 class="anchored" data-anchor-id="federal-employees-1">Federal employees</h4>
+<p>Use GovTA to request leave. You can find resources related to leave <a href="https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance">here</a></p>
+<p>In 2023, NOAA added a new leave category <code>66-Administrative Leave - Wellness</code>. The category “…aims to provide workplace liabilities that increase employees’ engagement, retention, and interest in their health and wellness.” (<a href="https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1">HRGB #1018, FY23</a>). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the <a href="https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1">policy</a> for a complete understanding of the rules and the <a href="https://drive.google.com/file/d/1asc745qKgQXn_7Tlp_DxnJhOYuYlROfX/view">FAQ</a> for further information.</p>
+<p>Administrative Leave to participate in wellness activities:</p>
 <ol type="1">
-<li>Go to the repo, at the top click on <code>Pull Requests</code><br>
+<li>Must be coordinated with, requested to, and approved by your supervisor before being taken.<br>
 </li>
-<li>Create a <code>New Pull Request</code> (green button upper right)<br>
+<li>Must be displayed on your G-calendar.<br>
 </li>
-<li>Ensure you are comparing the right branches<br>
+<li>Must be used in increments of at least 15 minutes.<br>
 </li>
-<li>Look at the <code>gitdiff</code><br>
+<li>Generally may not exceed more than 1 hour on any given work week.<br>
 </li>
-<li>Give it an appropriate succinct title<br>
+<li>May be used in conjunction with lunch periods, or at the beginning or end of a workday.<br>
 </li>
-<li>Include a descriptive message
-<ol type="a">
-<li>What has been done<br>
+<li>Must be used within the employee’s established work hours.<br>
 </li>
-<li>How to use the new code<br>
+<li>Is not allowed on the employee’s days off, or while the employee is otherwise on approved leave, or when the employee is on overtime.<br>
 </li>
-<li>What someone could do to test the code, e.g., do…<br>
-</li>
-</ol></li>
-<li>Create the request<br>
-</li>
-<li>Add a reviewer - upper right hand corner. Will trigger an email.<br>
-</li>
-<li>Once reviewed, the pull request will be merged with the branch (typically main)</li>
+<li>May not be combined with other instances of approved Administrative Leave.</li>
 </ol>
-<p>NOTE: You can add more commits to a single pull request, provided it has not been reviewed and merged. <em>However</em>, only do this for very minor changes - missing spaces, typos, missing last lines etc.</p>
-</section>
-<section id="how-to-review-a-pull-request" class="level5">
-<h5 class="anchored" data-anchor-id="how-to-review-a-pull-request">How to Review a Pull Request</h5>
-<ol type="1">
-<li>Open the pull request<br>
-</li>
-<li>Review the code changes<br>
-</li>
-<li>Reviewer - provide comments and feedback as comments<br>
-</li>
-<li>Originator - respond to comments, perhaps add comments<br>
-</li>
-<li>Reviewer - Approve changes (upper right corner) and add approval comment<br>
-</li>
-<li>Reviewer - merge pull request<br>
-</li>
-<li>Originator - delete the branch once the code has been merged. <em>Please do this so that our remote is clean!</em><br>
-</li>
-<li><em>DONT FORGET TO PULL</em> the new code to your local instance to get latest code.</li>
-</ol>
+<p>See the <a href="https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1">policy</a> for eligibility, employee responsibilities and allowable activities.</p>
 </section>
 </section>
+<section id="working-over-time-more-than-4080" class="level3">
+<h3 class="anchored" data-anchor-id="working-over-time-more-than-4080">Working Over-Time (more than 40/80)</h3>
+<section id="non-federal-employees-2" class="level4">
+<h4 class="anchored" data-anchor-id="non-federal-employees-2">non-Federal employees</h4>
+<p>Obtain guidance on over-time from your employer.</p>
 </section>
-<section id="issues" class="level2">
-<h2 class="anchored" data-anchor-id="issues">Issues</h2>
-<p>Issues are a great way to improve code outside the normal pull request-review process. Issues can be used to propose:</p>
-<ol type="1">
-<li>Fixes to broken code<br>
-</li>
-<li>Cool new features<br>
-</li>
-<li>Tackle TODO lists<br>
-</li>
-<li>Document Q&amp;A</li>
-</ol>
-<p>Use <code>tags</code> (right sidebar) to highlight the type of issue being submitted.</p>
-<section id="how-to-submit-an-issue" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-submit-an-issue">How to submit an Issue</h3>
-<ol type="1">
-<li>Open an issue<br>
-</li>
-<li>Give it a succinct but appropriate name<br>
-</li>
-<li>Give it a <code>tag</code><br>
-</li>
-<li>Use the <code>@</code> in the body of the issue to mention others who might be interested or involved in the issue resolution<br>
-</li>
-<li>Use simple pseudo-code (via Markup code) to describe your proposed changes.<br>
-</li>
-<li>Provide a minimal reproducible example for bugs/errors, a.k.a. a <a href="https://stackoverflow.com/help/minimal-reproducible-example">repex</a><br>
-</li>
-<li>Be sure to close the issue once it is complete.
-<ol type="a">
-<li>Pro Tip: You can use the following statement to make Github automatically close an issue:<br>
-<code>this closes issue #&lt;insert-issue-num&gt;</code> <a href="https://github.com/jjannot-NOAA/PlantSamplingAnalysis/issues/5#issuecomment-1480164759">see example here</a></li>
-</ol></li>
-</ol>
+<section id="federal-employees-2" class="level4">
+<h4 class="anchored" data-anchor-id="federal-employees-2">Federal employees</h4>
+<p>For Federal staff, there are three mechanisms for being compensated for working more than 80 hours in a pay period (PP):</p>
+<ul>
+<li>Overtime Pay</li>
+<li>Credit hours for those on maxi-flex schedules</li>
+<li>Compensatory time</li>
+</ul>
+<section id="overtime-pay" class="level5">
+<h5 class="anchored" data-anchor-id="overtime-pay">Overtime Pay</h5>
+<p>Overtime pay is awarded for working beyond the 80 hours in a pay period. This should not occur often during the year. As best as possible, please work with the Program Manager ahead of time to gain approval for overtime work. If you are on a Maxi-Flex schedule, Credit Hours can be claimed <em>in lieu</em> of overtime pay. Guidelines:</p>
+<ul>
+<li>Gain approval from Program Manager beforehand</li>
+<li>Work with PM and Timekeeper to fill out paperwork</li>
+</ul>
 </section>
-<section id="assigning-issues" class="level3">
-<h3 class="anchored" data-anchor-id="assigning-issues">Assigning Issues</h3>
-<ol type="1">
-<li>Feel free to assign yourself the issue, but be sure to eventually tackle the issue.</li>
-<li><em>BEFORE ASSIGNING TO OTHERS</em> discuss with the other person and/or the PM to ensure assignment is appropriate and does not conflict with current priorities.</li>
-</ol>
+<section id="credit-hours" class="level5">
+<h5 class="anchored" data-anchor-id="credit-hours">Credit Hours</h5>
+<p>If you are on a Maxi-Flex schedule, Credit Hours can be claimed <em>in lieu</em> of overtime pay. Guidelines:</p>
+<ul>
+<li>Can carry up to 24 credit hours<br>
+</li>
+<li>No advance approval is needed<br>
+</li>
+<li>Properly record credit hours on time-sheet<br>
+</li>
+<li>Submit a Request for Premium Pay in GovTA</li>
+</ul>
+</section>
+<section id="compensatory-time" class="level5">
+<h5 class="anchored" data-anchor-id="compensatory-time">Compensatory Time</h5>
+<p>Compensatory time can be awarded for <strong>travel</strong> that occurs outside or beyond normal working hours or days (e.g., “red-eye” flight, travel on weekend, etc).</p>
+<p>Compensatory time for working (as opposed to traveling) is typically not awarded. Rather, overtime work is typically compensated via overtime pay or credit hours (see above).</p>
+<p>A quick guide for how to claim and record Compensatory Time for traveling can be found <a href="https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit">here</a>.</p>
 </section>
 </section>
-<section id="compare-two-branches-on-github" class="level2">
-<h2 class="anchored" data-anchor-id="compare-two-branches-on-github">Compare Two Branches on GitHub</h2>
-<ol type="1">
-<li>Open the branch with the newest commits</li>
-<li>At the top you’ll see the number of commits difference like this:</li>
-</ol>
-<p><img src="_img/github_compare_2_branches.png" class="img-fluid"></p>
-<ol start="3" type="1">
-<li>Click on the link “&lt;#&gt; commit ahead”</li>
-<li>That will bring you to the diff page! Voila!</li>
-</ol>
 </section>
-<section id="to-link-a-pull-request-with-an-issue" class="level2">
-<h2 class="anchored" data-anchor-id="to-link-a-pull-request-with-an-issue">To link a pull request with an issue</h2>
-<p><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue">Link Pull Request with Issue</a></p>
-<p>See <a href="./more-git.html">Git Tips</a> for additional tips and resources.</p>
+</section>
+<section id="duties" class="level2">
+<h2 class="anchored" data-anchor-id="duties">Duties</h2>
+<p>Both Federal and non-Federal employees will work with the PM to determine specific responsibilities, individual projects, deliverables, and duties. Duties and responsibilities will be revisited (with the PM, and when appropriate, members of the A-Team) during the year and updated to reflect any changes on a regular basis.</p>
+<p>Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):</p>
+<ul>
+<li>leading and assisting in designated research projects<br>
+* Note that “leading” in this context means acting as Project Manager<br>
+</li>
+<li>participation in professional development opportunities</li>
+<li>presenting analyses and results to NPFMC and other stakeholders<br>
+</li>
+<li>developing and submitting research funding proposals</li>
+<li>submitting and publishing NOAA Technical Memorandum and other reports</li>
+<li>submitting and publishing peer-reviewed journal articles</li>
+<li>participating in outreach activities</li>
+<li>attending scientific and professional conferences</li>
+</ul>
+<section id="observer-training-class" class="level3">
+<h3 class="anchored" data-anchor-id="observer-training-class">Observer Training Class</h3>
+<p>The Program Manager <strong>strongly encourages all new and existing Program staff</strong> to attend relevant portions of the 3 week observer training class. This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.</p>
+<p>More details can be found in the <a href="./observer-training-classes.html">Observer Training appendix</a>, but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.</p>
+</section>
+</section>
+<section id="sec-perf" class="level2">
+<h2 class="anchored" data-anchor-id="sec-perf">Performance</h2>
+<section id="non-federal-employees-3" class="level4">
+<h4 class="anchored" data-anchor-id="non-federal-employees-3">non-Federal employees</h4>
+<p>Guidance on performance reviews should be provided by your employer.</p>
+</section>
+<section id="federal-employees-3" class="level4">
+<h4 class="anchored" data-anchor-id="federal-employees-3">Federal employees</h4>
+<p>Soon after joining the A-Team, you should work with the PM to create an annual, individual <a href="https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1">Performance Plan</a>. Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.</p>
+<p>Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs are listed above under <a href="#duties">Duties</a>.</p>
+<p>More about the performance process can be found <a href="https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps">here</a>.</p>
+<p>The <a href="https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards">AFSC Awards page</a> lists the many ways Federal employees can be recognized and awarded for their achievements including opportunities to nominate your peers for their hard work.</p>
+</section>
+</section>
+<section id="afsc-contact-card" class="level2">
+<h2 class="anchored" data-anchor-id="afsc-contact-card">AFSC Contact Card</h2>
+<p>Federal staff are encouraged to set-up an AFSC Contact Card, for example, see <a href="https://www.fisheries.noaa.gov/contact/jason-e-jannot">Jason’s Contact Card</a>. This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform">Contact Card here</a></p>
 
 
-</section>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn1"><p>If you don’t like the Centralized Workflow, try the <a href="https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development">Trunk-based Workflow</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>For a counter argument to pull requests, <a href="https://youtu.be/ASOSEiJCyEM?t=275">see this video</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
 </section>
 
 </main> <!-- /main -->
@@ -1121,13 +1045,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./communication.html" class="pagination-link" aria-label="Communication">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Communication</span></span>
+      <a href="./onboarding.html" class="pagination-link" aria-label="Onboarding">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Onboarding</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./publicationprocess.html" class="pagination-link" aria-label="Publication Process with AFSC">
-        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Publication Process with AFSC</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./expectations.html" class="pagination-link" aria-label="Expectations">
+        <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Expectations</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1136,4 +1060,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/collaborate.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jjannot-NOAA/ateam-maual/edit/main/timeattendance.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jjannot-NOAA/ateam-maual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
