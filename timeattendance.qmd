@@ -1,0 +1,126 @@
+---
+title: "Schedules, Leave, Duties, Performance"
+---
+## Schedules, Time & Attendance
+#### non-Federal employees
+Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.
+
+#### Federal employees
+If you are federal employee, you will access your time-sheets through the [GovTA](https://docwebta.eas.commerce.gov/webta/) web portal. Within one week of on-boarding [Enterprise Services](https://enterpriseservices.servicenowservices.com/es) will create a new profile for you in GovTA.
+
+You should:
+  
+* work with the Program Manager to set your work schedule    
+* familiarize yourself with the definitions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
+* fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
+* fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
+* fill out a [Telework Safety Checklist](https://drive.google.com/file/d/198EkLWjTkQIOVQ1z7eD9eBf5z74Orfah/view)
+* fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform)
+* take Telework Training in the [Common Learning Center]( https://doc.csod.com/client/doc/default.aspx)    
+
+**Telework Policy for NOAA FTEs - please note the following**
+
+1. You are currently (`r Sys.Date()`) required to be in the office 2 days per pay period.    
+2. If you change your work hours within a given day by more than 1 hour, you must notify the Program Manger.    
+3. Telework is a privilege which can be revoked.    
+4. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
+    * For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed.  Your travel time to the AFSC is not to be recorded as work time.
+
+Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+
+  [Time and Attendance Resources](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+
+### Leave
+#### non-Federal employees
+Guidance on leave should be provided by your employer.
+
+#### Federal employees
+ Use GovTA to request leave.  You can find resources related to leave [here](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+ 
+ In 2023, NOAA added a new leave category `66-Administrative Leave - Wellness`. The category "...aims to provide workplace liabilities that increase employees' engagement, retention, and interest in their health and wellness." ([HRGB #1018, FY23](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1)). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for a complete understanding of the rules and the [FAQ](https://drive.google.com/file/d/1asc745qKgQXn_7Tlp_DxnJhOYuYlROfX/view) for further information.
+ 
+ Administrative Leave to participate in wellness activities:    
+ 
+ 1. Must be coordinated with, requested to, and approved by your supervisor before being taken.    
+ 2. Must be displayed on your G-calendar.    
+ 3. Must be used in increments of at least 15 minutes.    
+ 4. Generally may not exceed more than 1 hour on any given work week.    
+ 5. May be used in conjunction with lunch periods, or at the beginning or end of a
+workday.    
+ 6. Must be used within the employee’s established work hours.    
+ 7. Is not allowed on the employee’s days off, or while the employee is otherwise on
+approved leave, or when the employee is on overtime.    
+ 8. May not be combined with other instances of approved Administrative Leave.
+
+See the [policy](https://drive.google.com/file/d/1Z5XUCydpDjW-j8YLKRshp0WT_ZEfKKcq/view?pli=1) for eligibility, employee responsibilities and allowable activities.
+
+### Working Over-Time (more than 40/80)
+#### non-Federal employees
+Obtain guidance on over-time from your employer.
+
+#### Federal employees
+ For Federal staff, there are three mechanisms for being compensated for working more than 80 hours in a pay period (PP):
+ 
+ * Overtime Pay
+ * Credit hours for those on maxi-flex schedules
+ * Compensatory time
+ 
+##### Overtime Pay
+ Overtime pay is awarded for working beyond the 80 hours in a pay period.  This should not occur often during the year. As best as possible, please work with the Program Manager ahead of time to gain approval for overtime work.
+ If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay. Guidelines:
+ 
+ * Gain approval from Program Manager beforehand
+ * Work with PM and Timekeeper to fill out paperwork
+ 
+##### Credit Hours
+ If you are on a Maxi-Flex schedule, Credit Hours can be claimed *in lieu* of overtime pay. Guidelines:
+ 
+ * Can carry up to 24 credit hours    
+ * No advance approval is needed    
+ * Properly record credit hours on time-sheet    
+ * Submit a Request for Premium Pay in GovTA
+ 
+
+##### Compensatory Time
+Compensatory time can be awarded for **travel** that occurs outside or beyond normal working hours or days (e.g., "red-eye" flight, travel on weekend, etc).
+ 
+ Compensatory time for working (as opposed to traveling) is typically not awarded.  Rather, overtime work is typically compensated via overtime pay or credit hours (see above).
+ 
+  A quick guide for how to claim and record Compensatory Time for traveling can be found [here](https://docs.google.com/document/d/1BdvL0mbBE0JY5HkDjdoi5RhCc0rn3G0SfXFHeo03nzY/edit).
+
+## Duties {#duties}
+Both Federal and non-Federal employees will work with the PM to determine specific responsibilities, individual projects, deliverables, and duties. Duties and responsibilities will be revisited (with the PM, and when appropriate, members of the A-Team) during the year and updated to reflect any changes on a regular basis.
+
+Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):
+
+* leading and assisting in designated research projects    
+        * Note that "leading" in this context means acting as Project Manager    
+* participation in professional development opportunities
+* presenting analyses and results to NPFMC and other stakeholders    
+* developing and submitting research funding proposals
+* submitting and publishing NOAA Technical Memorandum and other reports
+* submitting and publishing peer-reviewed journal articles
+* participating in outreach activities
+* attending scientific and professional conferences
+
+### Observer Training Class
+The Program Manager **strongly encourages all new and existing Program staff** to attend relevant portions of the 3 week observer training class.  This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.
+
+More details can be found in the [Observer Training appendix](observer-training-classes.qmd), but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.
+
+## Performance {#sec-perf}
+#### non-Federal employees
+Guidance on performance reviews should be provided by your employer.
+
+#### Federal employees
+Soon after joining the A-Team, you should work with the PM to create an annual, individual [Performance Plan](https://drive.google.com/file/d/18veCUTjncQVhRY6jOou9kclKWXJssOca/view?pli=1).  Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.    
+
+Duties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs are listed above under [Duties](#duties).
+
+More about the performance process can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps).
+
+The [AFSC Awards page](https://sites.google.com/noaa.gov/myafsc/administrative/workforce-management/awards) lists the many ways Federal employees can be recognized and awarded for their achievements including opportunities to nominate your peers for their hard work.  
+
+
+## AFSC Contact Card
+  Federal staff are encouraged to set-up an AFSC Contact Card, for example, see [Jason's Contact Card](https://www.fisheries.noaa.gov/contact/jason-e-jannot).  This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a [Contact Card here](https://docs.google.com/forms/d/e/1FAIpQLSdDfxoDycZjcmXDfPY_KnHwb2vPQ8HTzfFCSVt-qOvq_xPIZw/viewform)
