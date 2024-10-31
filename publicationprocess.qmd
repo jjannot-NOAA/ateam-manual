@@ -36,6 +36,7 @@ In short the process is as follows:
 
 ## Paying for Publication Charges
 Note that when possible, all publications should be Open Access.  
+
 ## Using a Purchase Card to Pay for Publishing
 
 If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card.
@@ -48,7 +49,7 @@ To submit a PO for publication charges:
 
 1. Publishing is a service and in most cases if you need to use a PO you will follow the guidelines for a *Service, >2,500 to 250,000 USD, Simplified Acquisition* as per the table on the [AFSC Intranet Acquisitions Procurement Table](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition#:~:text=acquisitions%40noaa.gov-,Procurement%20Table,-*%20Specific%20AFSC%20Purchase).
 
-The remainder of this guidance assumes the Simplified Acquisitions process.  If different, see the [AFSC Intranet Acquisitions page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition)
+The remainder of this guidance assumes the Simplified Acquisitions process.  If different, see the [AFSC Intranet Acquisitions page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition).
 
 2. Fill out the following forms. More detail on the forms are found below. The forms you need are:    
     a. [Statement of Need/Work](https://docs.google.com/document/d/1XzYkUVyrFEs02QDO8Zc2RQc9nGSKLIARZnUcLFFoIg0/edit?tab=t.0#heading=h.3d0vs5m24hdd)    
