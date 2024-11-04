@@ -21,7 +21,7 @@ All formal research documents that present data, research, science, analyses, fi
 
 >**Manuscripts destined for review by peer-reviewed journal cannot be submitted to the journal until they have been entered into RPTS and completed the internal review process!**
 
-The [AFSC Intrasite Publications and RPTS](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts) describes the process and should be your first resource when moving to publication.
+The [AFSC Intrasite Publications and RPTS](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts) describes the process and should be your first resource when moving to publication.    
 
 [RPTS login](https://apps-st.fisheries.noaa.gov/rpts/#view=login)
 
@@ -34,16 +34,16 @@ In short the process is as follows:
   5. **IMPORTANT** After publication, log into RPTS and update the status of the publication.    
   6. The final step should submit the publication to the [NOAA Institutional Library](https://repository.library.noaa.gov/welcome) for archiving.
 
-## Paying for Publication Charges
-Note that when possible, all publications should be Open Access.  
+# Paying for Publication Charges
+Note that when possible, all publications should be Open Access. The best resource is [Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
 
 ## Using a Purchase Card to Pay for Publishing
 
-If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card.
+If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card and reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
 
 ## Using a Purchase Order to Pay for Publishing
 
-Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge.
+Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge. Please reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov` if you have questions.
 
 To submit a PO for publication charges:
 
@@ -55,16 +55,20 @@ The remainder of this guidance assumes the Simplified Acquisitions process.  If 
     a. [Statement of Need/Work](https://docs.google.com/document/d/1XzYkUVyrFEs02QDO8Zc2RQc9nGSKLIARZnUcLFFoIg0/edit?tab=t.0#heading=h.3d0vs5m24hdd)    
     b. [IGCE](https://docs.google.com/spreadsheets/d/1bbqGPShcjNeFhbq_aD8tXLihMvkB4Zz3/edit?gid=1152544175#gid=1152544175)    
     c. [IT Security Checklist](https://drive.google.com/file/d/10660Y07dE5Ero1Nw-1qvcSujpUoIyg9c/edit)    
-    d. [AFSC Acquisitions Purchase Order Intake](https://docs.google.com/forms/d/e/1FAIpQLSe1U8OoVXR8L2wxalDCD0YYrBz-af8fnZsIkjut4cu5D8HZEw/viewf)    
+    d. [Services Contract Form](https://drive.google.com/file/d/16XqlZ1owBqxSpukKsQf9OwjbNhjEJ8vq/view)    
+    e. [Sole Source Form](https://drive.google.com/file/d/1jQ3-l6Ka0Fkvv075CcfrhIIwLkvdGv3t/view)
+    f. [AFSC Acquisitions Purchase Order Intake](https://docs.google.com/forms/d/e/1FAIpQLSe1U8OoVXR8L2wxalDCD0YYrBz-af8fnZsIkjut4cu5D8HZEw/viewf)    
 
  See the [Reference Guide](https://docs.google.com/document/d/1DqBYIpfb0NHYSbEzMdtyxJSGk4AU9vnd9L4gKkFLZ1E/edit?tab=t.0) for a list of standard forms.
  
-3. You will also need to fill out and submit [form GPO 3868](https://www.gpo.gov/docs/default-source/forms-standards-pdf-files/3868.pdf?sfvrsn=2). Instructions are found under [Journal Article Waiver Requests *When is a journal article waiver needed?*](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts). **IMPORTANT NOTE despite the title, this form applies to all journal articles, not just those with a waiver!**
+3. You will also need to fill out and submit [form GPO 3868](https://www.gpo.gov/docs/default-source/forms-standards-pdf-files/3868.pdf?sfvrsn=2). Instructions are found under [Journal Article Waiver Requests *When is a journal article waiver needed?*](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts). **IMPORTANT NOTE despite the title, this form applies to all journal articles, not just those with a waiver!**   
+
+4. Once you have received an invoice from the publishing company, forward it to the cardholder or Field Delegate for payment processing. Work with the cardholder or Field Delegate if you anticipate that the publication will published, and therefore invoiced, during the next fiscal year.
+
 
 ### Forms
-Return the completed Statement of Need/Work, IGCE, IT Security Checklist, and Services Contract forms to Jodi Stebbins via email and be sure to **include the original invoice from the publisher**.    
-
-Submit the GPO Form 3868 to the FDLP, which can be done with an email containing the publication details or by submitting the GPO Form 3868 to `intenttopublish@gpo.gov`.
+Return the completed forms under #2 above (a-e) to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.  
+**Be sure to complete this step *AFTER* approval in RPTS but *BEFORE* submission to the journal itself.  Please note the timeline in your email to AFSC Acquisitions.**
 
 #### Statement of Need/Work
 1. Delete any unnecessary sections.    
@@ -78,22 +82,23 @@ Submit the GPO Form 3868 to the FDLP, which can be done with an email containing
 #### IT Security Checklist
 1. Fill out the top portion and date.    
 2. Check "No" to all boxes.    
-3. Sign under "Contracting Officer".    
+3. Sign under "procurement COR".    
 4. Submit to `nmfs.afsc.helpdesk@noaa.gov` for review and signature. Include Statement of Need/Work (SON/SOW), IGCE and IT Security Checklist.
 
 #### AFSC Acquisitions Purchase Order Intake
-1. *Procurement Type* = **Supply**    
+This form initiates the PO process with the AFSC Acquisitions Team.    
+1. *Procurement Type* = **Service**    
 2. *Are you using IRA funding* = **No**    
-3. *Are you including sole source justification* = **No**    
+3. *Are you including sole source justification* = **Yes**    
 4. *Have you submitted an IT Security Checklist to OFIS for ISSO Review* = **Yes**    
 5. *If IT-Related: Have you created a NOAALink Worksheet?* = **Not Applicable**    
 6. *If Construction, have you completed a CWIP Determination Memo?* = **Not Applicable**    
 7. *Name of Contracting Officer, if applicable* = **Not Applicable**    
 
-
 #### GPO 3868
 1. Fill out to the extent possible.    
-2. Send to `intenttopublish@gpo.gov`
+2. The form requires a cost estimate and a document upload.    
+3. Send to `intenttopublish@gpo.gov`
 
 Here are some [Examples of POs](https://docs.google.com/document/d/1KA2czkPN3oFoXhVvGTtOBI82wJ7FZEKfUshh0CarK7M/edit?tab=t.0) for reference.
   
