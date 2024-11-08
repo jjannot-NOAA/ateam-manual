@@ -35,7 +35,11 @@ In short the process is as follows:
   6. The final step should submit the publication to the [NOAA Institutional Library](https://repository.library.noaa.gov/welcome) for archiving.
 
 # Paying for Publication Charges
-Note that when possible, all publications should be Open Access. The best resource is [Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
+Note that when possible, all publications should be Open Access. 
+
+Publishing is *free* when publishing a NOAA Technical Memo, or in [Fishery Bulletin](https://spo.nmfs.noaa.gov/fb.htm), [Marine Fisheries Review](https://spo.nmfs.noaa.gov/mfr.htm), or any [Wiley Publications](https://www.wiley.com/en-us).
+
+The best resource is [Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
 
 ## Using a Purchase Card to Pay for Publishing
 
