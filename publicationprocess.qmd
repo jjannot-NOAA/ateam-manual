@@ -55,7 +55,7 @@ In some cases, you might be able to have one of the Field Delegates in AFSC Acqu
     b. name of the funds certification offical (FCO)    
     c. name of the approving official (AO)   
     
-3. Fill out a request on the AFSC Intranet [MPR application] (https://script.google.com/a/macros/noaa.gov/s/AKfycbwyQb1ihNYOtRbMNgAMCLUTvkdLrLp0qitLbr2TUlyGpDSx5iUwg9-CSmbx0vwIZ6tN/exec)    
+3. Fill out a request on the AFSC Intranet [MPR application](https://script.google.com/a/macros/noaa.gov/s/AKfycbwyQb1ihNYOtRbMNgAMCLUTvkdLrLp0qitLbr2TUlyGpDSx5iUwg9-CSmbx0vwIZ6tN/exec)    
 
 4. You will need to review the statements on the opening page of the MPR application. Note the following about each of these statements:    
     1. The statement in the MPR about signing terms and conditions applies only to leases and rentals. For a journal publication, therefore this language won't be incorporated and thus, does not apply.    
