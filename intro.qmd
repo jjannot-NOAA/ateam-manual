@@ -221,36 +221,6 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 
 ::::
 
----
-
-:::: {.columns}
-
-::: {.column width="30%"}   
- 
- ![](_img/CameronVanHorn.jpg){height=200 align="right"}
-:::
-
-:::{.column width="15%"}
-
- <!-- empty to create space -->
-
-:::
-
-:::{.column width="55%"}
- 
- **Cameron Van Horn, Data Analyst**    
- Pacific States Marine Fisheries Commission    
- AFSC, Seattle
- Building 4, Office 1065
- 
- **Interests**
-  
-  * professional: data quality diagnostics and analytics   
-  * personal: film, music, photography, sports, snorkeling, diving 
- 
-:::    
-
-::::
 
 ---
 
@@ -283,12 +253,30 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 :::    
 
 ::::
+
+---
+
+**Former Members**
+
+:::: {.columns}
+
+::: {.column width="30%"}   
  
+ ![](_img/CameronVanHorn.jpg){height=100 align="right"}
+:::
+
+:::{.column width="50%"}
+ 
+ Cameron Van Horn was hired by PSMFC as a Data Analyst. Cameron's main contribution was to better understand data quality control measures, particularly data deletions, after observers return from sea.    
+ 
+:::    
+
+::::
 *Other FMA staff offices*
 
 * 1059 - FMA Division Director - vacant
 * 1061 - [Lisa Thompson, Acting FMA  Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
-* 1062 - [Marlon Conception, Acting FMA Deputy Director and Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
+* 1062 - [Marlon Conception Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
 * 1063 - [Brian Mason, FMA Training Program Manager](https://www.fisheries.noaa.gov/contact/brian-mason)
 
 * Lacey Jeroue, AMMOP Program Manager, PSMFC    
