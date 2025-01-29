@@ -5,7 +5,7 @@ render: true
 ---
 # Collaboration & Code Review {#collaborate.qmd}
 
-## NOTE: These sections will be completed with input from all Analytical Services Program members during the Analytical Services Program Launch Meeting slated for early 2024.
+## NOTE: These sections need to be updated based on meetings and discussions to develop an agreed upon method for collaboration.
 
 ## Git Manager Software
 Here are some apps (called "[clients](https://en.wikipedia.org/wiki/Client_(computing))") you can use to help you manage your Git interface (i.e., less command line, more point-and-click):    
