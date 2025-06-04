@@ -33,13 +33,13 @@ This project and everyone participating in it is governed by the [AFSC Code of C
 
 * Craig Faunce, NOAA Fisheries AFSC FMA Division, Seattle, WA
 
+* Phil Ganz, NOAA Fisheries Alaska Region Office, Seattle, WA 
+
 * Christian Gredzens, NOAA Fisheries AFSC FMA Division, Seattle, WA
 
 * Andy Kingham, NOAA Fisheries AFSC FMA Division, Seattle, WA
 
 * Geoff Mayhew, NOAA Fisheries AFSC FMA Division, Seattle, WA
-
-* Cameron Van Horn, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA 
 
 ## Getting Started
 * Make sure you have a GitHub account.
@@ -81,7 +81,7 @@ Other sources for issue best practices are described in various places on the we
 ## Making Changes
 The following uses the Gitflow method as the workflow.
 
-* Clone the package onto your computer. If you haven't done this before, we recommend using `usethis::create_from_github("jjannot-NOAA/AnnualReportADPGantt", fork = TRUE)`.
+* Clone the package onto your computer. If you haven't done this before, we recommend using `usethis::create_from_github(">>_INSERT_PATH_TO_FILE<<", fork = TRUE)`.
 * Pull the most recent code.
 * Create a Git branch for your pull request (PR). We recommend using `usethis::pr_init("brief-description-of-change")`.
 * Make your changes.
