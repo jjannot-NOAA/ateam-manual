@@ -79,3 +79,5 @@ format:
     number-sections: false
     indent: false
 
+execute:
+  freeze: auto
