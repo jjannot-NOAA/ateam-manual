@@ -975,7 +975,7 @@
     "href": "contributing.html#team-members",
     "title": "Appendix J — Contributing",
     "section": "Team members",
-    "text": "Team members\nLead: Jason E. Jannot, NOAA Fisheries AFSC FMA Division, Seattle, WA.\nContributors:\n\nJennifer Cahalan, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA\nCraig Faunce, NOAA Fisheries AFSC FMA Division, Seattle, WA\nChristian Gredzens, NOAA Fisheries AFSC FMA Division, Seattle, WA\nAndy Kingham, NOAA Fisheries AFSC FMA Division, Seattle, WA\nGeoff Mayhew, NOAA Fisheries AFSC FMA Division, Seattle, WA\nCameron Van Horn, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA",
+    "text": "Team members\nLead: Jason E. Jannot, NOAA Fisheries AFSC FMA Division, Seattle, WA.\nContributors:\n\nJennifer Cahalan, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA\nCraig Faunce, NOAA Fisheries AFSC FMA Division, Seattle, WA\nPhil Ganz, NOAA Fisheries Alaska Region Office, Seattle, WA\nChristian Gredzens, NOAA Fisheries AFSC FMA Division, Seattle, WA\nAndy Kingham, NOAA Fisheries AFSC FMA Division, Seattle, WA\nGeoff Mayhew, NOAA Fisheries AFSC FMA Division, Seattle, WA",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
@@ -1041,7 +1041,7 @@
     "href": "contributing.html#making-changes",
     "title": "Appendix J — Contributing",
     "section": "Making Changes",
-    "text": "Making Changes\nThe following uses the Gitflow method as the workflow.\n\nClone the package onto your computer. If you haven’t done this before, we recommend using usethis::create_from_github(\"jjannot-NOAA/AnnualReportADPGantt\", fork = TRUE).\nPull the most recent code.\nCreate a Git branch for your pull request (PR). We recommend using usethis::pr_init(\"brief-description-of-change\").\nMake your changes.\nCommit your changes. See the Git Commit Messages styleguide below.\nPush your changes to the remote Github repository.\nGo to Github and create a ‘pull request’ e.g., by running usethis::pr_push(), and following the prompts in your browser. The title of your PR should briefly describe the change.See the Pull Requests Messages section below.\nAssign a reviewer.",
+    "text": "Making Changes\nThe following uses the Gitflow method as the workflow.\n\nClone the package onto your computer. If you haven’t done this before, we recommend using usethis::create_from_github(\"&gt;&gt;_INSERT_PATH_TO_FILE&lt;&lt;\", fork = TRUE).\nPull the most recent code.\nCreate a Git branch for your pull request (PR). We recommend using usethis::pr_init(\"brief-description-of-change\").\nMake your changes.\nCommit your changes. See the Git Commit Messages styleguide below.\nPush your changes to the remote Github repository.\nGo to Github and create a ‘pull request’ e.g., by running usethis::pr_push(), and following the prompts in your browser. The title of your PR should briefly describe the change.See the Pull Requests Messages section below.\nAssign a reviewer.",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
