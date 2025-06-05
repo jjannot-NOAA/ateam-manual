@@ -1,131 +1,155 @@
-
 # The Big Picture {#sec-big-picture}![](_img/lightbulbicon.jpg){height=90}
 
-[Team culture](https://www.youtube.com/watch?v=IlH0GgVbhwM) is a set of values, goals and attitudes that members of the same team practice to create a productive and healthy workplace atmosphere. It represents all the ways people behave and the attitudes and beliefs that inform those behaviors, including both the formal stated norms as well as the implicit ways people interact.      
+----
+![](/_img/NOAA_Fisheries_image.png)
+
+NOAA Fisheries monitors the health and sustainability of fish, marine mammals, and their habitats across nearly 1.5 million square miles of water surrounding the state, which produces more than half of the fish caught in the United States, worth \$1.8 billion.
+
+----
+# Team Culture
+
+[Team culture](https://www.youtube.com/watch?v=IlH0GgVbhwM) is a set of values, goals and attitudes that members of the same team practice to create a productive and healthy workplace atmosphere. It represents all the ways people behave and the attitudes and beliefs that inform those behaviors, including both the formal stated norms as well as the implicit ways people interact.
 
 The culture is [everyone's responsibility](https://www.youtube.com/watch?v=6MEocQzw-54).
 
 ### Benefits of a Strong Culture
 
-1. A more enjoyable work environment    
-2. Greater engagement in the work    
-3. Conflict is managed in a healthy manner    
-4. Contributions are celebrated and valued    
-5. Inspires leadership - even among those who have no formal supervisory duties    
-6. Attracts and retains the best talent
+1.  A more enjoyable work environment\
+2.  Greater engagement in the work\
+3.  Conflict is managed in a healthy manner\
+4.  Contributions are celebrated and valued\
+5.  Inspires leadership - even among those who have no formal supervisory duties\
+6.  Attracts and retains the best talent
 
-[Trust is the foundation](https://www.youtube.com/watch?v=W5qQJhe7sLE) for a strong culture. 
+[Trust is the foundation](https://www.youtube.com/watch?v=W5qQJhe7sLE) for a strong culture.
 
 [Hyper-competitiveness](https://www.youtube.com/watch?v=jtpOYxsZj7o) can be destructive to individuals and to a strong culture.
 
-
 ## Principles
+
 <!-- ![](_img/values.jpg){height=300, align='center'} -->
+
 ## NOTE: This section is still being developed with the help of all Program Staff.
 
-
 #### Service
-[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement is science, **service**, and stewardship.  We are the Analytical **Services** Program. Therefore, we should strive to build a culture around service and adopt a service mindset by asking "How can I help?".    
 
-**Service** in practice...    
-* puts the needs of others first    
-* actively listens    
-* asks questions    
-* suspends judgement    
-* is [empathetic](https://www.indeed.com/career-advice/career-development/how-to-be-empathetic)    
-* helps resolve issues and challenges    
-* exhibits [self-awareness](https://www.indeed.com/career-advice/career-development/self-awareness-in-leadership)    
-* shares time, knowlegdge, expertise, and energy
+[NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement is science, **service**, and stewardship. We are the Analytical **Services** Program. Therefore, we should strive to build a culture around service and adopt a service mindset by asking "How can I help?".
 
-Even when the person being asked doesn't feel they need help,    
+**Service** in practice...\
+\* puts the needs of others first\
+\* actively listens\
+\* asks questions\
+\* suspends judgement\
+\* is [empathetic](https://www.indeed.com/career-advice/career-development/how-to-be-empathetic)\
+\* helps resolve issues and challenges\
+\* exhibits [self-awareness](https://www.indeed.com/career-advice/career-development/self-awareness-in-leadership)\
+\* shares time, knowlegdge, expertise, and energy
+
+Even when the person being asked doesn't feel they need help,\
 **asking `How can I help?` has multiple benefits** including:
 
-1. Making others feel supported    
-2. Reinforces the service mindset    
-3. Builds communication skills    
-4. Leads to broader opportunities for learning and growth    
-5. Produces better results    
-6. More positive about those you work with    
+1.  Making others feel supported\
+2.  Reinforces the service mindset\
+3.  Builds communication skills\
+4.  Leads to broader opportunities for learning and growth\
+5.  Produces better results\
+6.  More positive about those you work with
 
 #### Integrity
+
 #### Open-Mindedness
+
 #### Personal Development
+
 #### Science
+
 [NOAA's Mission](https://www.noaa.gov/our-mission-and-vision) statement also includes **science**.
 
 <!-- ## ![](_img/visionicon.png){height=50}Vision - Where are we going? -->
+
 <!-- <!-- ![](_img/visionicon.png){height=50, align= 'center'} -->
 
 <!-- Success for the Analytical Services Program will be gauged by how we are perceived by others. Success will be if others look to our Program for inspiration and collaboration.  -->
 
 <!-- * What does success look like for the team? -->
+
 <!-- * What is the future state of the team? What does it look like? -->
+
 <!-- * Answers the question: Where are you going? -->
+
 <!-- * If there were no constraints at all, what would things look like in 5 years, 10 years, 20 years? -->
+
 <!-- * What picture do we want to create for the future? -->
+
 <!-- * What legacy do we want to leave behind? -->
 
-## ![](_img/purpose_icon.png){height=100}Purpose - Why do we do this?
+## ![](_img/purpose_icon.png){height="100"}Purpose - Why do we do this?
 
 We firmly believe that economically and environmentally sustainable fisheries management:
 
-* Must rely on data collected directly from commercial fishing vessels    
-* The highest quality data is collected by scientific observers placed on commercial fishing vessels at sea or at shoreside processing plants    
-* Both shoreside landing receipts and electronic monitoring do, and will continue to, play an important supporting role in providing data for fisheries management
+-   Must rely on data collected directly from commercial fishing vessels\
+-   The highest quality data is collected by scientific observers placed on commercial fishing vessels at sea or at shoreside processing plants\
+-   Both shoreside landing receipts and electronic monitoring do, and will continue to, play an important supporting role in providing data for fisheries management
 
-We are committed to: 
+We are committed to:
 
-* Using all commercial fishing data sources, in combination with each other or other environmental or economic data when appropriate, to produce the best available science    
-* Developing high-quality science for use in fisheries management and to advance the fields of fisheries science and management    
-* Disseminating and communicating the best science based on these data    
-* Sharing our data, knowledge, and advice to the greatest extent possible    
-* Developing, enhancing, and fostering positive and strong collaborations among ourselves and our [stakeholders](the-big-picture.qmd#subsec-stakeholders)
+-   Using all commercial fishing data sources, in combination with each other or other environmental or economic data when appropriate, to produce the best available science\
 
-* What is the inspiration that guides and motivates the team to achieve the mission?
+-   Developing high-quality science for use in fisheries management and to advance the fields of fisheries science and management\
 
-## ![](_img/mission_icon.png){height=50}Mission - What do we do?
+-   Disseminating and communicating the best science based on these data\
+
+-   Sharing our data, knowledge, and advice to the greatest extent possible\
+
+-   Developing, enhancing, and fostering positive and strong collaborations among ourselves and our [stakeholders](the-big-picture.qmd#subsec-stakeholders)
+
+-   What is the inspiration that guides and motivates the team to achieve the mission?
+
+## ![](_img/mission_icon.png){height="50"}Mission - What do we do?
 
 Our mission is to provide the highest quality best available science for use in managing fisheries and marine resources.
 
 The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-Science^[Scientific products might include (but is not limited to) data, data products, software, web applications, summaries, reports, analyses, models, presentations and advice.  
-] from the FMA A-Team:
+Science[^the-big-picture-1] from the FMA A-Team:
 
-- is rigorous, quantitative, and best available;
-- based on statistics and evidence and;
-- aims for transparency & reproducibility.
+[^the-big-picture-1]: Scientific products might include (but is not limited to) data, data products, software, web applications, summaries, reports, analyses, models, presentations and advice.\
+
+-   is rigorous, quantitative, and best available;
+-   based on statistics and evidence and;
+-   aims for transparency & reproducibility.
 
 Service from the FMA A-Team:
 
-- is to provide the best-available science for use in decision-making;
-- based on clear, consistent and effective communication and collaboration;
-- aims to share data, knowledge, and information
+-   is to provide the best-available science for use in decision-making;
+-   based on clear, consistent and effective communication and collaboration;
+-   aims to share data, knowledge, and information
 
 Stewardship from the FMA A-Team:
 
-- is to protect living marine resources, commercial fisheries, and the people who work in, on, or with marine ecosystems;
-- based on the diverse skill set and evolving abilities of the people and leveraged technologies and;
-- aims to be rational, ethical, and equitable.
+-   is to protect living marine resources, commercial fisheries, and the people who work in, on, or with marine ecosystems;
+-   based on the diverse skill set and evolving abilities of the people and leveraged technologies and;
+-   aims to be rational, ethical, and equitable.
 
 What does the team aim to do to fulfill its purpose and achieve it's vision?
 
+## Internal Stakeholders {#subsec-stakeholders}
 
-## Internal Stakeholders{#subsec-stakeholders}
 Internal stakeholders include:
 
-  * Each other (ASP staff)
-  * FMA Staff    
-  * AFSC Staff    
-  * NOAA Staff
+-   Each other (ASP staff)
+-   FMA Staff\
+-   AFSC Staff\
+-   NOAA Staff
 
 ## External Stakeholders
-External stakeholders often include, but are not limited to:    
 
-* [NPFMC](https://www.npfmc.org/) and [advisory bodies](https://www.npfmc.org/about-the-council/advisory-groups/)    
-* Academics and other researchers    
-* ADFG and other AK State personnel    
-* NGO's    
-* The U.S. Public
+External stakeholders often include, but are not limited to:
 
-Alaska Native's and U.S. Federally recognized Tribal Nations are not stakeholders.  They are co-owners and co-managers of the resource. Find out more [here](https://www.noaa.gov/sites/default/files/2023-06/NOAA_Tribal_Consultation_Handbook%202023_FINAL.pdf).
+-   [NPFMC](https://www.npfmc.org/) and [advisory bodies](https://www.npfmc.org/about-the-council/advisory-groups/)\
+-   Academics and other researchers\
+-   ADFG and other AK State personnel\
+-   NGO's\
+-   The U.S. Public
+
+Alaska Native's and U.S. Federally recognized Tribal Nations are not stakeholders. They are co-owners and co-managers of the resource. Find out more [here](https://www.noaa.gov/sites/default/files/2023-06/NOAA_Tribal_Consultation_Handbook%202023_FINAL.pdf).
