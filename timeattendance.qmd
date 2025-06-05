@@ -1,6 +1,9 @@
 ---
 title: "Schedules, Leave, Duties, Performance"
 ---
+```{r, echo=FALSE}
+today <- as.character(Sys.Date())
+```
 ## Schedules, Time & Attendance
 #### non-Federal employees
 Guidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.
@@ -13,20 +16,23 @@ You should:
 * work with the Program Manager to set your work schedule    
 * familiarize yourself with the definitions and rules around [Alternative Work Schedules](https://drive.google.com/file/d/1VlxkCEHZEdQd2pfGu9Bud5QZDUudqioa/view?pli=1)    
 * fill out an [Employee Work Schedule Form](https://drive.google.com/file/d/1SvyTE2M6lQ0dcX5w3b0f7CJNxU6zDFDy/view?usp=share_link)    
-* fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view)    
-* fill out a [Telework Safety Checklist](https://drive.google.com/file/d/198EkLWjTkQIOVQ1z7eD9eBf5z74Orfah/view)
-* fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform)
-* take Telework Training in the [Common Learning Center]( https://doc.csod.com/client/doc/default.aspx)    
+<!-- * fill out a [Telework Application Agreement](https://drive.google.com/file/d/19oABvmjMgRX4az-9U1Ijgd3ux5BwmHQw/view) -->    
+<!--* fill out a [Telework Safety Checklist](https://drive.google.com/file/d/198EkLWjTkQIOVQ1z7eD9eBf5z74Orfah/view) -->
+<!--* fill out a [Telework Application Routing form](https://docs.google.com/forms/d/e/1FAIpQLSchGHo2aulpw4md1jFiEAnAtQ9NS-idmG9gJ_ngqlB-MQj3_w/viewform) -->
+<!--* take Telework Training in the [Common Learning Center]( https://doc.csod.com/client/doc/default.aspx) -->   
 
 **Telework Policy for NOAA FTEs - please note the following**
 
-1. You are currently (`r Sys.Date()`) required to be in the office 2 days per pay period.    
+The new DOC telework policy can be used now by non-bargaining unit employees. The union has bargaining rights for Impact and Implementation which is currently (`{r} today`) being negotiated.
+ 
+<!--1. You are currently (`{r} today`) required to be in the office 2 days per pay period.    
 2. If you change your work hours within a given day by more than 1 hour, you must notify the Program Manger.    
 3. Telework is a privilege which can be revoked.    
 4. If you are called into the office from telework status for any reason at any time during your normal teleworking hours, your commute to the office is *non-work* time and should *not* be recorded on your time sheet.    
     * For example, your work computer becomes inoperable and AFSC Help Desk indicates that you need to bring it to the AFSC to have it fixed.  Your travel time to the AFSC is not to be recorded as work time.
 
 Forms and information can be found on the [myAFSC Time and Attendance page](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
+-->
 
   [Time and Attendance Resources](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance)
 
