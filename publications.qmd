@@ -1,11 +1,17 @@
 # Publications by FMA Analytical Services {#sec-publications}![](_img/journalarticleicon.png){height=70}
 
 ## Peer-Reviewed Publications
+### 2025
+
+* Gasper, J. and J. Cahalan. 2025. [Utilizing the random forest algorithm and interpretable machine learning to inform post-stratification of commercial fisheries data. Fisheries Research 281(107253)](https://doi.org/10.1016/j.fishres.2024.107253)
+
 ### 2024
+
+* Jeroue, L, C. Faunce, A. Kingham, J. Smith. 2024. [Estimates of disclosure and vitimization rates for fishery observers in the maritime workplace. Frontiers in Marine Science 11](https://doi.org/10.3389/fmars.2024.1461655)
 
 ### 2023
 
-* Cheng, M L H, C. J. Rodgveller, J. A. Langan, C. J Cunningham. 2023. [Standardizing fishery-dependent catch-rate information across gears and data collection programs for Alaska sablefish (*Anoplopoma fimbria*). ICES J. Mar. Sci. 80(4):1028 - 1042](https://doi.org/10.1093/icesjms/fsad037).
+* Cheng, M.L.H. C.J. Rodgveller, J.A. Langan, C.J Cunningham. 2023. [Standardizing fishery-dependent catch-rate information across gears and data collection programs for Alaska sablefish (*Anoplopoma fimbria*). ICES J. Mar. Sci. 80(4):1028 - 1042](https://doi.org/10.1093/icesjms/fsad037).
 
 * Faunce, C., J. Smith, A. Kingham, D. Jaszka. 2023. [Fisheries observers as enforcement assets: 21 Years of lessons from the North Pacific. Marine Policy 158: 1-12](https://doi.org/10.1016/j.marpol.2023.105868). See also [WebStory](https://www.fisheries.noaa.gov/feature-story/advancing-transparency-fisheries-monitoring-and-enforcement)
 
